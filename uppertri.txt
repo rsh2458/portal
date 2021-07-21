@@ -66,4 +66,3 @@
 /stor/work/Ochman/rowan/projects/Salmonella_phylogeny/ANI_cluster/Not_Enterica/Bongori_GCA_000709535.1_ASM70953v1_genomic.fna	98.965851	98.954842
 /stor/work/Ochman/rowan/projects/Salmonella_phylogeny/ANI_cluster/Not_Enterica/Bongori_GCA_000439255.1_ASM43925v1_genomic.fna	99.312195
 /stor/work/Ochman/rowan/projects/Salmonella_phylogeny/ANI_cluster/Not_Enterica/Bongori_GCA_000252995.1_ASM25299v1_genomic.fna
-68
