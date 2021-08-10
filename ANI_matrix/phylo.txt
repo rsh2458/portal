@@ -1,4 +1,3 @@
-101
 /stor/work/Ochman/rowan/projects/Salmonella_phylogeny/confirmed_genomes/New_ANI/A1_GCA_002211925.1_ASM221192v1_genomic.fna
 /stor/work/Ochman/rowan/projects/Salmonella_phylogeny/confirmed_genomes/New_ANI/A2_GCA_000252995.1_ASM25299v1_genomic.fna	99.999138
 /stor/work/Ochman/rowan/projects/Salmonella_phylogeny/confirmed_genomes/New_ANI/A3_GCA_009648775.1_ASM964877v1_genomic.fna	99.997589	99.997688
