@@ -1,0 +1,177 @@
+Ectocarpus siliculosus
+Cryptomonas paramecium
+Bremia lactucae
+Crithidia fasciculata
+Leishmania amazonensis
+Leishmania braziliensis
+Leishmania braziliensis
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania enriettii
+Leishmania enriettii
+Leishmania major
+Leishmania tropica
+Leishmania guyanensis
+Leishmania infantum
+Leishmania infantum
+Leishmania infantum
+Leishmania adleri
+Leishmania panamensis
+Leishmania peruviana
+Leishmania peruviana
+Trypanosoma brucei
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma evansi
+Endotrypanum monterogeii
+Giardia intestinalis
+Giardia muris
+Entamoeba histolytica
+Naegleria fowleri
+Eimeria tenella
+Eimeria tenella
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Plasmodium berghei
+Plasmodium berghei
+Plasmodium berghei
+Plasmodium berghei
+Plasmodium berghei
+Plasmodium berghei ANKA
+Plasmodium chabaudi adami
+Plasmodium chabaudi adami
+Plasmodium cynomolgi
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium knowlesi
+Plasmodium knowlesi strain H
+Plasmodium reichenowi
+Plasmodium reichenowi
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium malariae
+Plasmodium malariae
+Plasmodium vinckei
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Babesia bigemina
+Theileria equi
+Theileria annulata
+Tetrahymena thermophila
+Neospora caninum
+Neospora caninum
+Plasmodium chabaudi chabaudi
+Plasmodium chabaudi chabaudi
+Plasmodium chabaudi chabaudi
+Plasmodium falciparum 3D7
+Plasmodium falciparum 3D7
+Plasmodium ovale
+Plasmodium ovale
+Isochrysis galbana
+Leishmania arabica
+Leishmania chagasi
+Leishmania chagasi
+Plasmodium vinckei vinckei
+Plasmodium vinckei vinckei
+Guillardia theta
+Angomonas deanei
+Theileria orientalis
+Theileria orientalis
+Theileria orientalis
+Nannochloropsis gaditana
+Nannochloropsis gaditana
+Undaria pinnatifida
+Plasmodium relictum
+Besnoitia besnoiti
+Plasmodium vinckei brucechwatti
+Plasmodium vinckei brucechwatti
+Plasmodium vinckei lentum
+Plasmodium vinckei petteri
+Plasmodium vinckei petteri
+Nannochloropsis oceanica
+Nannochloropsis oceanica
+Nannochloropsis oceanica
+Trypanosoma brucei brucei TREU927
+Fragilariopsis kerguelensis
+Plasmodium coatneyi
+Plasmodium coatneyi
+Bigelowiella natans
+Cryptosporidium hominis
+Plasmodium yoelii killicki
+Plasmodium yoelii killicki
+Thalassiosira pseudonana CCMP1335
+Theileria parva strain Muguga
+Leishmania major strain Friedlin
+Leishmania major strain Friedlin
+Leishmania major strain Friedlin
+Spironucleus salmonicida
+Dictyostelium discoideum AX4
+Cryptosporidium parvum Iowa II
+Leishmania braziliensis MHOM/BR/75/M2904
+Leishmania braziliensis MHOM/BR/75/M2904
+Leishmania infantum JPCM5
+Hemiselmis andersenii
+Babesia bovis T2Bo
+Toxoplasma gondii ME49
+Peronospora effusa
+Phaeodactylum tricornutum CCAP 1055/1
+Neospora caninum Liverpool
+Trypanosoma brucei equiperdum
+Lotharella oceanica
+Plasmodium gaboni
+Trypanosoma brucei gambiense DAL972
+Plasmodium sp. DRC-Itaito
+Plasmodium sp. DRC-Itaito
+Theileria orientalis strain Shintoku
+Plasmodium sp. gorilla clade G1
+Plasmodium sp. gorilla clade G2
+Plasmodium sp. gorilla clade G3
+Leishmania mexicana MHOM/GT/2001/U1103
+Plasmodium cynomolgi strain B
+Babesia microti strain RI
+Chroomonas mesostigmatica CCMP1168
+Leishmania aethiopica L147
+Leishmania braziliensis MHOM/BR/75/M2903
+Leishmania sp. MAR LEM2494
+Theileria equi strain WA
+Leishmania martiniquensis
+Ectocarpus sp. Ec32
+Leishmania orientalis
+Porcisia hertigi
+Leishmania sp. Namibia
+Leishmania sp. Ghana 2012 LV757
