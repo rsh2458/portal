@@ -1,0 +1,144 @@
+
+organism_name
+Citrus sinensis
+Chondrus crispus
+Chlamydomonas reinhardtii
+Volvox carteri f. nagariensis
+Auxenochlorella protothecoides
+Physcomitrium patens
+Papaver somniferum
+Cannabis sativa
+Beta vulgaris subsp. vulgaris
+Spinacia oleracea
+Gossypium hirsutum
+Theobroma cacao
+Carica papaya
+Cucumis melo
+Cucumis sativus
+Cucurbita maxima
+Cucurbita moschata
+Cucurbita pepo subsp. pepo
+Momordica charantia
+Populus trichocarpa
+Arabidopsis thaliana
+Brassica napus
+Brassica rapa
+Raphanus sativus
+Malus domestica
+Prunus dulcis
+Prunus persica
+Abrus precatorius
+Arachis hypogaea
+Cajanus cajan
+Cicer arietinum
+Glycine max
+Glycine soja
+Lupinus angustifolius
+Medicago truncatula
+Phaseolus vulgaris
+Vigna angularis
+Vigna radiata var. radiata
+Vigna unguiculata
+Hevea brasiliensis
+Manihot esculenta
+Ricinus communis
+Capsicum annuum
+Solanum lycopersicum
+Nicotiana sylvestris
+Nicotiana tabacum
+Nicotiana tomentosiformis
+Solanum tuberosum
+Erythranthe guttata
+Sesamum indicum
+Helianthus annuus
+Lactuca sativa
+Nelumbo nucifera
+Camellia sinensis
+Oryza brachyantha
+Setaria italica
+Setaria viridis
+Sorghum bicolor
+Triticum aestivum
+Zea mays
+Ananas comosus
+Asparagus officinalis
+Amborella trichopoda
+Coffea arabica
+Brachypodium distachyon
+Punica granatum
+Solanum pennellii
+Tarenaya hassleriana
+Gossypium arboreum
+Gossypium raimondii
+Vitis vinifera
+Mangifera indica
+Carya illinoinensis
+Ipomoea nil
+Ipomoea triloba
+Panicum virgatum
+Oryza sativa Japonica Group
+Bathycoccus prasinos
+Prunus avium
+Phoenix dactylifera
+Populus alba
+Coffea eugenioides
+Nicotiana attenuata
+Juglans regia
+Elaeis guineensis
+Telopea speciosissima
+Pistacia vera
+Dioscorea cayenensis subsp. rotundata
+Trifolium pratense
+Quercus suber
+Cynara cardunculus var. scolymus
+Macadamia integrifolia
+Chenopodium quinoa
+Durio zibethinus
+Ostreococcus tauri
+Eucalyptus grandis
+Eutrema salsugineum
+Erigeron canadensis
+Rosa chinensis
+Populus euphratica
+Phalaenopsis equestris
+Daucus carota subsp. sativus
+Arabidopsis lyrata subsp. lyrata
+Capsella rubella
+Citrus clementina
+Triticum dicoccoides
+Selaginella moellendorffii
+Camelina sativa
+Zingiber officinale
+Vitis riparia
+Quercus lobata
+Fragaria vesca subsp. vesca
+Prunus mume
+Benincasa hispida
+Hibiscus syriacus
+Herrania umbratica
+Brassica oleracea var. oleracea
+Hordeum vulgare subsp. vulgare
+Galdieria sulphuraria
+Arachis duranensis
+Arachis ipaensis
+Monoraphidium neglectum
+Olea europaea var. sylvestris
+Jatropha curcas
+Salvia splendens
+Aegilops tauschii subsp. strangulata
+Panicum hallii
+Prosopis alba
+Nymphaea colorata
+Musa acuminata subsp. malaccensis
+Pyrus x bretschneideri
+Cyanidioschyzon merolae strain 10D
+Micromonas commoda
+Ziziphus jujuba
+Ostreococcus lucimarinus CCE9901
+Tripterygium wilfordii
+Chlorella variabilis
+Micromonas pusilla CCMP1545
+Coccomyxa subellipsoidea C-169
+Dendrobium catenatum
+Morus notabilis
+Juglans microcarpa x Juglans regia

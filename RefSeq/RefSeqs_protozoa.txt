@@ -1,0 +1,98 @@
+
+organism_name
+Cryptomonas paramecium
+Plasmopara halstedii
+Leishmania donovani
+Leishmania panamensis
+Trypanosoma rangeli
+Giardia intestinalis
+Naegleria gruberi
+Naegleria fowleri
+Dictyostelium purpureum
+Eimeria acervulina
+Eimeria tenella
+Eimeria maxima
+Plasmodium berghei ANKA
+Plasmodium gallinaceum
+Plasmodium knowlesi strain H
+Plasmodium reichenowi
+Plasmodium vivax
+Plasmodium fragile
+Plasmodium malariae
+Plasmodium yoelii
+Babesia bigemina
+Theileria annulata
+Ichthyophthirius multifiliis
+Blastocystis hominis
+Plasmodium chabaudi chabaudi
+Plasmodium falciparum 3D7
+Aureococcus anophagefferens
+Eimeria mitis
+Eimeria necatrix
+Naegleria lovaniensis
+Plasmodium vinckei vinckei
+Guillardia theta
+Trypanosoma theileri
+Phytophthora sojae
+Trypanosoma grayi
+Plasmodium gonderi
+Trypanosoma conorhini
+Plasmodium relictum
+Cyclospora cayetanensis
+Besnoitia besnoiti
+Gregarina niphandrodes
+Aphanomyces astaci
+Aphanomyces invadans
+Leptomonas pyrrhocoris
+Trypanosoma brucei brucei TREU927
+Babesia ovata
+Plasmodium coatneyi
+Bigelowiella natans
+Cavenderia fasciculata
+Emiliania huxleyi CCMP1516
+Entamoeba histolytica HM-1:IMSS
+Thalassiosira pseudonana CCMP1335
+Tetrahymena thermophila SB210
+Theileria parva strain Muguga
+Leishmania major strain Friedlin
+Dictyostelium discoideum AX4
+Cryptosporidium hominis TU502
+Cryptosporidium parvum Iowa II
+Trypanosoma cruzi strain CL Brener
+Entamoeba dispar SAW760
+Entamoeba invadens IP1
+Phytophthora infestans T30-4
+Paramecium tetraurelia strain d4-2
+Paramecium tetraurelia strain d4-2
+Trichomonas vaginalis G3
+Leishmania braziliensis MHOM/BR/75/M2904
+Perkinsus marinus ATCC 50983
+Leishmania infantum JPCM5
+Cryptosporidium muris RN66
+Thecamonas trahens ATCC 50062
+Babesia sp. Xinjiang
+Hemiselmis andersenii
+Babesia bovis T2Bo
+Toxoplasma gondii ME49
+Phaeodactylum tricornutum CCAP 1055/1
+Neospora caninum Liverpool
+Plasmodium gaboni
+Heterostelium album PN500
+Trypanosoma brucei gambiense DAL972
+Saprolegnia parasitica CBS 223.65
+Phytophthora parasitica INRA-310
+Cryptosporidium ubiquitum
+Theileria orientalis strain Shintoku
+Plasmodium sp. gorilla clade G2
+Guillardia theta CCMP2712
+Leishmania mexicana MHOM/GT/2001/U1103
+Blastocystis sp. subtype 4
+Entamoeba nuttalli P19
+Nannochloropsis gaditana CCMP526
+Plasmodium cynomolgi strain B
+Babesia microti strain RI
+Saprolegnia diclina VS20
+Plasmodium inui San Antonio 1
+Acanthamoeba castellanii str. Neff
+Acytostelium subglobosum LB1
+Theileria equi strain WA
