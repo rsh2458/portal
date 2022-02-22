@@ -1,0 +1,1188 @@
+
+organism_name
+Cyanophora paradoxa
+Skeletonema costatum
+Cylindrotheca fusiformis
+Ectocarpus siliculosus
+Cryptomonas paramecium
+Symbiodinium microadriaticum
+Symbiodinium microadriaticum
+Symbiodinium microadriaticum
+Symbiodinium pilosum
+Amphidinium carterae
+Ochromonas danica
+Hydrurus foetidus
+Euglena gracilis
+Bremia lactucae
+Plasmopara halstedii
+Plasmopara halstedii
+Plasmopara halstedii
+Plasmopara halstedii
+Plasmopara halstedii
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora capsici
+Phytophthora cinnamomi
+Phytophthora cinnamomi
+Phytophthora cinnamomi
+Phytophthora cinnamomi
+Phytophthora cinnamomi
+Phytophthora cryptogea
+Phytophthora infestans
+Phytophthora infestans
+Phytophthora infestans
+Phytophthora infestans
+Phytophthora nicotianae
+Phytophthora nicotianae
+Phytophthora nicotianae
+Phytophthora nicotianae
+Phytophthora parasitica
+Phytophthora parasitica
+Phytophthora parasitica
+Phytophthora parasitica
+Phytophthora megakarya
+Phytophthora palmivora
+Phytophthora palmivora
+Lagenidium giganteum
+Lagenidium giganteum
+Crithidia fasciculata
+Strigomonas oncopelti
+Leishmania amazonensis
+Leishmania amazonensis
+Leishmania amazonensis
+Leishmania braziliensis
+Leishmania braziliensis
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania donovani
+Leishmania enriettii
+Leishmania enriettii
+Leishmania major
+Leishmania mexicana
+Leishmania tropica
+Leishmania tropica
+Leishmania tropica
+Leishmania tropica
+Leishmania aethiopica
+Leishmania guyanensis
+Leishmania guyanensis
+Leishmania infantum
+Leishmania infantum
+Leishmania infantum
+Leishmania infantum
+Leishmania infantum
+Leishmania adleri
+Leishmania lainsoni
+Leishmania panamensis
+Leishmania peruviana
+Leishmania peruviana
+Leptomonas seymouri
+Leishmania tarentolae
+Leishmania tarentolae
+Trypanosoma brucei
+Trypanosoma congolense
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma cruzi
+Trypanosoma equiperdum
+Trypanosoma evansi
+Trypanosoma rangeli
+Trypanosoma vivax
+Trypanosoma vivax
+Trypanosoma brucei brucei
+Endotrypanum monterogeii
+Endotrypanum monterogeii
+Herpetomonas muscarum
+Trichomonas vaginalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia intestinalis
+Giardia muris
+Acanthamoeba castellanii
+Acanthamoeba castellanii
+Acanthamoeba castellanii
+Acanthamoeba castellanii
+Acanthamoeba castellanii
+Acanthamoeba polyphaga
+Acanthamoeba polyphaga
+Entamoeba histolytica
+Entamoeba histolytica
+Naegleria gruberi
+Naegleria fowleri
+Naegleria fowleri
+Naegleria fowleri
+Naegleria fowleri
+Naegleria fowleri
+Vermamoeba vermiformis
+Dictyostelium purpureum
+Dictyostelium purpureum
+Physarum polycephalum
+Eimeria acervulina
+Eimeria tenella
+Eimeria tenella
+Eimeria tenella
+Eimeria maxima
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Cryptosporidium parvum
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Toxoplasma gondii
+Plasmodium berghei
+Plasmodium berghei
+Plasmodium berghei
+Plasmodium berghei
+Plasmodium berghei
+Plasmodium berghei ANKA
+Plasmodium brasilianum
+Plasmodium chabaudi adami
+Plasmodium chabaudi adami
+Plasmodium cynomolgi
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum
+Plasmodium falciparum RO-33
+Plasmodium falciparum CAMP/Malaysia
+Plasmodium falciparum K1
+Plasmodium falciparum NF54
+Plasmodium falciparum NF54
+Plasmodium falciparum NF54
+Plasmodium gallinaceum
+Plasmodium knowlesi
+Plasmodium knowlesi
+Plasmodium knowlesi strain H
+Plasmodium knowlesi strain H
+Plasmodium knowlesi strain H
+Plasmodium reichenowi
+Plasmodium reichenowi
+Plasmodium reichenowi
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium vivax
+Plasmodium fragile
+Plasmodium malariae
+Plasmodium malariae
+Plasmodium malariae
+Plasmodium vinckei
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Plasmodium yoelii
+Babesia bovis
+Babesia bovis
+Babesia bigemina
+Babesia bigemina
+Babesia bigemina
+Babesia bigemina
+Babesia microti
+Babesia microti
+Babesia microti
+Babesia microti
+Babesia microti
+Babesia microti
+Theileria equi
+Theileria annulata
+Theileria parva
+Theileria parva
+Theileria parva
+Paramecium caudatum
+Paramecium primaurelia
+Paramecium tetraurelia
+Tetrahymena borealis
+Tetrahymena thermophila
+Ichthyophthirius multifiliis
+Moneuplotes crassus
+Euplotes woodruffi
+Stylonychia lemnae
+Stentor coeruleus
+Halteria grandinella
+Blastocystis hominis
+Blastocystis hominis
+Cryptosporidium baileyi
+Cytauxzoon felis
+Strigomonas culicis
+Strigomonas culicis
+Acanthamoeba palestinensis
+Neospora caninum
+Neospora caninum
+Neospora caninum
+Acanthamoeba lenticulata
+Acanthamoeba lenticulata
+Acanthamoeba lenticulata
+Cyclotella cryptica
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Phytophthora cactorum
+Plasmodium chabaudi chabaudi
+Plasmodium chabaudi chabaudi
+Plasmodium chabaudi chabaudi
+Plasmodium yoelii nigeriensis
+Babesia divergens
+Babesia divergens
+Perkinsus olseni
+Perkinsus olseni
+Perkinsus olseni
+Perkinsus olseni
+Perkinsus olseni
+Acanthamoeba rhysodes
+Acanthamoeba royreba
+Asterionellopsis glacialis
+Cafeteria roenbergensis
+Cafeteria roenbergensis
+Cafeteria roenbergensis
+Cafeteria roenbergensis
+Macrocystis pyrifera
+Pelagomonas calceolata
+Pelagococcus subviridis
+Plasmodium falciparum 3D7
+Plasmodium falciparum 3D7
+Plasmodium ovale
+Plasmodium ovale
+Globisporangium irregulare
+Euplotes focardii
+Isochrysis galbana
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Plasmodiophora brassicae
+Prorocentrum minimum
+Leishmania arabica
+Leishmania gerbilli
+Condylostoma magnum
+Pythium oligandrum
+Pythium oligandrum
+Pythium oligandrum
+Pythium oligandrum
+Polymyxa betae
+Entamoeba moshkovskii
+Hyphochytrium catenoides
+Hyphochytrium catenoides
+Thraustochytrium aureum
+Proteromonas lacertae
+Sarcocystis neurona
+Sarcocystis neurona
+Trichomonas tenax
+Paramecium octaurelia
+Paramecium pentaurelia
+Acanthamoeba culbertsoni
+Aureococcus anophagefferens
+Aureococcus anophagefferens
+Aureococcus anophagefferens
+Aureococcus anophagefferens
+Leishmania chagasi
+Leishmania chagasi
+Leishmania chagasi
+Leishmania chagasi
+Eimeria mitis
+Eimeria nieschulzi
+Astrammina rara
+Reticulomyxa filosa
+Entodinium caudatum
+Fucus vesiculosus
+Eimeria brunetti
+Eimeria necatrix
+Eimeria praecox
+Naegleria lovaniensis
+Willaertia magna
+Mallomonas annulata
+Phytophthora cambivora
+Phytophthora citricola
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora fragariae
+Phytophthora idaei
+Phytophthora idaei
+Phytophthora idaei
+Plasmodium vinckei vinckei
+Plasmodium vinckei vinckei
+Plasmodium vinckei vinckei
+Guillardia theta
+Trichomonas gallinae
+Plasmodium falciparum 7G8
+Plasmodium falciparum Dd2
+Plasmodium falciparum Palo Alto/Uganda
+Crithidia acanthocephali
+Angomonas deanei
+Angomonas deanei
+Angomonas deanei
+Angomonas deanei
+Angomonas desouzai
+Acanthamoeba lugdunensis
+Leishmania turanica
+Paramecium biaurelia
+Paramecium sexaurelia
+Paramecium sonneborni
+Albugo candida
+Albugo candida
+Albugo candida
+Albugo candida
+Albugo candida
+Albugo candida
+Albugo candida
+Albugo candida
+Acanthamoeba astronyxis
+Acanthamoeba comandoni
+Acanthamoeba healyi
+Acanthamoeba pearcei
+Balamuthia mandrillaris
+Balamuthia mandrillaris
+Trypanosoma theileri
+Phytophthora macrochlamydospora
+Phytophthora sojae
+Phytophthora sojae
+Phytophthora syringae
+Phytophthora vignae
+Theileria orientalis
+Theileria orientalis
+Theileria orientalis
+Spongospora subterranea
+Trypanosoma grayi
+Nannochloropsis gaditana
+Nannochloropsis gaditana
+Nannochloropsis gaditana
+Plasmodium yoelii yoelii
+Undaria pinnatifida
+Undaria pinnatifida
+Thraustotheca clavata
+Paramecium bursaria
+Paramecium bursaria
+Paramecium bursaria
+Paramecium bursaria
+Paramecium bursaria
+Paramecium bursaria
+Paramecium bursaria
+Paramecium bursaria
+Bodo saltans
+Plasmodium gonderi
+Phytophthora quercina
+Phytophthora gonapodyides
+Dictyostelium firmibasis
+Globisporangium splendens
+Pythium myriotylum
+Pythium periplocum
+Cryptosporidium felis
+Trypanosoma conorhini
+Eimeria falciformis
+Trypanosoma cruzi marinkellei
+Trypanosoma cruzi cruzi
+Plasmodium relictum
+Peronospora destructor
+Saccharina japonica
+Saccharina japonica
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Cyclospora cayetanensis
+Polarella glacialis
+Polarella glacialis
+Diplonema papillatum
+Cryptosporidium meleagridis
+Cryptosporidium meleagridis
+Cryptosporidium meleagridis
+Sterkiella histriomuscorum
+Besnoitia besnoiti
+Chromulina nebulosa
+Hammondia hammondi
+Hammondia hammondi
+Aphanomyces euteiches
+Aphanomyces euteiches
+Aphanomyces euteiches
+Aphanomyces euteiches
+Aphanomyces euteiches
+Aphanomyces euteiches
+Aphanomyces euteiches
+Phytophthora litchii
+Symbiodinium kawagutii
+Mastigamoeba balamuthi
+Mastigamoeba balamuthi
+Phytophthora boehmeriae
+Phytophthora boehmeriae
+Gregarina niphandrodes
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces astaci
+Aphanomyces cochlioides
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Pythium insidiosum
+Cryptosporidium andersoni
+Cryptosporidium andersoni
+Cryptosporidium andersoni
+Rhabdomonas costata
+Plasmodium vinckei brucechwatti
+Plasmodium vinckei brucechwatti
+Phytophthora melonis
+Aphanomyces stellatus
+Aphanomyces stellatus
+Aphanomyces stellatus
+Nannochloropsis limnetica
+Chrysochromulina parva
+Phytophthora colocasiae
+Phytophthora colocasiae
+Phytophthora colocasiae
+Phytophthora lateralis
+Phytophthora lateralis
+Phytophthora rubi
+Phytophthora rubi
+Phytophthora rubi
+Phytophthora rubi
+Phytophthora rubi
+Diophrys appendiculata
+Acytostelium leptosomum
+Polysphondylium violaceum
+Phytomonas sp. isolate EM1
+Phytomonas sp. isolate Hart1
+Phytophthora quininea
+Histomonas meleagridis
+Histomonas meleagridis
+Plasmodium falciparum HB3
+Plasmodium vinckei lentum
+Plasmodium vinckei petteri
+Plasmodium vinckei petteri
+Plasmodium vinckei petteri
+Coremiostelium polycephalum
+Plasmopara viticola
+Plasmopara viticola
+Plasmopara viticola
+Pseudoperonospora cubensis
+Nannochloropsis oceanica
+Nannochloropsis oceanica
+Nannochloropsis oceanica
+Nannochloropsis oceanica
+Acanthamoeba triangularis
+Aphanomyces invadans
+Aphanomyces invadans
+Leptomonas pyrrhocoris
+Euglena gracilis var. bacillaris
+Ascogregarina taiwanensis
+Thalassiosira oceanica
+Thalassiosira oceanica
+Pseudoperonospora humuli
+Hyaloperonospora brassicae
+Hyaloperonospora brassicae
+Sclerospora graminicola
+Sclerospora graminicola
+Plasmopara obducens
+Plasmopara obducens
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Phytophthora ramorum
+Neovahlkampfia damariscottae
+Pinguiococcus pyrenoidosus
+Phytophthora hibernalis
+Euplotes sp.
+Paramoeba pemaquidensis
+Euplotes parawoodruffi
+Pseudo-nitzschia multistriata
+Trypanosoma brucei brucei TREU927
+Fragilariopsis kerguelensis
+Babesia ovata
+Acanthamoeba mauritaniensis
+Carpediemonas membranifera
+Acanthamoeba divionensis
+Plasmodium coatneyi
+Plasmodium coatneyi
+Asterionella formosa
+Acanthamoeba quina
+Phytophthora pseudosyringae
+Phytophthora pseudosyringae
+Streblomastix strix
+Bigelowiella natans
+Peronospora tabacina
+Symbiodinium sp. KB8
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Cryptosporidium hominis
+Phytophthora vignae f. sp. adzukicola
+Cavenderia fasciculata
+Chaetoceros muellerii
+Pseudocohnilembus persalinus
+Hyaloperonospora arabidopsidis
+Hyaloperonospora arabidopsidis
+Emiliania huxleyi CCMP1516
+Plasmodium yoelii killicki
+Plasmodium yoelii killicki
+Crithidia bombi
+Crithidia bombi
+Crithidia bombi
+Entamoeba histolytica HM-1:IMSS
+Entamoeba histolytica HM-1:IMSS
+Thalassiosira pseudonana CCMP1335
+Licmophora abbreviata
+Phytophthora x alni
+Tribonema minus
+Nitzschia palea
+Nitzschia inconspicua
+Dictyostelium rosarium
+Cladosiphon okamuranus
+Cryptosporidium bovis
+Cryptosporidium bovis
+Pseudokeronopsis flava
+Tetrahymena thermophila SB210
+Tetrahymena thermophila SB210
+Phytophthora kernoviae
+Phytophthora kernoviae
+Phytophthora kernoviae
+Phytophthora kernoviae
+Phytophthora kernoviae
+Phytophthora kernoviae
+Phytophthora kernoviae
+Phytophthora kernoviae
+Phytophthora kernoviae
+Perkinsus chesapeaki
+Certesia quadrinucleata
+Theileria parva strain Muguga
+Leishmania major strain Friedlin
+Leishmania major strain Friedlin
+Leishmania major strain Friedlin
+Leishmania major strain Friedlin
+Spironucleus salmonicida
+Dictyostelium discoideum AX4
+Cryptosporidium hominis TU502
+Cryptosporidium parvum Iowa II
+Strombidium stylifer
+Halocafeteria seosinensis
+Dictyostelium brefeldianum
+Dictyostelium capitatum
+Dictyostelium citrinum
+Dictyostelium intermedium
+Tieghemostelium lacteum
+Synstelium polycarpum
+Speleostelium caveatum
+Cavenderia deminutiva
+Rostrostelium ellipticum
+Trypanosoma cruzi strain Esmeraldo
+Entamoeba dispar SAW760
+Entamoeba invadens IP1
+Toxoplasma gondii RH
+Pseudokeronopsis carnea
+Phytophthora infestans T30-4
+Trichomonas vaginalis G3
+Leishmania braziliensis MHOM/BR/75/M2904
+Leishmania braziliensis MHOM/BR/75/M2904
+Perkinsus marinus ATCC 50983
+Chaetoceros tenuissimus
+Trypanosoma rangeli SC58
+Pythium guiyangense
+Blastocystis sp. subtype 8
+Globisporangium ultimum DAOM BR144
+Toxoplasma gondii VEG
+Leishmania infantum JPCM5
+Uronychia binucleata
+Uronychia setigera
+Cryptosporidium muris RN66
+Dinobryon divergens
+Thecamonas trahens ATCC 50062
+Babesia sp. Xinjiang
+Hemiselmis andersenii
+Protostelium mycophagum
+Cardiosporidium cionae
+Blastocystis sp. ATCC 50177/Nand II
+Plasmodium falciparum Santa Lucia
+Plasmodium falciparum D6
+Plasmodium falciparum D10
+Plasmodium falciparum FCC-2/Hainan
+Plasmodium falciparum Senegal_V34.04
+Plasmodium falciparum VS/1
+Cystoisospora suis
+Babesia bovis T2Bo
+Chromera velia
+Andalucia godoyi
+Toxoplasma gondii GT1
+Phytophthora ohioensis (nom. inval.)
+Toxoplasma gondii ME49
+Cryptosporidium ryanae
+Psammoneis japonica
+Poterioochromonas sp. DS
+Phytophthora pinifolia
+Peronospora effusa
+Peronospora effusa
+Peronospora effusa
+Peronospora effusa
+Peronospora effusa
+Peronospora effusa
+Peronospora effusa
+Phaeodactylum tricornutum CCAP 1055/1
+Hyaloperonospora arabidopsidis Emoy2
+Schizochytrium sp. TIO01
+Cryptosporidium cuniculus
+Neospora caninum Liverpool
+Plasmodium falciparum RAJ116
+Plasmodium falciparum IGH-CR14
+Phytophthora multivora
+Phytophthora multivora
+Giardia intestinalis ATCC 50581
+Phytophthora palmivora var. palmivora
+Phytophthora cinnamomi var. cinnamomi
+Peronospora belbahrii
+Peronospora belbahrii
+Trypanosoma brucei equiperdum
+Symbiodinium sp. CCMP2592
+Fragilariopsis cylindrus CCMP1102
+Fragilariopsis cylindrus CCMP1102
+Phytophthora plurivora
+Lotharella oceanica
+Plasmodium gaboni
+Plasmodium gaboni
+Albugo laibachii
+Giardia lamblia P15
+Heterostelium album PN500
+Thraustochytrium sp. ATCC 26185
+Trypanosoma brucei gambiense DAL972
+Uroleptopsis citrina
+Saprolegnia parasitica CBS 223.65
+Spumella sp. AR4D6
+Haemoproteus tartakovskyi
+Trypanosoma melophagium
+Plasmodium sp. DRC-Itaito
+Plasmodium sp. DRC-Itaito
+Bigelowiella natans CCMP2755
+Stylonychia lemnae 2x8/2
+Cryptosporidium tyzzeri
+Phytophthora parasitica INRA-310
+Phytophthora capsici LT1534
+Crithidia expoeki
+Crithidia mellificae
+Crithidia mellificae
+Kipferlia bialata
+Cryptosporidium ubiquitum
+Cryptosporidium ubiquitum
+Cryptosporidium ubiquitum
+Cryptosporidium ubiquitum
+Cryptosporidium ubiquitum
+Leishmania major strain LV39c5
+Leishmania major strain SD 75.1
+Plasmodium ovale curtisi
+Plasmodium ovale curtisi
+Plasmodium ovale wallikeri
+Plasmodium ovale wallikeri
+Ectocarpus sp. CCAP 1310/34
+Ectocarpus sp. CCAP 1310/34
+Theileria orientalis strain Shintoku
+Symbiodinium natans
+Plasmodium sp. gorilla clade G1
+Plasmodium sp. gorilla clade G2
+Plasmodium sp. gorilla clade G3
+Dictyostelium gargantuum
+Entamoeba histolytica DS4-868
+Entamoeba histolytica KU27
+Entamoeba histolytica KU48
+Entamoeba histolytica KU50
+Entamoeba histolytica MS96-3382
+Entamoeba histolytica HM-3:IMSS
+Entamoeba histolytica HM-1:IMSS-A
+Entamoeba histolytica HM-1:IMSS-B
+Guillardia theta CCMP2712
+Phytopythium vexans
+Phytopythium vexans
+Albugo candida 2VRR
+Fistulifera pelliculosa
+Trypanosoma cruzi JR cl. 4
+Leishmania mexicana MHOM/GT/2001/U1103
+Phytophthora constricta
+Toxoplasma gondii VAND
+Toxoplasma gondii RUB
+Giardia intestinalis assemblage A
+Toxoplasma gondii MAS
+Toxoplasma gondii p89
+Toxoplasma gondii TgCATBr9
+Toxoplasma gondii TgCATBr5
+Toxoplasma gondii CAST
+Toxoplasma gondii FOU
+Blastocystis sp. subtype 2
+Blastocystis sp. subtype 3
+Blastocystis sp. subtype 4
+Blastocystis sp. subtype 4
+Blastocystis sp. subtype 6
+Angomonas ambiguus
+Strigomonas galati
+Nannochloropsis oceanica CCMP531
+Nannochloropsis oceanica OZ-1
+Nannochloropsis salina CCMP1776
+Nannochloropsis salina CCMP1776
+Nannochloropsis salina CCMP537
+Plasmodium vivax Brazil I
+Plasmodium vivax North Korean
+Plasmodium vivax Mauritania I
+Plasmodium falciparum Vietnam Oak-Knoll (FVO)
+Plasmodium falciparum FCH/4
+Plasmodium falciparum Tanzania (2000708)
+Plasmodium falciparum NF135/5.C10
+Plasmodium falciparum MaliPS096_E11
+Heterostelium multicystogenum
+Trypanosoma vivax Y486
+Trypanosoma congolense IL3000
+Trypanosoma congolense IL3000
+Toxoplasma gondii ARI
+Toxoplasma gondii COUG
+Tetrahymena malaccensis 436
+Tetrahymena elliotti 4EA
+Entamoeba nuttalli P19
+Plasmodium vivax India VII
+Nannochloropsis gaditana CCMP526
+Poteriospumella lacustris
+Poteriospumella lacustris
+Poteriospumella lacustris
+Pedospumella encystans
+Pedospumella encystans
+Spumella vulgaris
+Plasmodium cynomolgi strain B
+Toxoplasma gondii GAB2-2007-GAL-DOM2
+Toxoplasma gondii TgCatPRC2
+Phytophthora pisi
+Babesia microti strain RI
+Heterococcus sp. DN1
+Tritrichomonas foetus
+Tritrichomonas foetus
+Theileria parva lawrencei
+Saprolegnia diclina VS20
+Chromera velia CCMP2878
+Vitrella brassicaformis CCMP3155
+Oxytricha trifallax
+Oxytricha trifallax
+Oxytricha trifallax
+Cryptosporidium viatorum
+Toxoplasma gondii CtCo5
+Chroomonas mesostigmatica CCMP1168
+Plasmopara muralis
+Achlya hypogyna
+Leishmania aethiopica L147
+Leishmania tropica L590
+Trypanosoma cruzi Tula cl2
+Leishmania donovani Ld 2001
+Pythium aphanidermatum DAOM BR444
+Pythium arrhenomanes ATCC 12531
+Globisporangium irregulare DAOM BR486
+Globisporangium iwayamae DAOM BR242034
+Globisporangium ultimum var. sporangiiferum BR650
+Phytopythium vexans DAOM BR484
+Schmidingerella arcuata
+Plasmodium inui San Antonio 1
+Plasmodium falciparum UGT5.1
+Leishmania donovani Ld 39
+Plasmodium falciparum 58.1
+Plasmodium falciparum 303.1
+Plasmodium falciparum 309.1
+Plasmodium falciparum 318.1
+Plasmodium falciparum 326.1
+Plasmodium falciparum 327.1
+Plasmodium falciparum 365.1
+Plasmodium falciparum 366.1
+Plasmodium falciparum 377.1
+Plasmodium falciparum 383.1
+Plasmodium falciparum 397.1
+Plasmodium falciparum 398.1
+Phytophthora lateralis SMST21
+Phytophthora lateralis MPF6
+Phytophthora lateralis MPF4
+Goniomonas avonlea
+Acanthamoeba castellanii str. Neff
+Nannochloropsis oculata CCMP525
+Nannochloropsis granulata CCMP529
+Leptomonas seymouri BHU1095
+Phytomonas serpens 9T
+Breviolum minutum Mf 1.05b.01
+Cryptosporidium sp. chipmunk genotype I
+Phytophthora kernoviae 00238/432
+Phytophthora kernoviae 00629/1
+Phytophthora kernoviae 00844/4
+Leishmania panamensis MHOM/COL/81/L13
+Leishmania braziliensis MHOM/BR/75/M2903
+Leishmania sp. MAR LEM2494
+Perkinsela sp. CCAP 1560/4
+Phytophthora parasitica CJ01A1
+Phytophthora parasitica P10297
+Phytophthora parasitica P1569
+Phytophthora parasitica P1976
+Plasmodium yoelii 17X
+Phytophthora pluvialis
+Phytophthora pluvialis
+Nannochloropsis oceanica strain IMET1
+Giardia intestinalis assemblage B
+Acytostelium subglobosum LB1
+Amoebophrya sp. A25
+Trypanosoma cruzi Dm28c
+Paralagenidium karlingii
+Chrysochromulina tobinii
+Blechomonas ayalai
+Paratrypanosoma confusum
+Paramikrocytos canceri
+Pythium brassicum
+Fistulifera solaris
+Symbiodinium sp. CCMP2456
+Thalassiosira sundarbana
+Theileria equi strain WA
+Blastocystis sp. subtype 9
+Symbiodinium sp. clade A Y106
+Symbiodinium sp. clade C Y103
+Schizochytrium sp. CCTCC M209059
+Pelomyxa schiedti
+Leishmania martiniquensis
+Cryptosporidium sp. chipmunk LX-2015
+Tetmemena sp. SeJ-2015
+Paraurostyla sp. PUJRC_G6
+Urostyla sp. PUJRC_G1
+Laurentiella sp. PUJRC_G5
+Lotmaria passim
+Lotmaria passim
+Lotmaria passim
+Symbiodinium necroappetens
+Pilasporangium apinafurcum
+Pilasporangium apinafurcum
+Leishmania sp. AIIMS/LM/SS/PKDL/LD-974
+Phytophthora agathidicida
+Phytophthora agathidicida
+Lenisia limosa
+Rhizaria sp. SCN 62-66
+Phytophthora taxon totara
+Phytophthora taxon totara
+Phytophthora chlamydospora
+Stentor roeselii
+Triparma laevis f. inornata
+Stramenopiles sp. TOSAG23-2
+Stramenopiles sp. TOSAG41-1
+Stramenopiles sp. TOSAG23-3
+Stramenopiles sp. TOSAG23-6
+Aurantiochytrium sp. T66
+Ectocarpus sp. Ec32
+Amoebophrya sp. AT5.2
+Novymonas esmeraldas
+Dinobryon sp. LO226KS
+Synura sp. LO234KE
+Epipyxis sp. PR26KG
+Phytophthora versiformis
+Chromulinospumella sphaerica
+Planoprotostelium fungivorum
+Phytomonas francai
+Paulinella micropora
+Paulinella micropora
+Phytophthora castanetorum
+Phytophthora tubulina
+Aurantiochytrium sp. KH105
+Trypanosomatidae sp. JR-2017a
+Trypanosomatidae sp. JR-2017a
+Trypanosomatidae sp. JR-2017a
+Trypanosomatidae sp. JR-2017a
+Trypanosomatidae sp. JR-2017a
+Trypanosomatidae sp. JR-2017b
+Nitzschia sp. Nitz4
+Monocercomonoides exilis
+Eimeria sp. OTU-X
+Eimeria sp. OTU-Y
+Eimeria sp. OTU-Z
+Halamphora sp. AAB
+Halamphora sp. MG8b
+Globobulimina sp.
+Diacronema lutheri
+Diacronema lutheri
+Bacillariophyta sp.
+Bacillariophyta sp.
+Bacillariophyta sp.
+Bacillariophyta sp.
+Bacillariophyta sp.
+Fragilaria radians
+Malawimonas sp.
+Aurantiochytrium acetophilum
+Amoebophrya sp. A120
+Leishmania orientalis
+Hondaea fermentalgiana
+Hondaea fermentalgiana
+Nothophytophthora sp. Chile5
+Perkinsus sp. BL_2016
+Phytophthora aleatoria
+Phytophthora vignae f. sp. vignae
+Nephromyces sp. ex Molgula occidentalis
+Hepatocystis sp. ex Piliocolobus tephrosceles
+Euplotes weissei
+Labyrinthula sp. Ha
+Phytophthora betacei
+Vickermania ingenoplastis
+Parietichytrium sp. I65-24A
+Thraustochytrium sp. TN22
+Nitzschia putrida
+Phytophthora sp. ST_20190627
+Porcisia hertigi
+Porcisia hertigi
+Porcisia deanei
+Nephromyces sp. MM_2019
+Leishmania sp. Namibia
+Leishmania sp. Ghana 2012 LV757
+Diophrys sp. 3 WChen-2021
+Euplotes cf. woodruffi 2 WChen-2021
+Porospora cf. gigantea B
+Porospora cf. gigantea A
