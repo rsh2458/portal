@@ -1,0 +1,888 @@
+GCA_000695605.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/695/605/GCA_000695605.1_Citrus_sinensis_v1.0/GCA_000695605.1_Citrus_sinensis_v1.0_genomic.fna.gz
+GCA_018104345.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/104/345/GCA_018104345.1_ASM1810434v1/GCA_018104345.1_ASM1810434v1_genomic.fna.gz
+GCA_018105775.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/105/775/GCA_018105775.1_ASM1810577v1/GCA_018105775.1_ASM1810577v1_genomic.fna.gz
+GCA_019143665.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/143/665/GCA_019143665.1_ASM1914366v1/GCA_019143665.1_ASM1914366v1_genomic.fna.gz
+GCA_019144155.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/144/155/GCA_019144155.1_ASM1914415v1/GCA_019144155.1_ASM1914415v1_genomic.fna.gz
+GCA_019144185.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/144/185/GCA_019144185.1_ASM1914418v1/GCA_019144185.1_ASM1914418v1_genomic.fna.gz
+GCA_019144195.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/144/195/GCA_019144195.1_ASM1914419v1/GCA_019144195.1_ASM1914419v1_genomic.fna.gz
+GCA_019144225.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/144/225/GCA_019144225.1_ASM1914422v1/GCA_019144225.1_ASM1914422v1_genomic.fna.gz
+GCA_019144245.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/144/245/GCA_019144245.1_ASM1914424v1/GCA_019144245.1_ASM1914424v1_genomic.fna.gz
+GCA_022201045.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/201/045/GCA_022201045.1_DVS_A1.0/GCA_022201045.1_DVS_A1.0_genomic.fna.gz
+GCA_022201065.1	Citrus sinensis	2711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/201/065/GCA_022201065.1_DVS_B1.0/GCA_022201065.1_DVS_B1.0_genomic.fna.gz
+GCA_013389655.1	Chlamydomonas reinhardtii	3055	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/389/655/GCA_013389655.1_ASM1338965v1/GCA_013389655.1_ASM1338965v1_genomic.fna.gz
+GCA_018257845.1	Chlamydomonas reinhardtii	3055	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/257/845/GCA_018257845.1_ASM1825784v1/GCA_018257845.1_ASM1825784v1_genomic.fna.gz
+GCA_001598975.1	Parachlorella kessleri	3074	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/598/975/GCA_001598975.1_PK2152_assembly/GCA_001598975.1_PK2152_assembly_genomic.fna.gz
+GCA_002154875.1	Auxenochlorella protothecoides	3075	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/154/875/GCA_002154875.1_AuxProt1.0/GCA_002154875.1_AuxProt1.0_genomic.fna.gz
+GCA_003709365.1	Auxenochlorella protothecoides	3075	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/709/365/GCA_003709365.1_ASM370936v1/GCA_003709365.1_ASM370936v1_genomic.fna.gz
+GCA_002245835.2	Chlorella sorokiniana	3076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/245/835/GCA_002245835.2_Chlorella_sorokiniana_2.0/GCA_002245835.2_Chlorella_sorokiniana 2.0_genomic.fna.gz
+GCA_002939045.1	Chlorella sorokiniana	3076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/939/045/GCA_002939045.1_CSI_1228/GCA_002939045.1_CSI_1228_genomic.fna.gz
+GCA_003116155.1	Chlorella sorokiniana	3076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/116/155/GCA_003116155.1_ASM311615v1/GCA_003116155.1_ASM311615v1_genomic.fna.gz
+GCA_006782965.1	Chlorella sorokiniana	3076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/782/965/GCA_006782965.1_ASM678296v1/GCA_006782965.1_ASM678296v1_genomic.fna.gz
+GCA_006782985.1	Chlorella sorokiniana	3076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/782/985/GCA_006782985.1_ASM678298v1/GCA_006782985.1_ASM678298v1_genomic.fna.gz
+GCA_001021125.1	Chlorella vulgaris	3077	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/021/125/GCA_001021125.1_ASM102112v1/GCA_001021125.1_ASM102112v1_genomic.fna.gz
+GCA_008119945.1	Chlorella vulgaris	3077	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/119/945/GCA_008119945.1_UMT_ChlVul_UMT-M1/GCA_008119945.1_UMT_ChlVul_UMT-M1_genomic.fna.gz
+GCA_009720215.1	Chlorella vulgaris	3077	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/720/215/GCA_009720215.1_ASM972021v1/GCA_009720215.1_ASM972021v1_genomic.fna.gz
+GCA_002149895.1	Tetradesmus obliquus	3088	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/149/895/GCA_002149895.1_ASM214989v1/GCA_002149895.1_ASM214989v1_genomic.fna.gz
+GCA_014621415.1	Tetradesmus obliquus	3088	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/621/415/GCA_014621415.1_ASM1462141v1/GCA_014621415.1_ASM1462141v1_genomic.fna.gz
+GCA_003255715.1	Prototheca wickerhamii	3111	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/255/715/GCA_003255715.1_ASM325571v1/GCA_003255715.1_ASM325571v1_genomic.fna.gz
+GCA_014871845.1	Ceratodon purpureus	3225	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/871/845/GCA_014871845.1_CpurpureusGG1_1_0/GCA_014871845.1_CpurpureusGG1_1_0_genomic.fna.gz
+GCA_000966675.2	Picea glauca	3330	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/966/675/GCA_000966675.2_WS77111_v2/GCA_000966675.2_WS77111_v2_genomic.fna.gz
+GCA_002908915.1	Persea americana	3435	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/908/915/GCA_002908915.1_Hass1.0/GCA_002908915.1_Hass1.0_genomic.fna.gz
+GCA_008087245.1	Persea americana	3435	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/087/245/GCA_008087245.1_ASM808724v1/GCA_008087245.1_ASM808724v1_genomic.fna.gz
+GCA_010119995.1	Papaver somniferum	3469	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/119/995/GCA_010119995.1_ASM1011999v1/GCA_010119995.1_ASM1011999v1_genomic.fna.gz
+GCA_000230575.5	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/230/575/GCA_000230575.5_ASM23057v5/GCA_000230575.5_ASM23057v5_genomic.fna.gz
+GCA_001509995.1	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/509/995/GCA_001509995.1_Chemdog91_175268/GCA_001509995.1_Chemdog91_175268_genomic.fna.gz
+GCA_001865755.1	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/865/755/GCA_001865755.1_ASM186575v1/GCA_001865755.1_ASM186575v1_genomic.fna.gz
+GCA_002090435.1	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/090/435/GCA_002090435.1_ASM209043v1/GCA_002090435.1_ASM209043v1_genomic.fna.gz
+GCA_003417725.2	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/417/725/GCA_003417725.2_ASM341772v2/GCA_003417725.2_ASM341772v2_genomic.fna.gz
+GCA_003660325.2	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/660/325/GCA_003660325.2_Oct15_3.7Mb_N50_Jamaican_Lion_Assembly/GCA_003660325.2_Oct15_3.7Mb_N50_Jamaican_Lion_Assembly_genomic.fna.gz
+GCA_012923435.1	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/923/435/GCA_012923435.1_JL_Mother/GCA_012923435.1_JL_Mother_genomic.fna.gz
+GCA_013030025.1	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/030/025/GCA_013030025.1_JL_Father/GCA_013030025.1_JL_Father_genomic.fna.gz
+GCA_013030365.1	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/030/365/GCA_013030365.1_ASM1303036v1/GCA_013030365.1_ASM1303036v1_genomic.fna.gz
+GCA_016165845.1	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/165/845/GCA_016165845.1_Cannbio-2/GCA_016165845.1_Cannbio-2_genomic.fna.gz
+GCA_016415525.1	Cannabis sativa	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/415/525/GCA_016415525.1_JL5/GCA_016415525.1_JL5_genomic.fna.gz
+GCA_002002945.1	Ficus carica	3494	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/002/945/GCA_002002945.1_F.carica_assembly01/GCA_002002945.1_F.carica_assembly01_genomic.fna.gz
+GCA_009932135.1	Morus alba	3498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/932/135/GCA_009932135.1_ASM993213v1/GCA_009932135.1_ASM993213v1_genomic.fna.gz
+GCA_000397105.1	Beta vulgaris subsp. vulgaris	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/397/105/GCA_000397105.1_BvvSeq-1/GCA_000397105.1_BvvSeq-1_genomic.fna.gz
+GCA_000510365.1	Beta vulgaris subsp. vulgaris	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/510/365/GCA_000510365.1_KDHBv-1.0.1/GCA_000510365.1_KDHBv-1.0.1_genomic.fna.gz
+GCA_000510465.1	Beta vulgaris subsp. vulgaris	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/510/465/GCA_000510465.1_UMSBv-1.0.1/GCA_000510465.1_UMSBv-1.0.1_genomic.fna.gz
+GCA_000510485.1	Beta vulgaris subsp. vulgaris	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/510/485/GCA_000510485.1_YMoBv-1.0.1/GCA_000510485.1_YMoBv-1.0.1_genomic.fna.gz
+GCA_000510875.1	Beta vulgaris subsp. vulgaris	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/510/875/GCA_000510875.1_YTiBv-1.0.1/GCA_000510875.1_YTiBv-1.0.1_genomic.fna.gz
+GCA_000510975.1	Beta vulgaris subsp. vulgaris	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/510/975/GCA_000510975.1_RefBeet-1.1.1/GCA_000510975.1_RefBeet-1.1.1_genomic.fna.gz
+GCA_000729925.1	Beta vulgaris subsp. vulgaris	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/729/925/GCA_000729925.1_BvulgarisC0t1.0/GCA_000729925.1_BvulgarisC0t1.0_genomic.fna.gz
+GCA_002917755.1	Beta vulgaris subsp. vulgaris	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/917/755/GCA_002917755.1_EL10_1.0/GCA_002917755.1_EL10_1.0_genomic.fna.gz
+GCA_000510995.2	Spinacia oleracea	3562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/510/995/GCA_000510995.2_Spinach-1.0.3/GCA_000510995.2_Spinach-1.0.3_genomic.fna.gz
+GCA_019972175.1	Spinacia oleracea	3562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/972/175/GCA_019972175.1_SOL_r1.1/GCA_019972175.1_SOL_r1.1_genomic.fna.gz
+GCA_020520425.1	Spinacia oleracea	3562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/520/425/GCA_020520425.1_BTI_SOV_V1/GCA_020520425.1_BTI_SOV_V1_genomic.fna.gz
+GCA_001661195.1	Fagopyrum esculentum	3617	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/661/195/GCA_001661195.1_FES_r1.0/GCA_001661195.1_FES_r1.0_genomic.fna.gz
+GCA_000467755.1	Actinidia chinensis	3625	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/467/755/GCA_000467755.1_Kiwifruit_v1/GCA_000467755.1_Kiwifruit_v1_genomic.fna.gz
+GCA_001856525.1	Gossypium barbadense	3634	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/856/525/GCA_001856525.1_GbV1.0/GCA_001856525.1_GbV1.0_genomic.fna.gz
+GCA_002926015.1	Gossypium barbadense	3634	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/926/015/GCA_002926015.1_ASM292601v1/GCA_002926015.1_ASM292601v1_genomic.fna.gz
+GCA_002928715.1	Gossypium barbadense	3634	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/928/715/GCA_002928715.1_ASM292871v1/GCA_002928715.1_ASM292871v1_genomic.fna.gz
+GCA_008761655.1	Gossypium barbadense	3634	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/761/655/GCA_008761655.1_Gossypium_barbadense_v1.1/GCA_008761655.1_Gossypium_barbadense_v1.1_genomic.fna.gz
+GCA_000987745.1	Gossypium hirsutum	3635	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/987/745/GCA_000987745.1_ASM98774v1/GCA_000987745.1_ASM98774v1_genomic.fna.gz
+GCA_006980745.1	Gossypium hirsutum	3635	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/980/745/GCA_006980745.1_ASM698074v1/GCA_006980745.1_ASM698074v1_genomic.fna.gz
+GCA_006980775.1	Gossypium hirsutum	3635	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/980/775/GCA_006980775.1_ASM698077v1/GCA_006980775.1_ASM698077v1_genomic.fna.gz
+GCA_018997965.1	Gossypium hirsutum	3635	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/997/965/GCA_018997965.1_ASM1899796v1/GCA_018997965.1_ASM1899796v1_genomic.fna.gz
+GCA_021461685.1	Gossypium hirsutum	3635	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/461/685/GCA_021461685.1_ASM2146168v1/GCA_021461685.1_ASM2146168v1_genomic.fna.gz
+GCA_021461695.1	Gossypium hirsutum	3635	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/461/695/GCA_021461695.1_ASM2146169v1/GCA_021461695.1_ASM2146169v1_genomic.fna.gz
+GCA_000403535.1	Theobroma cacao	3641	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/403/535/GCA_000403535.1_Theobroma_cacao_20110822/GCA_000403535.1_Theobroma_cacao_20110822_genomic.fna.gz
+GCA_021527605.1	Carica papaya	3649	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/527/605/GCA_021527605.1_sunup/GCA_021527605.1_sunup_genomic.fna.gz
+GCA_000238415.2	Citrullus lanatus	3654	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/238/415/GCA_000238415.2_Cla97_v1/GCA_000238415.2_Cla97_v1_genomic.fna.gz
+GCA_004801215.2	Citrullus lanatus	3654	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/801/215/GCA_004801215.2_ASM480121v2/GCA_004801215.2_ASM480121v2_genomic.fna.gz
+GCA_011762645.1	Cucumis melo	3656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/762/645/GCA_011762645.1_UTNaro_melon_Harukei-3_ver1.40/GCA_011762645.1_UTNaro_melon_Harukei-3_ver1.40_genomic.fna.gz
+GCA_020920055.1	Cucumis melo	3656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/920/055/GCA_020920055.1_TAD_pseudomol_v1.0/GCA_020920055.1_TAD_pseudomol_v1.0_genomic.fna.gz
+GCA_020920065.1	Cucumis melo	3656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/920/065/GCA_020920065.1_DUL_pseudomol_v1.0/GCA_020920065.1_DUL_pseudomol_v1.0_genomic.fna.gz
+GCA_902497455.1	Cucumis melo	3656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/497/455/GCA_902497455.1_Melonv4/GCA_902497455.1_Melonv4_genomic.fna.gz
+GCA_000224045.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/224/045/GCA_000224045.1_CSB10A_v1/GCA_000224045.1_CSB10A_v1_genomic.fna.gz
+GCA_001483825.3	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/483/825/GCA_001483825.3_B10v3/GCA_001483825.3_B10v3_genomic.fna.gz
+GCA_016161715.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/161/715/GCA_016161715.1_W8_PacBio_assembly/GCA_016161715.1_W8_PacBio_assembly_genomic.fna.gz
+GCA_016161765.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/161/765/GCA_016161765.1_Hx117_PacBio_assembly/GCA_016161765.1_Hx117_PacBio_assembly_genomic.fna.gz
+GCA_016161775.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/161/775/GCA_016161775.1_Hx14_PacBio_assembly/GCA_016161775.1_Hx14_PacBio_assembly_genomic.fna.gz
+GCA_016161785.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/161/785/GCA_016161785.1_W4_PacBio_assembly/GCA_016161785.1_W4_PacBio_assembly_genomic.fna.gz
+GCA_016161805.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/161/805/GCA_016161805.1_Cuc64_PacBio_assembly/GCA_016161805.1_Cuc64_PacBio_assembly_genomic.fna.gz
+GCA_016161855.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/161/855/GCA_016161855.1_Cuc80_PacBio_assembly/GCA_016161855.1_Cuc80_PacBio_assembly_genomic.fna.gz
+GCA_016161875.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/161/875/GCA_016161875.1_9110gt_PacBio_assembly/GCA_016161875.1_9110gt_PacBio_assembly_genomic.fna.gz
+GCA_016161885.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/161/885/GCA_016161885.1_Cuc37_PacBio_assembly/GCA_016161885.1_Cuc37_PacBio_assembly_genomic.fna.gz
+GCA_016163705.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/163/705/GCA_016163705.1_Gy14_PacBio_assembly/GCA_016163705.1_Gy14_PacBio_assembly_genomic.fna.gz
+GCA_016163735.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/163/735/GCA_016163735.1_Cu2_PacBio_assembly/GCA_016163735.1_Cu2_PacBio_assembly_genomic.fna.gz
+GCA_016163745.1	Cucumis sativus	3659	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/163/745/GCA_016163745.1_XTMC_PacBio_assembly/GCA_016163745.1_XTMC_PacBio_assembly_genomic.fna.gz
+GCA_000466325.1	Lagenaria siceraria	3668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/466/325/GCA_000466325.1_Bottle_gourd/GCA_000466325.1_Bottle_gourd_genomic.fna.gz
+GCA_003268545.1	Lagenaria siceraria	3668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/268/545/GCA_003268545.1_Lsi_v1.0/GCA_003268545.1_Lsi_v1.0_genomic.fna.gz
+GCA_012295205.1	Luffa aegyptiaca	3670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/295/205/GCA_012295205.1_ASM1229520v1/GCA_012295205.1_ASM1229520v1_genomic.fna.gz
+GCA_016170045.1	Luffa aegyptiaca	3670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/170/045/GCA_016170045.1_ASM1617004v1/GCA_016170045.1_ASM1617004v1_genomic.fna.gz
+GCA_013281855.1	Momordica charantia	3673	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/281/855/GCA_013281855.1_Mcharantia_2.0/GCA_013281855.1_Mcharantia_2.0_genomic.fna.gz
+GCA_900491585.1	Momordica charantia	3673	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/491/585/GCA_900491585.1_M._spontanea_TR/GCA_900491585.1_M. spontanea TR_genomic.fna.gz
+GCA_014884945.1	Populus deltoides	3696	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/884/945/GCA_014884945.1_ASM1488494v1/GCA_014884945.1_ASM1488494v1_genomic.fna.gz
+GCA_014885025.1	Populus deltoides	3696	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/885/025/GCA_014885025.1_Pde_NFU_2_2/GCA_014885025.1_Pde_NFU_2_2_genomic.fna.gz
+GCA_000222325.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/222/325/GCA_000222325.1_Bur-0_2010-09-30/GCA_000222325.1_Bur-0_2010-09-30_genomic.fna.gz
+GCA_000222345.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/222/345/GCA_000222345.1_C24_2010-09-30/GCA_000222345.1_C24_2010-09-30_genomic.fna.gz
+GCA_000222365.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/222/365/GCA_000222365.1_Ler-1_2010-09-30/GCA_000222365.1_Ler-1_2010-09-30_genomic.fna.gz
+GCA_000222385.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/222/385/GCA_000222385.1_Kro-0_2010-09-30/GCA_000222385.1_Kro-0_2010-09-30_genomic.fna.gz
+GCA_000835945.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/835/945/GCA_000835945.1_ASM83594v1/GCA_000835945.1_ASM83594v1_genomic.fna.gz
+GCA_001651475.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/651/475/GCA_001651475.1_Ler_Assembly/GCA_001651475.1_Ler Assembly_genomic.fna.gz
+GCA_001742845.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/742/845/GCA_001742845.1_AthNd1_v1.0/GCA_001742845.1_AthNd1_v1.0_genomic.fna.gz
+GCA_001753755.2	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/753/755/GCA_001753755.2_Athal_Col0Cvi0F1_phased_diploid_1.0/GCA_001753755.2_Athal_Col0Cvi0F1_phased_diploid_1.0_genomic.fna.gz
+GCA_020911765.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/911/765/GCA_020911765.1_ASM2091176v1/GCA_020911765.1_ASM2091176v1_genomic.fna.gz
+GCA_900243935.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/243/935/GCA_900243935.1_Col0_oxford_assembly/GCA_900243935.1_Col0_oxford_assembly_genomic.fna.gz
+GCA_900243945.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/243/945/GCA_900243945.1_SAIL_oxford_assembly/GCA_900243945.1_SAIL_oxford_assembly_genomic.fna.gz
+GCA_900243955.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/243/955/GCA_900243955.1_SALK_oxford_assembly/GCA_900243955.1_SALK_oxford_assembly_genomic.fna.gz
+GCA_900303345.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/303/345/GCA_900303345.1_PBfal_IT4/GCA_900303345.1_PBfal_IT4_genomic.fna.gz
+GCA_900303355.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/303/355/GCA_900303355.1_ONTmin_IT4/GCA_900303355.1_ONTmin_IT4_genomic.fna.gz
+GCA_900660825.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/660/825/GCA_900660825.1_Ath.Ler-0.MPIPZ.v1.0/GCA_900660825.1_Ath.Ler-0.MPIPZ.v1.0_genomic.fna.gz
+GCA_902460265.3	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/460/265/GCA_902460265.3_Arabidopsis_thaliana_An-1_chrom/GCA_902460265.3_Arabidopsis_thaliana_An-1_chrom_genomic.fna.gz
+GCA_902460275.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/460/275/GCA_902460275.1_Arabidopsis_thaliana_Cvi-0/GCA_902460275.1_Arabidopsis_thaliana_Cvi-0_genomic.fna.gz
+GCA_902460285.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/460/285/GCA_902460285.1_Arabidopsis_thaliana_Ler/GCA_902460285.1_Arabidopsis_thaliana_Ler_genomic.fna.gz
+GCA_902460295.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/460/295/GCA_902460295.1_Arabidopsis_thaliana_Sha/GCA_902460295.1_Arabidopsis_thaliana_Sha_genomic.fna.gz
+GCA_902460305.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/460/305/GCA_902460305.1_Arabidopsis_thaliana_Kyo/GCA_902460305.1_Arabidopsis_thaliana_Kyo_genomic.fna.gz
+GCA_902460315.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/460/315/GCA_902460315.1_Arabidopsis_thaliana_Eri-1/GCA_902460315.1_Arabidopsis_thaliana_Eri-1_genomic.fna.gz
+GCA_902651935.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/651/935/GCA_902651935.1_araThaAn1v1/GCA_902651935.1_araThaAn1v1_genomic.fna.gz
+GCA_902705455.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/705/455/GCA_902705455.1_araThaC24v1/GCA_902705455.1_araThaC24v1_genomic.fna.gz
+GCA_902825305.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/825/305/GCA_902825305.1_AT6909.Col-0.PacBio/GCA_902825305.1_AT6909.Col-0.PacBio_genomic.fna.gz
+GCA_903064275.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/064/275/GCA_903064275.1_AT7213.Ler-0.PacBio/GCA_903064275.1_AT7213.Ler-0.PacBio_genomic.fna.gz
+GCA_903064285.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/064/285/GCA_903064285.1_AT1741.KBS-Mac-74.PacBio/GCA_903064285.1_AT1741.KBS-Mac-74.PacBio_genomic.fna.gz
+GCA_903064295.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/064/295/GCA_903064295.1_AT5784.Ty-1.PacBio/GCA_903064295.1_AT5784.Ty-1.PacBio_genomic.fna.gz
+GCA_903064315.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/064/315/GCA_903064315.1_AT6911.Cvi-0.contigs/GCA_903064315.1_AT6911.Cvi-0.contigs_genomic.fna.gz
+GCA_903064325.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/064/325/GCA_903064325.1_AT7186.Kn-0.PacBio/GCA_903064325.1_AT7186.Kn-0.PacBio_genomic.fna.gz
+GCA_904420315.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/420/315/GCA_904420315.1_AT9943.Cdm-0.scaffold/GCA_904420315.1_AT9943.Cdm-0.scaffold_genomic.fna.gz
+GCA_905067165.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/067/165/GCA_905067165.1_Col-0_GKat-wt/GCA_905067165.1_Col-0_GKat-wt_genomic.fna.gz
+GCA_927323615.1	Arabidopsis thaliana	3702	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/927/323/615/GCA_927323615.1_Arabidopsis/GCA_927323615.1_Arabidopsis_genomic.fna.gz
+GCA_015484525.1	Brassica juncea	3707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/484/525/GCA_015484525.1_UDSC_Var_1.1/GCA_015484525.1_UDSC_Var_1.1_genomic.fna.gz
+GCA_020002505.1	Brassica juncea	3707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/002/505/GCA_020002505.1_ASM2000250v1/GCA_020002505.1_ASM2000250v1_genomic.fna.gz
+GCA_020002515.1	Brassica juncea	3707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/002/515/GCA_020002515.1_ASM2000251v1/GCA_020002515.1_ASM2000251v1_genomic.fna.gz
+GCA_000751015.1	Brassica napus	3708	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/751/015/GCA_000751015.1_AST_PRJEB5043_v1/GCA_000751015.1_AST_PRJEB5043_v1_genomic.fna.gz
+GCA_014170575.1	Brassica napus	3708	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/170/575/GCA_014170575.1_ASM1417057v1/GCA_014170575.1_ASM1417057v1_genomic.fna.gz
+GCA_020379485.1	Brassica napus	3708	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/379/485/GCA_020379485.1_Da-Ae/GCA_020379485.1_Da-Ae_genomic.fna.gz
+GCA_001682895.1	Brassica nigra	3710	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/682/895/GCA_001682895.1_ASM168289v1/GCA_001682895.1_ASM168289v1_genomic.fna.gz
+GCA_003434825.1	Brassica rapa	3711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/434/825/GCA_003434825.1_Brassica_rapa_FPsc_v1.3/GCA_003434825.1_Brassica_rapa_FPsc_v1.3_genomic.fna.gz
+GCA_016163755.1	Brassica rapa	3711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/163/755/GCA_016163755.1_ASM1616375v1/GCA_016163755.1_ASM1616375v1_genomic.fna.gz
+GCA_900412535.3	Brassica rapa	3711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/412/535/GCA_900412535.3_brapa_z1_v2/GCA_900412535.3_brapa_z1_v2_genomic.fna.gz
+GCA_900416815.2	Brassica oleracea	3712	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/416/815/GCA_900416815.2_Brassica_oleracea_HDEM/GCA_900416815.2_Brassica_oleracea_HDEM_genomic.fna.gz
+GCA_000604025.1	Brassica oleracea var. capitata	3712	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/604/025/GCA_000604025.1_BOL_v1.0/GCA_000604025.1_BOL_v1.0_genomic.fna.gz
+GCA_018177695.1	Brassica oleracea var. capitata	3712	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/177/695/GCA_018177695.1_Cabbage_OX-heart_923_BVRC/GCA_018177695.1_Cabbage_OX-heart_923_BVRC_genomic.fna.gz
+GCA_902726615.1	Brassica oleracea var. capitata	3712	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/726/615/GCA_902726615.1_bol-D134-Reference/GCA_902726615.1_bol-D134-Reference_genomic.fna.gz
+GCA_000715565.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/715/565/GCA_000715565.1_RSA_r1.0/GCA_000715565.1_RSA_r1.0_genomic.fna.gz
+GCA_001047155.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/047/155/GCA_001047155.1_Rsativus_build1.00/GCA_001047155.1_Rsativus_build1.00_genomic.fna.gz
+GCA_002197605.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/197/605/GCA_002197605.1_Radish_v2.20/GCA_002197605.1_Radish_v2.20_genomic.fna.gz
+GCA_010725405.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/725/405/GCA_010725405.1_RSAskr_r1.0/GCA_010725405.1_RSAskr_r1.0_genomic.fna.gz
+GCA_019703475.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/703/475/GCA_019703475.1_IVFCAAS_Rs00_1.1/GCA_019703475.1_IVFCAAS_Rs00_1.1_genomic.fna.gz
+GCA_019705855.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/705/855/GCA_019705855.1_IVFCAAS_Rs05_1.0/GCA_019705855.1_IVFCAAS_Rs05_1.0_genomic.fna.gz
+GCA_019705875.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/705/875/GCA_019705875.1_IVFCAAS_Rs04_1.0/GCA_019705875.1_IVFCAAS_Rs04_1.0_genomic.fna.gz
+GCA_019705955.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/705/955/GCA_019705955.1_IVFCAAS_Rs06_1.0/GCA_019705955.1_IVFCAAS_Rs06_1.0_genomic.fna.gz
+GCA_902824885.1	Raphanus sativus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/824/885/GCA_902824885.1_Qing/GCA_902824885.1_Qing_genomic.fna.gz
+GCA_009801145.1	Moringa oleifera	3735	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/801/145/GCA_009801145.1_ASM980114v1/GCA_009801145.1_ASM980114v1_genomic.fna.gz
+GCA_021560355.1	Moringa oleifera	3735	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/560/355/GCA_021560355.1_Moringa_Oleifera_1.0/GCA_021560355.1_Moringa_Oleifera_1.0_genomic.fna.gz
+GCA_000511835.1	Fragaria x ananassa	3747	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/511/835/GCA_000511835.1_FAN_r1.1/GCA_000511835.1_FAN_r1.1_genomic.fna.gz
+GCA_019650335.1	Fragaria x ananassa	3747	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/650/335/GCA_019650335.1_FAN_r2.3/GCA_019650335.1_FAN_r2.3_genomic.fna.gz
+GCA_000148765.2	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/148/765/GCA_000148765.2_MalDomGD1.0/GCA_000148765.2_MalDomGD1.0_genomic.fna.gz
+GCA_004115385.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/115/385/GCA_004115385.1_ASM411538v1/GCA_004115385.1_ASM411538v1_genomic.fna.gz
+GCA_916048125.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/048/125/GCA_916048125.1_drMalDome10.1_alternate_haplotype/GCA_916048125.1_drMalDome10.1 alternate haplotype_genomic.fna.gz
+GCA_916050505.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/050/505/GCA_916050505.1_drMalDome10.1/GCA_916050505.1_drMalDome10.1_genomic.fna.gz
+GCA_916612005.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/612/005/GCA_916612005.1_drMalDome11.1/GCA_916612005.1_drMalDome11.1_genomic.fna.gz
+GCA_916614045.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/614/045/GCA_916614045.1_drMalDome11.1_alternate_haplotype/GCA_916614045.1_drMalDome11.1 alternate haplotype_genomic.fna.gz
+GCA_916614085.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/614/085/GCA_916614085.1_drMalDome58.1_alternate_haplotype/GCA_916614085.1_drMalDome58.1 alternate haplotype_genomic.fna.gz
+GCA_916614885.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/614/885/GCA_916614885.1_drMalDome5.1_alternate_haplotype/GCA_916614885.1_drMalDome5.1 alternate haplotype_genomic.fna.gz
+GCA_916615275.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/615/275/GCA_916615275.1_drMalDome58.1/GCA_916615275.1_drMalDome58.1_genomic.fna.gz
+GCA_916615385.1	Malus domestica	3750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/615/385/GCA_916615385.1_drMalDome5.1/GCA_916615385.1_drMalDome5.1_genomic.fna.gz
+GCA_916049865.1	Malus sylvestris	3752	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/049/865/GCA_916049865.1_drMalSylv7.1_alternate_haplotype/GCA_916049865.1_drMalSylv7.1 alternate haplotype_genomic.fna.gz
+GCA_008632915.2	Prunus dulcis	3755	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/632/915/GCA_008632915.2_ASM863291v2/GCA_008632915.2_ASM863291v2_genomic.fna.gz
+GCA_021292205.1	Prunus dulcis	3755	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/292/205/GCA_021292205.1_OSU_Pdulci_2.0/GCA_021292205.1_OSU_Pdulci_2.0_genomic.fna.gz
+GCA_000218175.1	Prunus persica	3760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/218/175/GCA_000218175.1_PrunusPersicaDD_1.0/GCA_000218175.1_PrunusPersicaDD_1.0_genomic.fna.gz
+GCA_000218195.1	Prunus persica	3760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/218/195/GCA_000218195.1_PrunusPersicaGB_1.0/GCA_000218195.1_PrunusPersicaGB_1.0_genomic.fna.gz
+GCA_000218215.1	Prunus persica	3760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/218/215/GCA_000218215.1_PrunusPersicaF8_1.0/GCA_000218215.1_PrunusPersicaF8_1.0_genomic.fna.gz
+GCA_015730445.1	Prunus persica	3760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/730/445/GCA_015730445.1_ASM1573044v1/GCA_015730445.1_ASM1573044v1_genomic.fna.gz
+GCA_018340835.1	Prunus persica	3760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/340/835/GCA_018340835.1_ASM1834083v1/GCA_018340835.1_ASM1834083v1_genomic.fna.gz
+GCA_019209885.1	Prunus persica	3760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/209/885/GCA_019209885.1_ASM1920988v1/GCA_019209885.1_ASM1920988v1_genomic.fna.gz
+GCA_020226405.1	Prunus persica	3760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/226/405/GCA_020226405.1_GTY_assembly/GCA_020226405.1_GTY_assembly_genomic.fna.gz
+GCA_003713155.1	Arachis hypogaea	3818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/713/155/GCA_003713155.1_ASM371315v1/GCA_003713155.1_ASM371315v1_genomic.fna.gz
+GCA_004170445.1	Arachis hypogaea	3818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/170/445/GCA_004170445.1_ASM417044v1/GCA_004170445.1_ASM417044v1_genomic.fna.gz
+GCA_016103905.1	Arachis hypogaea	3818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/103/905/GCA_016103905.1_Haihua1_v1/GCA_016103905.1_Haihua1_v1_genomic.fna.gz
+GCA_019914975.1	Arachis hypogaea	3818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/914/975/GCA_019914975.1_ASM1991497v1/GCA_019914975.1_ASM1991497v1_genomic.fna.gz
+GCA_019915045.1	Arachis hypogaea	3818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/915/045/GCA_019915045.1_ASM1991504v1/GCA_019915045.1_ASM1991504v1_genomic.fna.gz
+GCA_000230855.2	Cajanus cajan	3821	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/230/855/GCA_000230855.2_Pigeonpea-Version-2.0/GCA_000230855.2_Pigeonpea-Version-2.0_genomic.fna.gz
+GCA_015227855.1	Cajanus cajan	3821	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/227/855/GCA_015227855.1_Cajanus_cajan_v3.0/GCA_015227855.1_Cajanus cajan v3.0_genomic.fna.gz
+GCA_000347275.4	Cicer arietinum	3827	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/347/275/GCA_000347275.4_ASM34727v4/GCA_000347275.4_ASM34727v4_genomic.fna.gz
+GCA_002896005.2	Cicer arietinum	3827	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/896/005/GCA_002896005.2_CDCFrontier_v0.5/GCA_002896005.2_CDCFrontier_v0.5_genomic.fna.gz
+GCA_006151565.1	Cicer arietinum	3827	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/151/565/GCA_006151565.1_ASM615156v1/GCA_006151565.1_ASM615156v1_genomic.fna.gz
+GCA_006345785.1	Cicer arietinum	3827	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/345/785/GCA_006345785.1_ASM634578v1/GCA_006345785.1_ASM634578v1_genomic.fna.gz
+GCA_001269945.2	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/269/945/GCA_001269945.2_Glycine_max_Enrei_2.0/GCA_001269945.2_Glycine max_Enrei_2.0_genomic.fna.gz
+GCA_002905335.2	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/905/335/GCA_002905335.2_glyma.Lee.gnm1/GCA_002905335.2_glyma.Lee.gnm1_genomic.fna.gz
+GCA_003349995.2	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/349/995/GCA_003349995.2_Gmax_ZH13_v2.0/GCA_003349995.2_Gmax_ZH13_v2.0_genomic.fna.gz
+GCA_012273815.2	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/273/815/GCA_012273815.2_GmBRS537.a1.v2/GCA_012273815.2_GmBRS537.a1.v2_genomic.fna.gz
+GCA_014282035.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/035/GCA_014282035.1_WHFS_GmWF7_1.0/GCA_014282035.1_WHFS_GmWF7_1.0_genomic.fna.gz
+GCA_014282065.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/065/GCA_014282065.1_WHFS_GmHF25_1.0/GCA_014282065.1_WHFS_GmHF25_1.0_genomic.fna.gz
+GCA_014282075.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/075/GCA_014282075.1_WHFS_GmZH35_1.0/GCA_014282075.1_WHFS_GmZH35_1.0_genomic.fna.gz
+GCA_014282085.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/085/GCA_014282085.1_WHFS_GmZH13_1.0/GCA_014282085.1_WHFS_GmZH13_1.0_genomic.fna.gz
+GCA_014282095.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/095/GCA_014282095.1_WHFS_GmJY_1.0/GCA_014282095.1_WHFS_GmJY_1.0_genomic.fna.gz
+GCA_014282145.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/145/GCA_014282145.1_WHFS_GmHX3_1.0/GCA_014282145.1_WHFS_GmHX3_1.0_genomic.fna.gz
+GCA_014282185.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/185/GCA_014282185.1_WHFS_GmW82_1.0/GCA_014282185.1_WHFS_GmW82_1.0_genomic.fna.gz
+GCA_015227745.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/227/745/GCA_015227745.1_Tianlong1/GCA_015227745.1_Tianlong1_genomic.fna.gz
+GCA_019321705.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/321/705/GCA_019321705.1_PI594527.PLATINUM.CHROMOSOMES.fasta/GCA_019321705.1_PI594527.PLATINUM.CHROMOSOMES.fasta_genomic.fna.gz
+GCA_020497155.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/497/155/GCA_020497155.1_ASM2049715v1/GCA_020497155.1_ASM2049715v1_genomic.fna.gz
+GCA_021733175.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/733/175/GCA_021733175.1_JD17_chr_final/GCA_021733175.1_JD17_chr_final_genomic.fna.gz
+GCA_022114995.1	Glycine max	3847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/114/995/GCA_022114995.1_ASM2211499v1/GCA_022114995.1_ASM2211499v1_genomic.fna.gz
+GCA_000722935.2	Glycine soja	3848	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/722/935/GCA_000722935.2_W05v1.0/GCA_000722935.2_W05v1.0_genomic.fna.gz
+GCA_002907465.1	Glycine soja	3848	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/907/465/GCA_002907465.1_glyso.PI483463.gnm1/GCA_002907465.1_glyso.PI483463.gnm1_genomic.fna.gz
+GCA_014282345.1	Glycine soja	3848	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/345/GCA_014282345.1_WHFS_GsojaF_1.0/GCA_014282345.1_WHFS_GsojaF_1.0_genomic.fna.gz
+GCA_009771035.1	Lupinus albus	3870	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/771/035/GCA_009771035.1_CNRS_Lalb_1.0/GCA_009771035.1_CNRS_Lalb_1.0_genomic.fna.gz
+GCA_000338175.1	Lupinus angustifolius	3871	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/338/175/GCA_000338175.1_Lupin_genome_scaffold/GCA_000338175.1_Lupin genome scaffold_genomic.fna.gz
+GCA_002285895.2	Lupinus angustifolius	3871	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/285/895/GCA_002285895.2_ASM228589v2/GCA_002285895.2_ASM228589v2_genomic.fna.gz
+GCA_000219495.2	Medicago truncatula	3880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/219/495/GCA_000219495.2_MedtrA17_4.0/GCA_000219495.2_MedtrA17_4.0_genomic.fna.gz
+GCA_002024945.1	Medicago truncatula	3880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/024/945/GCA_002024945.1_R108_v._1.0/GCA_002024945.1_R108 v. 1.0_genomic.fna.gz
+GCA_002251925.1	Medicago truncatula	3880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/251/925/GCA_002251925.1_hm034.alpaca.scaffolds/GCA_002251925.1_hm034.alpaca.scaffolds_genomic.fna.gz
+GCA_002251935.1	Medicago truncatula	3880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/251/935/GCA_002251935.1_hm340.alpaca.scaffolds/GCA_002251935.1_hm340.alpaca.scaffolds_genomic.fna.gz
+GCA_002251955.1	Medicago truncatula	3880	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/251/955/GCA_002251955.1_hm056.alpaca.scaffolds/GCA_002251955.1_hm056.alpaca.scaffolds_genomic.fna.gz
+GCA_020570325.1	Phaseolus lunatus	3884	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/570/325/GCA_020570325.1_ASM2057032v1/GCA_020570325.1_ASM2057032v1_genomic.fna.gz
+GCA_001517995.1	Phaseolus vulgaris	3885	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/517/995/GCA_001517995.1_phasIbeam10.0/GCA_001517995.1_phasIbeam10.0_genomic.fna.gz
+GCA_015708805.1	Phaseolus vulgaris	3885	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/708/805/GCA_015708805.1_OAC-Rex_P_vulgaris/GCA_015708805.1_OAC-Rex_P_vulgaris_genomic.fna.gz
+GCA_016509735.1	Phaseolus vulgaris	3885	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/509/735/GCA_016509735.1_ASM1650973v1/GCA_016509735.1_ASM1650973v1_genomic.fna.gz
+GCA_016509755.1	Phaseolus vulgaris	3885	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/509/755/GCA_016509755.1_ASM1650975v1/GCA_016509755.1_ASM1650975v1_genomic.fna.gz
+GCA_003013575.1	Pisum sativum	3888	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/013/575/GCA_003013575.1_ASM301357v1/GCA_003013575.1_ASM301357v1_genomic.fna.gz
+GCA_014905515.1	Pisum sativum	3888	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/905/515/GCA_014905515.1_PSA_r1.0/GCA_014905515.1_PSA_r1.0_genomic.fna.gz
+GCA_002003065.1	Trifolium subterraneum	3900	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/003/065/GCA_002003065.1_TSUw_r1.0/GCA_002003065.1_TSUw_r1.0_genomic.fna.gz
+GCA_018327625.1	Vicia sativa	3908	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/327/625/GCA_018327625.1_VSA_r1.0/GCA_018327625.1_VSA_r1.0_genomic.fna.gz
+GCA_016808095.1	Vigna angularis	3914	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/808/095/GCA_016808095.1_ASM1680809v1/GCA_016808095.1_ASM1680809v1_genomic.fna.gz
+GCA_013427195.1	Vigna mungo	3915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/427/195/GCA_013427195.1_ASM1342719v1/GCA_013427195.1_ASM1342719v1_genomic.fna.gz
+GCA_001584445.1	Vigna radiata var. radiata	157791	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/584/445/GCA_001584445.1_ASM158444v1/GCA_001584445.1_ASM158444v1_genomic.fna.gz
+GCA_001687525.1	Vigna unguiculata subsp. unguiculata	3917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/687/525/GCA_001687525.1_Cowpea_0.03/GCA_001687525.1_Cowpea_0.03_genomic.fna.gz
+GCA_000340545.1	Hevea brasiliensis	3981	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/340/545/GCA_000340545.1_Hevbra_1.0/GCA_000340545.1_Hevbra_1.0_genomic.fna.gz
+GCA_001907995.1	Hevea brasiliensis	3981	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/907/995/GCA_001907995.1_ASM190799v1/GCA_001907995.1_ASM190799v1_genomic.fna.gz
+GCA_002003025.1	Hevea brasiliensis	3981	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/003/025/GCA_002003025.1_HbrasiliensisBPM24_01/GCA_002003025.1_HbrasiliensisBPM24_01_genomic.fna.gz
+GCA_010458925.1	Hevea brasiliensis	3981	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/458/925/GCA_010458925.1_ASM1045892v1/GCA_010458925.1_ASM1045892v1_genomic.fna.gz
+GCA_000737115.1	Manihot esculenta	3983	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/737/115/GCA_000737115.1_MK_v2b/GCA_000737115.1_MK_v2b_genomic.fna.gz
+GCA_003957885.1	Manihot esculenta	3983	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/957/885/GCA_003957885.1_ASM395788v1/GCA_003957885.1_ASM395788v1_genomic.fna.gz
+GCA_003957995.1	Manihot esculenta	3983	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/957/995/GCA_003957995.1_ASM395799v1/GCA_003957995.1_ASM395799v1_genomic.fna.gz
+GCA_013618965.1	Manihot esculenta	3983	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/618/965/GCA_013618965.1_ASM1361896v1/GCA_013618965.1_ASM1361896v1_genomic.fna.gz
+GCA_020916425.1	Manihot esculenta	3983	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/916/425/GCA_020916425.1_hifiasm152_l3.hic.hap2.p_ctg/GCA_020916425.1_hifiasm152_l3.hic.hap2.p_ctg_genomic.fna.gz
+GCA_020916445.1	Manihot esculenta	3983	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/916/445/GCA_020916445.1_hifiasm152_l3.hic.hap1.p_ctg/GCA_020916445.1_hifiasm152_l3.hic.hap1.p_ctg_genomic.fna.gz
+GCA_019578655.1	Ricinus communis	3988	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/578/655/GCA_019578655.1_ASM1957865v1/GCA_019578655.1_ASM1957865v1_genomic.fna.gz
+GCA_002918425.1	Euphorbia esula	3993	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/918/425/GCA_002918425.1_ASM291842v1/GCA_002918425.1_ASM291842v1_genomic.fna.gz
+GCA_018691255.1	Simmondsia chinensis	3999	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/691/255/GCA_018691255.1_QK_Jojo_M_HiFi/GCA_018691255.1_QK_Jojo_M_HiFi_genomic.fna.gz
+GCA_900322235.1	Simmondsia chinensis	3999	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/322/235/GCA_900322235.1_ASM90032223v1/GCA_900322235.1_ASM90032223v1_genomic.fna.gz
+GCA_000224295.2	Linum usitatissimum	4006	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/224/295/GCA_000224295.2_ASM22429v2/GCA_000224295.2_ASM22429v2_genomic.fna.gz
+GCA_010665265.1	Linum usitatissimum	4006	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/665/265/GCA_010665265.1_ASM1066526v1/GCA_010665265.1_ASM1066526v1_genomic.fna.gz
+GCA_014858635.1	Linum usitatissimum	4006	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/858/635/GCA_014858635.1_EIMB_Lusi_1/GCA_014858635.1_EIMB_Lusi_1_genomic.fna.gz
+GCA_000512255.2	Capsicum annuum	4072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/512/255/GCA_000512255.2_ASM51225v2/GCA_000512255.2_ASM51225v2_genomic.fna.gz
+GCA_002878395.2	Capsicum annuum	4072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/878/395/GCA_002878395.2_UCD10Xv1.0/GCA_002878395.2_UCD10Xv1.0_genomic.fna.gz
+GCA_011745845.1	Capsicum annuum	4072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/745/845/GCA_011745845.1_SNU_ECW_1.0/GCA_011745845.1_SNU_ECW_1.0_genomic.fna.gz
+GCA_011745865.1	Capsicum annuum	4072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/745/865/GCA_011745865.1_SNU_SF_1.0/GCA_011745865.1_SNU_SF_1.0_genomic.fna.gz
+GCA_021292125.1	Capsicum annuum	4072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/292/125/GCA_021292125.1_Ca_59_1.0/GCA_021292125.1_Ca_59_1.0_genomic.fna.gz
+GCA_016071715.1	Datura stramonium	4076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/071/715/GCA_016071715.1_ASM1607171v1/GCA_016071715.1_ASM1607171v1_genomic.fna.gz
+GCA_016071745.1	Datura stramonium	4076	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/071/745/GCA_016071745.1_ASM1607174v1/GCA_016071745.1_ASM1607174v1_genomic.fna.gz
+GCA_000181095.1	Solanum lycopersicum	4081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/095/GCA_000181095.1_ASM18109v1/GCA_000181095.1_ASM18109v1_genomic.fna.gz
+GCA_002954035.1	Solanum lycopersicum	4081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/954/035/GCA_002954035.1_ASM295403v1/GCA_002954035.1_ASM295403v1_genomic.fna.gz
+GCA_012431665.1	Solanum lycopersicum	4081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/431/665/GCA_012431665.1_SLYMIC/GCA_012431665.1_SLYMIC_genomic.fna.gz
+GCA_900008105.1	Solanum lycopersicum	4081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/008/105/GCA_900008105.1_V100/GCA_900008105.1_V100_genomic.fna.gz
+GCA_915070445.1	Solanum lycopersicum	4081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/915/070/445/GCA_915070445.1_MbTMVv1/GCA_915070445.1_MbTMVv1_genomic.fna.gz
+GCA_000230315.1	Solanum pimpinellifolium	4084	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/230/315/GCA_000230315.1_Sol_pimpi_v1.0/GCA_000230315.1_Sol_pimpi_v1.0_genomic.fna.gz
+GCA_003660305.1	Solanum pimpinellifolium	4084	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/660/305/GCA_003660305.1_KAUST_Spi-LA0480_1.0/GCA_003660305.1_KAUST_Spi-LA0480_1.0_genomic.fna.gz
+GCA_016860485.2	Solanum pimpinellifolium	4084	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/860/485/GCA_016860485.2_SPI_r1.1/GCA_016860485.2_SPI_r1.1_genomic.fna.gz
+GCA_000715075.1	Nicotiana tabacum	4097	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/715/075/GCA_000715075.1_Ntab-K326/GCA_000715075.1_Ntab-K326_genomic.fna.gz
+GCA_000715095.1	Nicotiana tabacum	4097	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/715/095/GCA_000715095.1_Ntab-BX/GCA_000715095.1_Ntab-BX_genomic.fna.gz
+GCA_002210045.1	Nicotiana tabacum	4097	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/210/045/GCA_002210045.1_Nitab4.5/GCA_002210045.1_Nitab4.5_genomic.fna.gz
+GCA_001239805.1	Solanum commersonii	4109	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/239/805/GCA_001239805.1_ASM123980v1/GCA_001239805.1_ASM123980v1_genomic.fna.gz
+GCA_009827155.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/827/155/GCA_009827155.1_ASM982715v1/GCA_009827155.1_ASM982715v1_genomic.fna.gz
+GCA_009827175.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/827/175/GCA_009827175.1_ASM982717v1/GCA_009827175.1_ASM982717v1_genomic.fna.gz
+GCA_009849745.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/849/745/GCA_009849745.1_ASM984974v1/GCA_009849745.1_ASM984974v1_genomic.fna.gz
+GCA_010127505.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/127/505/GCA_010127505.1_ASM1012750v1/GCA_010127505.1_ASM1012750v1_genomic.fna.gz
+GCA_014182985.2	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/182/985/GCA_014182985.2_ASM1418298v2/GCA_014182985.2_ASM1418298v2_genomic.fna.gz
+GCA_014182995.2	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/182/995/GCA_014182995.2_ASM1418299v2/GCA_014182995.2_ASM1418299v2_genomic.fna.gz
+GCA_014189305.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/189/305/GCA_014189305.1_ASM1418930v1/GCA_014189305.1_ASM1418930v1_genomic.fna.gz
+GCA_014189475.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/189/475/GCA_014189475.1_ASM1418947v1/GCA_014189475.1_ASM1418947v1_genomic.fna.gz
+GCA_015076265.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/076/265/GCA_015076265.1_ASM1507626v1/GCA_015076265.1_ASM1507626v1_genomic.fna.gz
+GCA_020169535.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/169/535/GCA_020169535.1_solTubStieglitzHap2/GCA_020169535.1_solTubStieglitzHap2_genomic.fna.gz
+GCA_020169555.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/169/555/GCA_020169555.1_solTubStieglitzHap1/GCA_020169555.1_solTubStieglitzHap1_genomic.fna.gz
+GCA_020169575.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/169/575/GCA_020169575.1_solTubHeraHap2/GCA_020169575.1_solTubHeraHap2_genomic.fna.gz
+GCA_020169585.1	Solanum tuberosum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/169/585/GCA_020169585.1_solTubHeraHap1/GCA_020169585.1_solTubHeraHap1_genomic.fna.gz
+GCA_900092185.1	Ipomoea batatas	4120	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/092/185/GCA_900092185.1_Ipomoea_batatas_Version1/GCA_900092185.1_Ipomoea_batatas_Version1_genomic.fna.gz
+GCA_000975565.1	Sesamum indicum	4182	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/565/GCA_000975565.1_ASM97556v1/GCA_000975565.1_ASM97556v1_genomic.fna.gz
+GCA_001692995.1	Sesamum indicum	4182	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/692/995/GCA_001692995.1_S_indicum_Yuzhi11_v1/GCA_001692995.1_S_indicum_Yuzhi11_v1_genomic.fna.gz
+GCA_003268515.1	Sesamum indicum	4182	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/268/515/GCA_003268515.1_ASM326851v1/GCA_003268515.1_ASM326851v1_genomic.fna.gz
+GCA_000227445.1	Lactuca sativa	4236	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/227/445/GCA_000227445.1_Legassy_V2/GCA_000227445.1_Legassy_V2_genomic.fna.gz
+GCA_900198505.1	Lactuca sativa	4236	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/198/505/GCA_900198505.1_Lsativa/GCA_900198505.1_Lsativa_genomic.fna.gz
+GCA_900243165.1	Lactuca sativa	4236	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/243/165/GCA_900243165.1_Salat_v21/GCA_900243165.1_Salat v21_genomic.fna.gz
+GCA_000805495.1	Nelumbo nucifera	4432	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/805/495/GCA_000805495.1_Nelumbo_nucifera_v1.1/GCA_000805495.1_Nelumbo_nucifera_v1.1_genomic.fna.gz
+GCA_003033685.1	Nelumbo nucifera	4432	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/033/685/GCA_003033685.1_ASM303368v1/GCA_003033685.1_ASM303368v1_genomic.fna.gz
+GCA_003033695.1	Nelumbo nucifera	4432	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/033/695/GCA_003033695.1_ASM303369v1/GCA_003033695.1_ASM303369v1_genomic.fna.gz
+GCA_014319735.1	Nelumbo nucifera	4432	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/319/735/GCA_014319735.1_ASM1431973v1/GCA_014319735.1_ASM1431973v1_genomic.fna.gz
+GCA_013676235.1	Camellia sinensis	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/676/235/GCA_013676235.1_HZAU_G240_1.0/GCA_013676235.1_HZAU_G240_1.0_genomic.fna.gz
+GCA_020536515.1	Camellia sinensis	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/515/GCA_020536515.1_ASM2053651v1/GCA_020536515.1_ASM2053651v1_genomic.fna.gz
+GCA_020536595.1	Camellia sinensis	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/595/GCA_020536595.1_ASM2053659v1/GCA_020536595.1_ASM2053659v1_genomic.fna.gz
+GCA_009445465.1	Colocasia esculenta	4460	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/445/465/GCA_009445465.1_ASM944546v1/GCA_009445465.1_ASM944546v1_genomic.fna.gz
+GCA_013364625.1	Colocasia esculenta	4460	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/364/625/GCA_013364625.1_ASM1336462v1/GCA_013364625.1_ASM1336462v1_genomic.fna.gz
+GCA_002892645.1	Dactylis glomerata	4509	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/892/645/GCA_002892645.1_ASM289264v1/GCA_002892645.1_ASM289264v1_genomic.fna.gz
+GCA_004114815.1	Hordeum vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/114/815/GCA_004114815.1_Hulless_Barley_ass.V2/GCA_004114815.1_Hulless_Barley_ass.V2_genomic.fna.gz
+GCA_017309745.1	Hordeum vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/309/745/GCA_017309745.1_AAC_Synergy_1.0/GCA_017309745.1_AAC_Synergy_1.0_genomic.fna.gz
+GCA_900067785.1	Hordeum vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/067/785/GCA_900067785.1_563_A_assembled_ctg_200/GCA_900067785.1_563_A_assembled_ctg_200_genomic.fna.gz
+GCA_900067795.1	Hordeum vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/067/795/GCA_900067795.1_563_B_assembled_ctg_200/GCA_900067795.1_563_B_assembled_ctg_200_genomic.fna.gz
+GCA_900067805.1	Hordeum vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/067/805/GCA_900067805.1_563_C_assembled_ctg_200/GCA_900067805.1_563_C_assembled_ctg_200_genomic.fna.gz
+GCA_900067815.1	Hordeum vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/067/815/GCA_900067815.1_563_D_assembled_ctg_200/GCA_900067815.1_563_D_assembled_ctg_200_genomic.fna.gz
+GCA_900067825.1	Hordeum vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/067/825/GCA_900067825.1_563_F_assembled_ctg_200/GCA_900067825.1_563_F_assembled_ctg_200_genomic.fna.gz
+GCA_900075435.2	Hordeum vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/075/435/GCA_900075435.2_barley_BACs_2/GCA_900075435.2_barley BACs 2_genomic.fna.gz
+GCA_001735685.1	Lolium perenne	4522	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/735/685/GCA_001735685.1_ASM173568v1/GCA_001735685.1_ASM173568v1_genomic.fna.gz
+GCA_000789195.1	Oryza longistaminata	4528	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/789/195/GCA_000789195.1_O_longistaminata_v1.0/GCA_000789195.1_O_longistaminata_v1.0_genomic.fna.gz
+GCA_001514335.2	Oryza longistaminata	4528	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/514/335/GCA_001514335.2_ASM151433v2/GCA_001514335.2_ASM151433v2_genomic.fna.gz
+GCA_000817225.2	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/817/225/GCA_000817225.2_ASM81722v2/GCA_000817225.2_ASM81722v2_genomic.fna.gz
+GCA_900609075.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/075/GCA_900609075.1_Draft_mitochondrial_genome_of_wild_rice_W1780/GCA_900609075.1_Draft mitochondrial genome of wild rice W1780_genomic.fna.gz
+GCA_900609085.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/085/GCA_900609085.1_Draft_mitochondrial_genome_of_wild_rice_W0128/GCA_900609085.1_Draft mitochondrial genome of wild rice W0128_genomic.fna.gz
+GCA_900609095.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/095/GCA_900609095.1_Draft_mitochondrial_genome_of_wild_rice_W0132/GCA_900609095.1_Draft mitochondrial genome of wild rice W0132_genomic.fna.gz
+GCA_900609105.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/105/GCA_900609105.1_Draft_mitochondrial_genome_of_wild_rice_W0168/GCA_900609105.1_Draft mitochondrial genome of wild rice W0168_genomic.fna.gz
+GCA_900609115.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/115/GCA_900609115.1_Draft_mitochondrial_genome_of_wild_rice_W0157/GCA_900609115.1_Draft mitochondrial genome of wild rice W0157_genomic.fna.gz
+GCA_900609125.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/125/GCA_900609125.1_Draft_mitochondrial_genome_of_wild_rice_W0153/GCA_900609125.1_Draft mitochondrial genome of wild rice W0153_genomic.fna.gz
+GCA_900609135.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/135/GCA_900609135.1_Draft_mitochondrial_genome_of_wild_rice_W0589/GCA_900609135.1_Draft mitochondrial genome of wild rice W0589_genomic.fna.gz
+GCA_900609145.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/145/GCA_900609145.1_Draft_mitochondrial_genome_of_wild_rice_W0549/GCA_900609145.1_Draft mitochondrial genome of wild rice W0549_genomic.fna.gz
+GCA_900609155.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/155/GCA_900609155.1_Draft_mitochondrial_genome_of_wild_rice_W0574/GCA_900609155.1_Draft mitochondrial genome of wild rice W0574_genomic.fna.gz
+GCA_900609165.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/165/GCA_900609165.1_Draft_mitochondrial_genome_of_wild_rice_W1080/GCA_900609165.1_Draft mitochondrial genome of wild rice W1080_genomic.fna.gz
+GCA_900609175.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/175/GCA_900609175.1_Draft_mitochondrial_genome_of_wild_rice_W0171/GCA_900609175.1_Draft mitochondrial genome of wild rice W0171_genomic.fna.gz
+GCA_900609185.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/185/GCA_900609185.1_Draft_mitochondrial_genome_of_wild_rice_W1082/GCA_900609185.1_Draft mitochondrial genome of wild rice W1082_genomic.fna.gz
+GCA_900609195.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/195/GCA_900609195.1_Draft_mitochondrial_genome_of_wild_rice_W1111/GCA_900609195.1_Draft mitochondrial genome of wild rice W1111_genomic.fna.gz
+GCA_900609205.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/205/GCA_900609205.1_Draft_mitochondrial_genome_of_wild_rice_W1084/GCA_900609205.1_Draft mitochondrial genome of wild rice W1084_genomic.fna.gz
+GCA_900609215.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/215/GCA_900609215.1_Draft_mitochondrial_genome_of_wild_rice_W1092/GCA_900609215.1_Draft mitochondrial genome of wild rice W1092_genomic.fna.gz
+GCA_900609225.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/225/GCA_900609225.1_Draft_mitochondrial_genome_of_wild_rice_W1083/GCA_900609225.1_Draft mitochondrial genome of wild rice W1083_genomic.fna.gz
+GCA_900609235.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/235/GCA_900609235.1_Draft_mitochondrial_genome_of_wild_rice_W1086/GCA_900609235.1_Draft mitochondrial genome of wild rice W1086_genomic.fna.gz
+GCA_900609245.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/245/GCA_900609245.1_Draft_mitochondrial_genome_of_wild_rice_W1119/GCA_900609245.1_Draft mitochondrial genome of wild rice W1119_genomic.fna.gz
+GCA_900609255.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/255/GCA_900609255.1_Draft_mitochondrial_genome_of_wild_rice_W1683/GCA_900609255.1_Draft mitochondrial genome of wild rice W1683_genomic.fna.gz
+GCA_900609265.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/265/GCA_900609265.1_Draft_mitochondrial_genome_of_wild_rice_W1679/GCA_900609265.1_Draft mitochondrial genome of wild rice W1679_genomic.fna.gz
+GCA_900609275.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/275/GCA_900609275.1_Draft_mitochondrial_genome_of_wild_rice_W1715/GCA_900609275.1_Draft mitochondrial genome of wild rice W1715_genomic.fna.gz
+GCA_900609285.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/285/GCA_900609285.1_Draft_mitochondrial_genome_of_wild_rice_W1124/GCA_900609285.1_Draft mitochondrial genome of wild rice W1124_genomic.fna.gz
+GCA_900609295.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/295/GCA_900609295.1_Draft_mitochondrial_genome_of_wild_rice_W1724/GCA_900609295.1_Draft mitochondrial genome of wild rice W1724_genomic.fna.gz
+GCA_900609305.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/305/GCA_900609305.1_Draft_mitochondrial_genome_of_wild_rice_W1716/GCA_900609305.1_Draft mitochondrial genome of wild rice W1716_genomic.fna.gz
+GCA_900609315.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/315/GCA_900609315.1_Draft_mitochondrial_genome_of_wild_rice_W1725/GCA_900609315.1_Draft mitochondrial genome of wild rice W1725_genomic.fna.gz
+GCA_900609325.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/325/GCA_900609325.1_Draft_mitochondrial_genome_of_wild_rice_W1746/GCA_900609325.1_Draft mitochondrial genome of wild rice W1746_genomic.fna.gz
+GCA_900609335.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/335/GCA_900609335.1_Draft_mitochondrial_genome_of_wild_rice_W1740/GCA_900609335.1_Draft mitochondrial genome of wild rice W1740_genomic.fna.gz
+GCA_900609345.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/345/GCA_900609345.1_Draft_mitochondrial_genome_of_wild_rice_W1741/GCA_900609345.1_Draft mitochondrial genome of wild rice W1741_genomic.fna.gz
+GCA_900609355.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/355/GCA_900609355.1_Draft_mitochondrial_genome_of_wild_rice_W1735/GCA_900609355.1_Draft mitochondrial genome of wild rice W1735_genomic.fna.gz
+GCA_900609365.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/365/GCA_900609365.1_Draft_mitochondrial_genome_of_wild_rice_W1742/GCA_900609365.1_Draft mitochondrial genome of wild rice W1742_genomic.fna.gz
+GCA_900609375.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/375/GCA_900609375.1_Draft_mitochondrial_genome_of_wild_rice_W1747/GCA_900609375.1_Draft mitochondrial genome of wild rice W1747_genomic.fna.gz
+GCA_900609385.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/385/GCA_900609385.1_Draft_mitochondrial_genome_of_wild_rice_W1757/GCA_900609385.1_Draft mitochondrial genome of wild rice W1757_genomic.fna.gz
+GCA_900609395.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/395/GCA_900609395.1_Draft_mitochondrial_genome_of_wild_rice_W1766/GCA_900609395.1_Draft mitochondrial genome of wild rice W1766_genomic.fna.gz
+GCA_900609405.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/405/GCA_900609405.1_Draft_mitochondrial_genome_of_wild_rice_W1759/GCA_900609405.1_Draft mitochondrial genome of wild rice W1759_genomic.fna.gz
+GCA_900609415.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/415/GCA_900609415.1_Draft_mitochondrial_genome_of_wild_rice_W1748/GCA_900609415.1_Draft mitochondrial genome of wild rice W1748_genomic.fna.gz
+GCA_900609425.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/425/GCA_900609425.1_Draft_mitochondrial_genome_of_wild_rice_W1777/GCA_900609425.1_Draft mitochondrial genome of wild rice W1777_genomic.fna.gz
+GCA_900609435.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/435/GCA_900609435.1_Draft_mitochondrial_genome_of_wild_rice_W1782/GCA_900609435.1_Draft mitochondrial genome of wild rice W1782_genomic.fna.gz
+GCA_900609445.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/445/GCA_900609445.1_Draft_mitochondrial_genome_of_wild_rice_W1809/GCA_900609445.1_Draft mitochondrial genome of wild rice W1809_genomic.fna.gz
+GCA_900609455.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/455/GCA_900609455.1_Draft_mitochondrial_genome_of_wild_rice_W1819/GCA_900609455.1_Draft mitochondrial genome of wild rice W1819_genomic.fna.gz
+GCA_900609465.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/465/GCA_900609465.1_Draft_mitochondrial_genome_of_wild_rice_W1881/GCA_900609465.1_Draft mitochondrial genome of wild rice W1881_genomic.fna.gz
+GCA_900609475.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/475/GCA_900609475.1_Draft_mitochondrial_genome_of_wild_rice_W3005/GCA_900609475.1_Draft mitochondrial genome of wild rice W3005_genomic.fna.gz
+GCA_900609485.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/485/GCA_900609485.1_Draft_mitochondrial_genome_of_wild_rice_W3002/GCA_900609485.1_Draft mitochondrial genome of wild rice W3002_genomic.fna.gz
+GCA_900609495.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/495/GCA_900609495.1_Draft_mitochondrial_genome_of_wild_rice_W1865/GCA_900609495.1_Draft mitochondrial genome of wild rice W1865_genomic.fna.gz
+GCA_900609505.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/505/GCA_900609505.1_Draft_mitochondrial_genome_of_wild_rice_W3009/GCA_900609505.1_Draft mitochondrial genome of wild rice W3009_genomic.fna.gz
+GCA_900609515.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/515/GCA_900609515.1_Draft_mitochondrial_genome_of_wild_rice_W3013/GCA_900609515.1_Draft mitochondrial genome of wild rice W3013_genomic.fna.gz
+GCA_900609525.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/525/GCA_900609525.1_Draft_mitochondrial_genome_of_wild_rice_W3020/GCA_900609525.1_Draft mitochondrial genome of wild rice W3020_genomic.fna.gz
+GCA_900609535.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/535/GCA_900609535.1_Draft_mitochondrial_genome_of_wild_rice_W3023/GCA_900609535.1_Draft mitochondrial genome of wild rice W3023_genomic.fna.gz
+GCA_900609545.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/545/GCA_900609545.1_Draft_mitochondrial_genome_of_wild_rice_W3022/GCA_900609545.1_Draft mitochondrial genome of wild rice W3022_genomic.fna.gz
+GCA_900609555.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/555/GCA_900609555.1_Draft_mitochondrial_genome_of_wild_rice_W3021/GCA_900609555.1_Draft mitochondrial genome of wild rice W3021_genomic.fna.gz
+GCA_900609565.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/565/GCA_900609565.1_Draft_mitochondrial_genome_of_wild_rice_W3034/GCA_900609565.1_Draft mitochondrial genome of wild rice W3034_genomic.fna.gz
+GCA_900609575.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/575/GCA_900609575.1_Draft_mitochondrial_genome_of_wild_rice_W3071/GCA_900609575.1_Draft mitochondrial genome of wild rice W3071_genomic.fna.gz
+GCA_900609585.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/585/GCA_900609585.1_Draft_mitochondrial_genome_of_wild_rice_W3057/GCA_900609585.1_Draft mitochondrial genome of wild rice W3057_genomic.fna.gz
+GCA_900609595.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/595/GCA_900609595.1_Draft_mitochondrial_genome_of_wild_rice_W3069/GCA_900609595.1_Draft mitochondrial genome of wild rice W3069_genomic.fna.gz
+GCA_900609605.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/605/GCA_900609605.1_Draft_mitochondrial_genome_of_wild_rice_W3070/GCA_900609605.1_Draft mitochondrial genome of wild rice W3070_genomic.fna.gz
+GCA_900609615.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/615/GCA_900609615.1_Draft_mitochondrial_genome_of_wild_rice_W3066/GCA_900609615.1_Draft mitochondrial genome of wild rice W3066_genomic.fna.gz
+GCA_900609625.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/625/GCA_900609625.1_Draft_mitochondrial_genome_of_wild_rice_W3061/GCA_900609625.1_Draft mitochondrial genome of wild rice W3061_genomic.fna.gz
+GCA_900609635.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/635/GCA_900609635.1_Draft_mitochondrial_genome_of_wild_rice_W3085/GCA_900609635.1_Draft mitochondrial genome of wild rice W3085_genomic.fna.gz
+GCA_900609645.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/645/GCA_900609645.1_Draft_mitochondrial_genome_of_wild_rice_W3086/GCA_900609645.1_Draft mitochondrial genome of wild rice W3086_genomic.fna.gz
+GCA_900609665.1	Oryza rufipogon	4529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/609/665/GCA_900609665.1_Draft_mitochondrial_genome_of_wild_rice_W3094/GCA_900609665.1_Draft mitochondrial genome of wild rice W3094_genomic.fna.gz
+GCA_001648735.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/648/735/GCA_001648735.1_ASM164873v1/GCA_001648735.1_ASM164873v1_genomic.fna.gz
+GCA_001648745.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/648/745/GCA_001648745.1_IL50-13/GCA_001648745.1_IL50-13_genomic.fna.gz
+GCA_003865215.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/865/215/GCA_003865215.1_ASM386521v1/GCA_003865215.1_ASM386521v1_genomic.fna.gz
+GCA_004007595.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/007/595/GCA_004007595.1_JHU_CGRice_1.0/GCA_004007595.1_JHU_CGRice_1.0_genomic.fna.gz
+GCA_004348155.2	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/348/155/GCA_004348155.2_Tetep-1.0_genome/GCA_004348155.2_Tetep-1.0_genome_genomic.fna.gz
+GCA_009829375.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/829/375/GCA_009829375.1_Os125827RS1/GCA_009829375.1_Os125827RS1_genomic.fna.gz
+GCA_009829725.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/829/725/GCA_009829725.1_ASM982972v1/GCA_009829725.1_ASM982972v1_genomic.fna.gz
+GCA_009914875.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/914/875/GCA_009914875.1_OsIR64RS1/GCA_009914875.1_OsIR64RS1_genomic.fna.gz
+GCA_014636015.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/636/015/GCA_014636015.1_ASM1463601v1/GCA_014636015.1_ASM1463601v1_genomic.fna.gz
+GCA_014636035.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/636/035/GCA_014636035.1_ASM1463603v1/GCA_014636035.1_ASM1463603v1_genomic.fna.gz
+GCA_018853525.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/853/525/GCA_018853525.1_TN1_rice_v1.0/GCA_018853525.1_TN1_rice_v1.0_genomic.fna.gz
+GCA_019137765.1	Oryza sativa	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/137/765/GCA_019137765.1_ASM1913776v1/GCA_019137765.1_ASM1913776v1_genomic.fna.gz
+GCA_006942195.1	Oryza nivara	4536	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/942/195/GCA_006942195.1_ASM694219v1/GCA_006942195.1_ASM694219v1_genomic.fna.gz
+GCA_003046395.2	Panicum miliaceum	4540	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/046/395/GCA_003046395.2_Pm_0390_v2/GCA_003046395.2_Pm_0390_v2_genomic.fna.gz
+GCA_002174835.2	Cenchrus americanus	4543	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/174/835/GCA_002174835.2_ASM217483v2/GCA_002174835.2_ASM217483v2_genomic.fna.gz
+GCA_020739525.1	Cenchrus americanus	4543	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/739/525/GCA_020739525.1_ASM2073952v1/GCA_020739525.1_ASM2073952v1_genomic.fna.gz
+GCA_020739565.1	Cenchrus americanus	4543	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/739/565/GCA_020739565.1_ASM2073956v1/GCA_020739565.1_ASM2073956v1_genomic.fna.gz
+GCA_020739575.1	Cenchrus americanus	4543	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/739/575/GCA_020739575.1_ASM2073957v1/GCA_020739575.1_ASM2073957v1_genomic.fna.gz
+GCA_020739585.1	Cenchrus americanus	4543	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/739/585/GCA_020739585.1_ASM2073958v1/GCA_020739585.1_ASM2073958v1_genomic.fna.gz
+GCA_021560375.1	Cenchrus americanus	4543	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/560/375/GCA_021560375.1_ASM2156037v1/GCA_021560375.1_ASM2156037v1_genomic.fna.gz
+GCA_900002355.1	Secale cereale	4550	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/002/355/GCA_900002355.1_Rye_Select_Lo7_assembly/GCA_900002355.1_Rye_Select_Lo7_assembly_genomic.fna.gz
+GCA_900079665.1	Secale cereale	4550	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/079/665/GCA_900079665.1_Rye_Lo7_WGS_contigs/GCA_900079665.1_Rye_Lo7_WGS_contigs_genomic.fna.gz
+GCA_001652605.1	Setaria italica	4555	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/652/605/GCA_001652605.1_ASM165260v1/GCA_001652605.1_ASM165260v1_genomic.fna.gz
+GCA_012934335.1	Setaria viridis	4556	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/934/335/GCA_012934335.1_ASM1293433v1/GCA_012934335.1_ASM1293433v1_genomic.fna.gz
+GCA_003482435.1	Sorghum bicolor	4558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/482/435/GCA_003482435.1_Corteva_Sorghum_ONT_TX430_1.0/GCA_003482435.1_Corteva_Sorghum_ONT_TX430_1.0_genomic.fna.gz
+GCA_008000285.1	Sorghum bicolor	4558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/000/285/GCA_008000285.1_ASM800028v1/GCA_008000285.1_ASM800028v1_genomic.fna.gz
+GCA_015952705.1	Sorghum bicolor	4558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/952/705/GCA_015952705.1_SbicolorRio_v2/GCA_015952705.1_SbicolorRio_v2_genomic.fna.gz
+GCA_903166285.1	Sorghum bicolor	4558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/166/285/GCA_903166285.1_TX2783/GCA_903166285.1_TX2783_genomic.fna.gz
+GCA_903166325.1	Sorghum bicolor	4558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/166/325/GCA_903166325.1_TX436/GCA_903166325.1_TX436_genomic.fna.gz
+GCA_002220415.3	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/220/415/GCA_002220415.3_Triticum_4.0/GCA_002220415.3_Triticum_4.0_genomic.fna.gz
+GCA_900000045.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/000/045/GCA_900000045.1_Synthetic_W7984_assembly/GCA_900000045.1_Synthetic W7984 assembly_genomic.fna.gz
+GCA_900067645.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/067/645/GCA_900067645.1_Triticum_aestivum_CS42_TGAC_v1/GCA_900067645.1_Triticum_aestivum_CS42_TGAC_v1_genomic.fna.gz
+GCA_900067735.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/067/735/GCA_900067735.1_IWGSC_CSS/GCA_900067735.1_IWGSC_CSS_genomic.fna.gz
+GCA_900241085.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/241/085/GCA_900241085.1_wheat_TGACv2/GCA_900241085.1_wheat TGACv2_genomic.fna.gz
+GCA_900519105.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/519/105/GCA_900519105.1_iwgsc_refseqv1.0/GCA_900519105.1_iwgsc_refseqv1.0_genomic.fna.gz
+GCA_902651665.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/651/665/GCA_902651665.1_Tritex_Taestivum_CS/GCA_902651665.1_Tritex_Taestivum_CS_genomic.fna.gz
+GCA_902810645.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/810/645/GCA_902810645.1_Triticum_aestivum_Cadenza_EIv1.1/GCA_902810645.1_Triticum_aestivum_Cadenza_EIv1.1_genomic.fna.gz
+GCA_902810655.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/810/655/GCA_902810655.1_Triticum_aestivum_Claire_EIv1.1/GCA_902810655.1_Triticum_aestivum_Claire_EIv1.1_genomic.fna.gz
+GCA_902810665.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/810/665/GCA_902810665.1_Triticum_aestivum_Paragon_EIv1.1/GCA_902810665.1_Triticum_aestivum_Paragon_EIv1.1_genomic.fna.gz
+GCA_902810675.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/810/675/GCA_902810675.1_Triticum_aestivum_weebil_EIv1/GCA_902810675.1_Triticum_aestivum_weebil_EIv1_genomic.fna.gz
+GCA_902810685.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/810/685/GCA_902810685.1_Triticum_aestivum_Robigus_EIv1.1/GCA_902810685.1_Triticum_aestivum_Robigus_EIv1.1_genomic.fna.gz
+GCA_903993795.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/993/795/GCA_903993795.1_10wheat_assembly_jagger/GCA_903993795.1_10wheat_assembly_jagger_genomic.fna.gz
+GCA_903993975.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/993/975/GCA_903993975.1_10wheat_assembly_lancer/GCA_903993975.1_10wheat_assembly_lancer_genomic.fna.gz
+GCA_903993985.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/993/985/GCA_903993985.1_10wheat_assembly_arinaLrFor/GCA_903993985.1_10wheat_assembly_arinaLrFor_genomic.fna.gz
+GCA_903994155.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/994/155/GCA_903994155.1_10wheat_assembly_stanley/GCA_903994155.1_10wheat_assembly_stanley_genomic.fna.gz
+GCA_903994175.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/994/175/GCA_903994175.1_10wheat_assembly_mace/GCA_903994175.1_10wheat_assembly_mace_genomic.fna.gz
+GCA_903994185.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/994/185/GCA_903994185.1_10wheat_assembly_sy_mattis/GCA_903994185.1_10wheat_assembly_sy_mattis_genomic.fna.gz
+GCA_903994195.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/994/195/GCA_903994195.1_10wheat_assembly_julius/GCA_903994195.1_10wheat_assembly_julius_genomic.fna.gz
+GCA_903995565.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/995/565/GCA_903995565.1_10wheat_assembly_landmark1/GCA_903995565.1_10wheat_assembly_landmark1_genomic.fna.gz
+GCA_904066035.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/066/035/GCA_904066035.1_10wheat_assembly_norin61/GCA_904066035.1_10wheat_assembly_norin61_genomic.fna.gz
+GCA_907166925.1	Triticum aestivum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/166/925/GCA_907166925.1_wheat_cv_fielder_v1_assembly/GCA_907166925.1_wheat_cv_fielder_v1_assembly_genomic.fna.gz
+GCA_000347455.1	Triticum urartu	4572	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/347/455/GCA_000347455.1_ASM34745v1/GCA_000347455.1_ASM34745v1_genomic.fna.gz
+GCA_000005005.6	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/005/005/GCA_000005005.6_B73_RefGen_v4/GCA_000005005.6_B73 RefGen_v4_genomic.fna.gz
+GCA_003185045.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/185/045/GCA_003185045.1_Zm-Mo17-REFERENCE-CAU-1.0/GCA_003185045.1_Zm-Mo17-REFERENCE-CAU-1.0_genomic.fna.gz
+GCA_003704525.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/704/525/GCA_003704525.1_Zm-PE0075-REFERENCE-TUM-1.0/GCA_003704525.1_Zm-PE0075-REFERENCE-TUM-1.0_genomic.fna.gz
+GCA_003709335.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/709/335/GCA_003709335.1_Zm-DK105-REFERENCE-TUM-1.0/GCA_003709335.1_Zm-DK105-REFERENCE-TUM-1.0_genomic.fna.gz
+GCA_009176585.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/176/585/GCA_009176585.1_ASM917658v1/GCA_009176585.1_ASM917658v1_genomic.fna.gz
+GCA_014529475.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/529/475/GCA_014529475.1_A188Ref1/GCA_014529475.1_A188Ref1_genomic.fna.gz
+GCA_016432965.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/432/965/GCA_016432965.1_Zm-Ia453-REFERENCE-UF-1.0/GCA_016432965.1_Zm-Ia453-REFERENCE-UF-1.0_genomic.fna.gz
+GCA_019095955.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/095/955/GCA_019095955.1_Zm_B84_v1/GCA_019095955.1_Zm_B84_v1_genomic.fna.gz
+GCA_019095975.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/095/975/GCA_019095975.1_Zm_LH145_v1/GCA_019095975.1_Zm_LH145_v1_genomic.fna.gz
+GCA_019095995.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/095/995/GCA_019095995.1_Zm_PHJ40_v1/GCA_019095995.1_Zm_PHJ40_v1_genomic.fna.gz
+GCA_019096015.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/096/015/GCA_019096015.1_Zm_PHB47_v1/GCA_019096015.1_Zm_PHB47_v1_genomic.fna.gz
+GCA_019096025.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/096/025/GCA_019096025.1_Zm_NKH8431_v1/GCA_019096025.1_Zm_NKH8431_v1_genomic.fna.gz
+GCA_021307875.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/307/875/GCA_021307875.1_ASM2130787v1/GCA_021307875.1_ASM2130787v1_genomic.fna.gz
+GCA_022117705.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/117/705/GCA_022117705.1_Zm-Mo17-REFERENCE-CAU-T2T-assembly/GCA_022117705.1_Zm-Mo17-REFERENCE-CAU-T2T-assembly_genomic.fna.gz
+GCA_902166955.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/166/955/GCA_902166955.1_Zm-Oh7B-REFERENCE-NAM-1.0/GCA_902166955.1_Zm-Oh7B-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902166965.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/166/965/GCA_902166965.1_Zm-P39-REFERENCE-NAM-1.0/GCA_902166965.1_Zm-P39-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902166975.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/166/975/GCA_902166975.1_Zm-CML247-REFERENCE-NAM-1.0/GCA_902166975.1_Zm-CML247-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902166985.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/166/985/GCA_902166985.1_Zm-CML277-REFERENCE-NAM-1.0/GCA_902166985.1_Zm-CML277-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902166995.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/166/995/GCA_902166995.1_Zm-M162W-REFERENCE-NAM-1.0/GCA_902166995.1_Zm-M162W-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167005.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/005/GCA_902167005.1_Zm-NC350-REFERENCE-NAM-1.0/GCA_902167005.1_Zm-NC350-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167015.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/015/GCA_902167015.1_Zm-Oh43-REFERENCE-NAM-1.0/GCA_902167015.1_Zm-Oh43-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167025.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/025/GCA_902167025.1_Zm-CML333-REFERENCE-NAM-1.0/GCA_902167025.1_Zm-CML333-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167035.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/035/GCA_902167035.1_Zm-NC358-REFERENCE-NAM-1.0/GCA_902167035.1_Zm-NC358-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167045.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/045/GCA_902167045.1_Zm-Ky21-REFERENCE-NAM-1.0/GCA_902167045.1_Zm-Ky21-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167055.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/055/GCA_902167055.1_Zm-CML103-REFERENCE-NAM-1.0/GCA_902167055.1_Zm-CML103-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167065.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/065/GCA_902167065.1_Zm-Il14H-REFERENCE-NAM-1.0/GCA_902167065.1_Zm-Il14H-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167075.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/075/GCA_902167075.1_Zm-B97-REFERENCE-NAM-1.0/GCA_902167075.1_Zm-B97-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167085.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/085/GCA_902167085.1_Zm-HP301-REFERENCE-NAM-1.0/GCA_902167085.1_Zm-HP301-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167095.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/095/GCA_902167095.1_Zm-CML322-REFERENCE-NAM-1.0/GCA_902167095.1_Zm-CML322-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167105.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/105/GCA_902167105.1_Zm-Ki3-REFERENCE-NAM-1.0/GCA_902167105.1_Zm-Ki3-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167115.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/115/GCA_902167115.1_Zm-Ki11-REFERENCE-NAM-1.0/GCA_902167115.1_Zm-Ki11-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167135.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/135/GCA_902167135.1_Zm-CML69-REFERENCE-NAM-1.0/GCA_902167135.1_Zm-CML69-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167155.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/155/GCA_902167155.1_Zm-CML228-REFERENCE-NAM-1.0/GCA_902167155.1_Zm-CML228-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167165.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/165/GCA_902167165.1_Zm-Mo18W-REFERENCE-NAM-1.0/GCA_902167165.1_Zm-Mo18W-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167175.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/175/GCA_902167175.1_Zm-M37W-REFERENCE-NAM-1.0/GCA_902167175.1_Zm-M37W-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167185.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/185/GCA_902167185.1_Zm-Tzi8-REFERENCE-NAM-1.0/GCA_902167185.1_Zm-Tzi8-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167205.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/205/GCA_902167205.1_Zm-Tx303-REFERENCE-NAM-1.0/GCA_902167205.1_Zm-Tx303-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902167375.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/375/GCA_902167375.1_Zm-Ms71-REFERENCE-NAM-1.0/GCA_902167375.1_Zm-Ms71-REFERENCE-NAM-1.0_genomic.fna.gz
+GCA_902373975.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/373/975/GCA_902373975.1_Zm-CML52-REFERENCE-NAM-2.1/GCA_902373975.1_Zm-CML52-REFERENCE-NAM-2.1_genomic.fna.gz
+GCA_902714155.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/714/155/GCA_902714155.1_Zm-B73_AB10-REFERENCE-NAM-1.0b/GCA_902714155.1_Zm-B73_AB10-REFERENCE-NAM-1.0b_genomic.fna.gz
+GCA_905067065.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/067/065/GCA_905067065.1_Zm-LH244-REFERENCE-BAYER-1.0/GCA_905067065.1_Zm-LH244-REFERENCE-BAYER-1.0_genomic.fna.gz
+GCA_910593975.1	Zea mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/593/975/GCA_910593975.1_Zm-B104-REFERENCE-CORTEVA-1.0/GCA_910593975.1_Zm-B104-REFERENCE-CORTEVA-1.0_genomic.fna.gz
+GCA_002813485.1	Zea mays subsp. mexicana	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/813/485/GCA_002813485.1_ASM281348v1/GCA_002813485.1_ASM281348v1_genomic.fna.gz
+GCA_001661175.1	Ananas comosus	4615	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/661/175/GCA_001661175.1_ACMD2v1.0/GCA_001661175.1_ACMD2v1.0_genomic.fna.gz
+GCA_902162155.2	Ananas comosus	4615	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/162/155/GCA_902162155.2_F153.v0709/GCA_902162155.2_F153.v0709_genomic.fna.gz
+GCA_000331365.3	Ensete ventricosum	4639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/331/365/GCA_000331365.3_Ensete_JungleSeeds_v3.0/GCA_000331365.3_Ensete_JungleSeeds_v3.0_genomic.fna.gz
+GCA_001884805.1	Ensete ventricosum	4639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/884/805/GCA_001884805.1_Derea_v1.0/GCA_001884805.1_Derea_v1.0_genomic.fna.gz
+GCA_001884845.1	Ensete ventricosum	4639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/884/845/GCA_001884845.1_Onjamo_v1.0/GCA_001884845.1_Onjamo_v1.0_genomic.fna.gz
+GCA_020740505.1	Typha latifolia	4733	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/740/505/GCA_020740505.1_ASM2074050v1/GCA_020740505.1_ASM2074050v1_genomic.fna.gz
+GCA_000956625.1	Thlaspi arvense	13288	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/956/625/GCA_000956625.1_T_arvense_v1/GCA_000956625.1_T_arvense_v1_genomic.fna.gz
+GCA_018983045.1	Thlaspi arvense	13288	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/983/045/GCA_018983045.1_YUN_Tarv_1.0/GCA_018983045.1_YUN_Tarv_1.0_genomic.fna.gz
+GCA_003604295.1	Cocos nucifera	13894	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/604/295/GCA_003604295.1_ASM360429v1/GCA_003604295.1_ASM360429v1_genomic.fna.gz
+GCA_008124465.1	Cocos nucifera	13894	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/124/465/GCA_008124465.1_ASM812446v1/GCA_008124465.1_ASM812446v1_genomic.fna.gz
+GCA_001742125.1	Brachypodium distachyon	15368	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/742/125/GCA_001742125.1_ASM174212v1/GCA_001742125.1_ASM174212v1_genomic.fna.gz
+GCA_002892295.1	Brachypodium distachyon	15368	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/892/295/GCA_002892295.1_ASM289229v1/GCA_002892295.1_ASM289229v1_genomic.fna.gz
+GCA_002892335.1	Brachypodium distachyon	15368	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/892/335/GCA_002892335.1_ASM289233v1/GCA_002892335.1_ASM289233v1_genomic.fna.gz
+GCA_003123865.1	Juglans nigra	16719	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/123/865/GCA_003123865.1_ASM312386v1/GCA_003123865.1_ASM312386v1_genomic.fna.gz
+GCA_002201585.1	Punica granatum	22663	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/201/585/GCA_002201585.1_ASM220158v1/GCA_002201585.1_ASM220158v1_genomic.fna.gz
+GCA_002837095.1	Punica granatum	22663	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/837/095/GCA_002837095.1_ASM283709v1/GCA_002837095.1_ASM283709v1_genomic.fna.gz
+GCA_002864125.1	Punica granatum	22663	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/864/125/GCA_002864125.1_ASM286412v1/GCA_002864125.1_ASM286412v1_genomic.fna.gz
+GCA_019425735.1	Punica granatum	22663	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/425/735/GCA_019425735.1_PMGT_Bhagwa/GCA_019425735.1_PMGT_Bhagwa_genomic.fna.gz
+GCA_013391905.1	Hydrangea macrophylla	23110	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/391/905/GCA_013391905.1_HMA_r1.2_1/GCA_013391905.1_HMA_r1.2_1_genomic.fna.gz
+GCA_000577875.1	Solanum pennellii	28526	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/577/875/GCA_000577875.1_Sopen10/GCA_000577875.1_Sopen10_genomic.fna.gz
+GCA_000820945.1	Solanum pennellii	28526	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/820/945/GCA_000820945.1_SPen_1.0/GCA_000820945.1_SPen_1.0_genomic.fna.gz
+GCA_003347535.1	Fagus sylvatica	28930	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/347/535/GCA_003347535.1_UKW_Fsyl_0.5/GCA_003347535.1_UKW_Fsyl_0.5_genomic.fna.gz
+GCA_000504445.1	Spirodela polyrhiza	29656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/504/445/GCA_000504445.1_Spirodela_polyrhiza_v01/GCA_000504445.1_Spirodela_polyrhiza_v01_genomic.fna.gz
+GCA_001981405.1	Spirodela polyrhiza	29656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/981/405/GCA_001981405.1_ASM198140v1/GCA_001981405.1_ASM198140v1_genomic.fna.gz
+GCA_008360905.1	Spirodela polyrhiza	29656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/360/905/GCA_008360905.1_ASM836090v1/GCA_008360905.1_ASM836090v1_genomic.fna.gz
+GCA_013350415.1	Spirodela polyrhiza	29656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/350/415/GCA_013350415.1_ASM1335041v1/GCA_013350415.1_ASM1335041v1_genomic.fna.gz
+GCA_900536055.1	Spirodela polyrhiza	29656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/536/055/GCA_900536055.1_Sp9509v3/GCA_900536055.1_Sp9509v3_genomic.fna.gz
+GCA_000787975.1	Gossypium arboreum	29729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/787/975/GCA_000787975.1_arboreum_v1.0/GCA_000787975.1_arboreum_v1.0_genomic.fna.gz
+GCA_000331045.1	Gossypium raimondii	29730	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/331/045/GCA_000331045.1_Gr_v1.0/GCA_000331045.1_Gr_v1.0_genomic.fna.gz
+GCA_013467475.1	Gossypium raimondii	29730	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/467/475/GCA_013467475.1_ASM1346747v1/GCA_013467475.1_ASM1346747v1_genomic.fna.gz
+GCA_002922885.1	Vitis vinifera	29760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/922/885/GCA_002922885.1_Chkhaveri_assembly01/GCA_002922885.1_Chkhaveri_assembly01_genomic.fna.gz
+GCA_002923015.1	Vitis vinifera	29760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/923/015/GCA_002923015.1_Saperavi_assembly01/GCA_002923015.1_Saperavi_assembly01_genomic.fna.gz
+GCA_002923105.1	Vitis vinifera	29760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/923/105/GCA_002923105.1_Meskhetian_assembly01/GCA_002923105.1_Meskhetian_assembly01_genomic.fna.gz
+GCA_002923165.1	Vitis vinifera	29760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/923/165/GCA_002923165.1_Rkatsiteli_assembly01/GCA_002923165.1_Rkatsiteli_assembly01_genomic.fna.gz
+GCA_004011995.1	Vitis vinifera	29760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/011/995/GCA_004011995.1_AWRI_Vv-CHD_1.0/GCA_004011995.1_AWRI_Vv-CHD_1.0_genomic.fna.gz
+GCA_011037095.1	Vitis vinifera	29760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/037/095/GCA_011037095.1_Chardonnay04/GCA_011037095.1_Chardonnay04_genomic.fna.gz
+GCA_022058905.1	Vitis vinifera	29760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/058/905/GCA_022058905.1_Flame/GCA_022058905.1_Flame_genomic.fna.gz
+GCA_016746415.1	Mangifera indica	29780	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/746/415/GCA_016746415.1_ASM1674641v1/GCA_016746415.1_ASM1674641v1_genomic.fna.gz
+GCA_020138855.1	Mangifera indica	29780	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/138/855/GCA_020138855.1_Mindica_Amrapali_3.0/GCA_020138855.1_Mindica_Amrapali_3.0_genomic.fna.gz
+GCA_021014495.1	Mangifera indica	29780	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/014/495/GCA_021014495.1_M.indica_Neelam_pat1.0/GCA_021014495.1_M.indica_Neelam_pat1.0_genomic.fna.gz
+GCA_021014955.1	Mangifera indica	29780	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/014/955/GCA_021014955.1_M.indica_Dashehari_mat1.0/GCA_021014955.1_M.indica_Dashehari_mat1.0_genomic.fna.gz
+GCA_011037805.1	Carya illinoinensis	32201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/037/805/GCA_011037805.1_ASM1103780v1/GCA_011037805.1_ASM1103780v1_genomic.fna.gz
+GCA_016808215.1	Carya illinoinensis	32201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/808/215/GCA_016808215.1_C.illinoinensisOaxaca_v1/GCA_016808215.1_C.illinoinensisOaxaca_v1_genomic.fna.gz
+GCA_018688675.1	Carya illinoinensis	32201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/688/675/GCA_018688675.1_C.illinoinensisLakota_v1/GCA_018688675.1_C.illinoinensisLakota_v1_genomic.fna.gz
+GCA_018689175.1	Carya illinoinensis	32201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/689/175/GCA_018689175.1_C.illinoinensisElliott_v1/GCA_018689175.1_C.illinoinensisElliott_v1_genomic.fna.gz
+GCA_018689195.1	Carya illinoinensis	32201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/689/195/GCA_018689195.1_C.illinoinensisLakota_alternate_haplotype_v1/GCA_018689195.1_C.illinoinensisLakota_alternate_haplotype_v1_genomic.fna.gz
+GCA_018689215.1	Carya illinoinensis	32201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/689/215/GCA_018689215.1_C.illinoinensisElliott_alternate_haplotype_v1/GCA_018689215.1_C.illinoinensisElliott_alternate_haplotype_v1_genomic.fna.gz
+GCA_912073615.1	Lithospermum erythrorhizon	34254	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/912/073/615/GCA_912073615.1_contig_le_genome/GCA_912073615.1_contig_le_genome_genomic.fna.gz
+GCA_007990455.1	Gossypium mustelinum	34275	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/990/455/GCA_007990455.1_Gossypium_mustelinum_v1.1/GCA_007990455.1_Gossypium_mustelinum_v1.1_genomic.fna.gz
+GCA_007990485.1	Gossypium tomentosum	34277	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/990/485/GCA_007990485.1_Gossypium_tomentosum_v1.1/GCA_007990485.1_Gossypium_tomentosum_v1.1_genomic.fna.gz
+GCA_000260855.1	Eucalyptus camaldulensis	34316	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/260/855/GCA_000260855.1_EUC_r1.0/GCA_000260855.1_EUC_r1.0_genomic.fna.gz
+GCA_014182705.1	Eucalyptus camaldulensis	34316	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/182/705/GCA_014182705.1_ASM1418270v1/GCA_014182705.1_ASM1418270v1_genomic.fna.gz
+GCA_019915175.1	Eucalyptus camaldulensis	34316	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/915/175/GCA_019915175.1_ASM1991517v1/GCA_019915175.1_ASM1991517v1_genomic.fna.gz
+GCA_003112345.1	Artemisia annua	35608	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/112/345/GCA_003112345.1_ASM311234v1/GCA_003112345.1_ASM311234v1_genomic.fna.gz
+GCA_000397085.1	Porphyridium purpureum	35688	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/397/085/GCA_000397085.1_Porphyridium_purpureum/GCA_000397085.1_Porphyridium purpureum_genomic.fna.gz
+GCA_019702435.1	Porphyridium purpureum	35688	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/702/435/GCA_019702435.1_ASM1970243v1/GCA_019702435.1_ASM1970243v1_genomic.fna.gz
+GCA_000978395.1	Ipomoea trifida	35884	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/395/GCA_000978395.1_ITR_r1.0/GCA_000978395.1_ITR_r1.0_genomic.fna.gz
+GCA_000981105.1	Ipomoea trifida	35884	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/981/105/GCA_000981105.1_ITRk_r1.0/GCA_000981105.1_ITRk_r1.0_genomic.fna.gz
+GCA_004706985.1	Ipomoea trifida	35884	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/706/985/GCA_004706985.1_ASM470698v1/GCA_004706985.1_ASM470698v1_genomic.fna.gz
+GCA_002925775.1	Santalum album	35974	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/925/775/GCA_002925775.1_SaGenomev1.0/GCA_002925775.1_SaGenomev1.0_genomic.fna.gz
+GCA_009801155.1	Santalum album	35974	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/801/155/GCA_009801155.1_ICFRI_Sandal_01/GCA_009801155.1_ICFRI_Sandal_01_genomic.fna.gz
+GCA_018524995.1	Prunus armeniaca	36596	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/524/995/GCA_018524995.1_ASM1852499v1/GCA_018524995.1_ASM1852499v1_genomic.fna.gz
+GCA_020226305.1	Prunus armeniaca	36596	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/226/305/GCA_020226305.1_GSYX_assembly/GCA_020226305.1_GSYX_assembly_genomic.fna.gz
+GCA_020424065.1	Prunus armeniaca	36596	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/424/065/GCA_020424065.1_ASM2042406v1/GCA_020424065.1_ASM2042406v1_genomic.fna.gz
+GCA_903114435.1	Prunus armeniaca	36596	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/114/435/GCA_903114435.1_pruArmRojPasHapORARED/GCA_903114435.1_pruArmRojPasHapORARED_genomic.fna.gz
+GCA_000347335.2	Aegilops tauschii	37682	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/347/335/GCA_000347335.2_ASM34733v2/GCA_000347335.2_ASM34733v2_genomic.fna.gz
+GCA_902850255.1	Arabidopsis arenosa	38785	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/850/255/GCA_902850255.1_pseudohap_a_tetraploid/GCA_902850255.1_pseudohap_a_tetraploid_genomic.fna.gz
+GCA_902996965.1	Arabidopsis arenosa	38785	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/996/965/GCA_902996965.1_pseudohap_a_diploid/GCA_902996965.1_pseudohap_a_diploid_genomic.fna.gz
+GCA_900149125.1	Fraxinus excelsior	38873	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/149/125/GCA_900149125.1_BATG-0.5/GCA_900149125.1_BATG-0.5_genomic.fna.gz
+GCA_003013145.1	Quercus robur	38942	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/013/145/GCA_003013145.1_ASM301314v1/GCA_003013145.1_ASM301314v1_genomic.fna.gz
+GCA_910573715.1	Azolla caroliniana	39631	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/573/715/GCA_910573715.1_Azspnov1_double-filtered/GCA_910573715.1_Azspnov1_double-filtered_genomic.fna.gz
+GCA_000004655.2	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/004/655/GCA_000004655.2_ASM465v1/GCA_000004655.2_ASM465v1_genomic.fna.gz
+GCA_000725085.2	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/725/085/GCA_000725085.2_ASM72508v2/GCA_000725085.2_ASM72508v2_genomic.fna.gz
+GCA_001305255.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/305/255/GCA_001305255.1_ASM130525v1/GCA_001305255.1_ASM130525v1_genomic.fna.gz
+GCA_001611195.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/611/195/GCA_001611195.1_ASM161119v1/GCA_001611195.1_ASM161119v1_genomic.fna.gz
+GCA_001611235.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/611/235/GCA_001611235.1_ASM161123v1/GCA_001611235.1_ASM161123v1_genomic.fna.gz
+GCA_001611255.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/611/255/GCA_001611255.1_ASM161125v1/GCA_001611255.1_ASM161125v1_genomic.fna.gz
+GCA_001618785.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/618/785/GCA_001618785.1_Mhv2.0/GCA_001618785.1_Mhv2.0_genomic.fna.gz
+GCA_001618795.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/618/795/GCA_001618795.1_ZSv2.0/GCA_001618795.1_ZSv2.0_genomic.fna.gz
+GCA_001623345.3	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/623/345/GCA_001623345.3_ZS97RS3/GCA_001623345.3_ZS97RS3_genomic.fna.gz
+GCA_001623365.2	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/623/365/GCA_001623365.2_MH63RS2/GCA_001623365.2_MH63RS2_genomic.fna.gz
+GCA_001889745.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/889/745/GCA_001889745.1_Rice_IR8_v1.7/GCA_001889745.1_Rice_IR8_v1.7_genomic.fna.gz
+GCA_002151415.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/151/415/GCA_002151415.1_R498.Genome.version1/GCA_002151415.1_R498.Genome.version1_genomic.fna.gz
+GCA_003449045.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/449/045/GCA_003449045.1_ASM344904v1/GCA_003449045.1_ASM344904v1_genomic.fna.gz
+GCA_006992885.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/992/885/GCA_006992885.1_ASM699288v1/GCA_006992885.1_ASM699288v1_genomic.fna.gz
+GCA_009829395.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/829/395/GCA_009829395.1_Os127564RS1/GCA_009829395.1_Os127564RS1_genomic.fna.gz
+GCA_009831025.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/831/025/GCA_009831025.1_Os132424RS1/GCA_009831025.1_Os132424RS1_genomic.fna.gz
+GCA_009831045.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/831/045/GCA_009831045.1_Os127742RS1/GCA_009831045.1_Os127742RS1_genomic.fna.gz
+GCA_009831295.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/831/295/GCA_009831295.1_Os127518RS1/GCA_009831295.1_Os127518RS1_genomic.fna.gz
+GCA_009831355.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/831/355/GCA_009831355.1_Os125619RS1/GCA_009831355.1_Os125619RS1_genomic.fna.gz
+GCA_011764405.2	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/764/405/GCA_011764405.2_ASM1176440v2/GCA_011764405.2_ASM1176440v2_genomic.fna.gz
+GCA_019338905.1	Oryza sativa Indica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/338/905/GCA_019338905.1_ASM1933890v1/GCA_019338905.1_ASM1933890v1_genomic.fna.gz
+GCA_000005425.2	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/005/425/GCA_000005425.2_Build_4.0/GCA_000005425.2_Build 4.0_genomic.fna.gz
+GCA_000149285.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/149/285/GCA_000149285.1_OrySat_Sep2003/GCA_000149285.1_OrySat_Sep2003_genomic.fna.gz
+GCA_000164945.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/164/945/GCA_000164945.1_OrySat_Aug2009/GCA_000164945.1_OrySat_Aug2009_genomic.fna.gz
+GCA_000321445.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/321/445/GCA_000321445.1_Osat_hitom_01/GCA_000321445.1_Osat_hitom_01_genomic.fna.gz
+GCA_000817615.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/817/615/GCA_000817615.1_HEG4v1.0/GCA_000817615.1_HEG4v1.0_genomic.fna.gz
+GCA_000817635.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/817/635/GCA_000817635.1_A123v1.0/GCA_000817635.1_A123v1.0_genomic.fna.gz
+GCA_002573525.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/573/525/GCA_002573525.1_SJ18_v1/GCA_002573525.1_SJ18_v1_genomic.fna.gz
+GCA_003449065.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/449/065/GCA_003449065.1_ASM344906v1/GCA_003449065.1_ASM344906v1_genomic.fna.gz
+GCA_003865235.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/865/235/GCA_003865235.1_ASM386523v1/GCA_003865235.1_ASM386523v1_genomic.fna.gz
+GCA_009797565.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/797/565/GCA_009797565.1_Osativa_Kitaake_v2.0/GCA_009797565.1_Osativa_Kitaake_v2.0_genomic.fna.gz
+GCA_009830595.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/830/595/GCA_009830595.1_AzucenaRS1/GCA_009830595.1_AzucenaRS1_genomic.fna.gz
+GCA_014526345.1	Oryza sativa Japonica Group	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/526/345/GCA_014526345.1_IGDBCAS_Zhonghua11_1.0/GCA_014526345.1_IGDBCAS_Zhonghua11_1.0_genomic.fna.gz
+GCA_001551795.1	Oryza meridionalis	40149	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/551/795/GCA_001551795.1_ASM155179v1/GCA_001551795.1_ASM155179v1_genomic.fna.gz
+GCA_019705885.1	Raphanus sativus var. niger	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/705/885/GCA_019705885.1_IVFCAAS_Rs03_1.0/GCA_019705885.1_IVFCAAS_Rs03_1.0_genomic.fna.gz
+GCA_004000685.1	Mesostigma viride	41882	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/000/685/GCA_004000685.1_MeVI296_assembly3/GCA_004000685.1_MeVI296_assembly3_genomic.fna.gz
+GCA_009103195.1	Mesostigma viride	41882	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/103/195/GCA_009103195.1_ASM910319v1/GCA_009103195.1_ASM910319v1_genomic.fna.gz
+GCA_003946875.1	Prunus avium	42229	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/946/875/GCA_003946875.1_HMN_1.0/GCA_003946875.1_HMN_1.0_genomic.fna.gz
+GCA_012349055.1	Prunus avium	42229	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/349/055/GCA_012349055.1_Tieton_10x/GCA_012349055.1_Tieton_10x_genomic.fna.gz
+GCA_013416215.1	Prunus avium	42229	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/416/215/GCA_013416215.1_Prunus_avium_v1.0/GCA_013416215.1_Prunus_avium_v1.0_genomic.fna.gz
+GCA_014155035.1	Prunus avium	42229	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/155/035/GCA_014155035.1_NE-ME-NP-PH/GCA_014155035.1_NE-ME-NP-PH_genomic.fna.gz
+GCA_000181215.3	Phoenix dactylifera	42345	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/215/GCA_000181215.3_PDK50/GCA_000181215.3_PDK50_genomic.fna.gz
+GCA_000413155.1	Phoenix dactylifera	42345	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/413/155/GCA_000413155.1_DPV01/GCA_000413155.1_DPV01_genomic.fna.gz
+GCA_007821505.1	Phoenix dactylifera	42345	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/821/505/GCA_007821505.1_K2_S20_K51.scafSeq/GCA_007821505.1_K2_S20_K51.scafSeq_genomic.fna.gz
+GCA_014296215.1	Panax notoginseng	44586	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/296/215/GCA_014296215.1_BGI_Pnoto_1/GCA_014296215.1_BGI_Pnoto_1_genomic.fna.gz
+GCA_011766145.1	Haematococcus lacustris	44745	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/766/145/GCA_011766145.1_Lacustris_1.0/GCA_011766145.1_Lacustris_1.0_genomic.fna.gz
+GCA_006232315.1	Cyanidioschyzon merolae	45157	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/315/GCA_006232315.1_ASM623231v1/GCA_006232315.1_ASM623231v1_genomic.fna.gz
+GCA_010725195.1	Cyanidioschyzon merolae	45157	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/725/195/GCA_010725195.1_CMEGT_assembly/GCA_010725195.1_CMEGT assembly_genomic.fna.gz
+GCA_011170005.1	Cyanidioschyzon merolae	45157	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/170/005/GCA_011170005.1_CME10DT_assembly/GCA_011170005.1_CME10DT assembly_genomic.fna.gz
+GCA_905175345.1	Arabidopsis suecica	45249	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/175/345/GCA_905175345.1_ASS3/GCA_905175345.1_ASS3_genomic.fna.gz
+GCA_013344705.1	Thalictrum thalictroides	46969	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/344/705/GCA_013344705.1_USP_Ttha_WT964_1.0/GCA_013344705.1_USP_Ttha_WT964_1.0_genomic.fna.gz
+GCA_013344725.1	Thalictrum thalictroides	46969	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/344/725/GCA_013344725.1_USP_Ttha_WT478_1.0/GCA_013344725.1_USP_Ttha_WT478_1.0_genomic.fna.gz
+GCA_001662405.1	Edaphochlamys debaryana	47281	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/662/405/GCA_001662405.1_Cde_assembly01/GCA_001662405.1_Cde_assembly01_genomic.fna.gz
+GCA_002818315.1	Gossypioides kirkii	47615	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/818/315/GCA_002818315.1_Gokir.v1/GCA_002818315.1_Gokir.v1_genomic.fna.gz
+GCA_002018495.1	Nicotiana attenuata	49451	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/018/495/GCA_002018495.1_NIATT_ARIZONA/GCA_002018495.1_NIATT_ARIZONA_genomic.fna.gz
+GCA_009866685.1	Ceratopteris richardii	49495	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/866/685/GCA_009866685.1_CFernv1.1/GCA_009866685.1_CFernv1.1_genomic.fna.gz
+GCA_009822675.1	Solanum pinnatisectum	50273	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/822/675/GCA_009822675.1_ASM982267v1/GCA_009822675.1_ASM982267v1_genomic.fna.gz
+GCA_000733195.1	Arabis alpina	50452	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/733/195/GCA_000733195.1_A_alpina_V4/GCA_000733195.1_A_alpina_V4_genomic.fna.gz
+GCA_014578035.1	Arabis alpina	50452	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/578/035/GCA_014578035.1_Aalp_CH_v1/GCA_014578035.1_Aalp_CH_v1_genomic.fna.gz
+GCA_004338375.1	Vanilla planifolia	51239	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/338/375/GCA_004338375.1_Vapla0.1.4/GCA_004338375.1_Vapla0.1.4_genomic.fna.gz
+GCA_016413885.1	Vanilla planifolia	51239	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/413/885/GCA_016413885.1_Elo_Vpla-B_alternate_1.0/GCA_016413885.1_Elo_Vpla-B_alternate_1.0_genomic.fna.gz
+GCA_002916465.2	Juglans regia	51240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/916/465/GCA_002916465.2_ASM291646v2/GCA_002916465.2_ASM291646v2_genomic.fna.gz
+GCA_003122785.1	Juglans regia	51240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/122/785/GCA_003122785.1_ASM312278v1/GCA_003122785.1_ASM312278v1_genomic.fna.gz
+GCA_018901965.1	Brassica rapa subsp. rapa	3711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/901/965/GCA_018901965.1_BRT_1.0/GCA_018901965.1_BRT_1.0_genomic.fna.gz
+GCA_008629595.1	Brassica rapa subsp. pekinensis	3711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/629/595/GCA_008629595.1_ASM862959v1/GCA_008629595.1_ASM862959v1_genomic.fna.gz
+GCA_003117035.1	Yamagishiella unicocca	51707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/117/035/GCA_003117035.1_YamagishiellaMinus_1.0/GCA_003117035.1_YamagishiellaMinus_1.0_genomic.fna.gz
+GCA_001672495.1	Elaeis guineensis	51953	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/672/495/GCA_001672495.1_ASM167249v1/GCA_001672495.1_ASM167249v1_genomic.fna.gz
+GCA_015461965.1	Elaeis guineensis	51953	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/461/965/GCA_015461965.1_EGPMv6/GCA_015461965.1_EGPMv6_genomic.fna.gz
+GCA_001412135.1	Silene latifolia subsp. alba	37657	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/412/135/GCA_001412135.1_ASM141213v1/GCA_001412135.1_ASM141213v1_genomic.fna.gz
+GCA_001753815.1	Citrus unshiu	55188	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/753/815/GCA_001753815.1_CunshiuBMS10_01/GCA_001753815.1_CunshiuBMS10_01_genomic.fna.gz
+GCA_000774125.1	Diospyros lotus	55363	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/774/125/GCA_000774125.1_ASM77412v1/GCA_000774125.1_ASM77412v1_genomic.fna.gz
+GCA_010721995.1	Diospyros lotus	55363	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/721/995/GCA_010721995.1_DLO_r1.1/GCA_010721995.1_DLO_r1.1_genomic.fna.gz
+GCA_014633355.1	Diospyros lotus	55363	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/633/355/GCA_014633355.1_ASM1463335v1/GCA_014633355.1_ASM1463335v1_genomic.fna.gz
+GCA_002904275.2	Dioscorea alata	55571	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/904/275/GCA_002904275.2_ASM290427v2/GCA_002904275.2_ASM290427v2_genomic.fna.gz
+GCA_002240015.2	Dioscorea cayenensis subsp. rotundata	29710	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/240/015/GCA_002240015.2_TDr96_F1_Pseudo_Chromosome_v1.0/GCA_002240015.2_TDr96_F1_Pseudo_Chromosome_v1.0_genomic.fna.gz
+GCA_002260605.1	Dioscorea cayenensis subsp. rotundata	29710	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/260/605/GCA_002260605.1_TDr96x99_v1.0.fasta/GCA_002260605.1_TDr96x99_v1.0.fasta_genomic.fna.gz
+GCA_002260645.1	Dioscorea cayenensis subsp. rotundata	29710	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/260/645/GCA_002260645.1_TDr97_00777_Male_DDN/GCA_002260645.1_TDr97_00777_Male_DDN_genomic.fna.gz
+GCA_002260665.1	Dioscorea cayenensis subsp. rotundata	29710	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/260/665/GCA_002260665.1_TDr97_00917_Female_DDN/GCA_002260665.1_TDr97_00917_Female_DDN_genomic.fna.gz
+GCA_903798265.1	Fraxinus angustifolia subsp. oxycarpa	166594	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/265/GCA_903798265.1_FRAX15-0.1/GCA_903798265.1_FRAX15-0.1_genomic.fna.gz
+GCA_902829155.1	Fraxinus pennsylvanica	56036	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/829/155/GCA_902829155.1_FRAX10-0.1/GCA_902829155.1_FRAX10-0.1_genomic.fna.gz
+GCA_902829185.1	Fraxinus pennsylvanica	56036	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/829/185/GCA_902829185.1_FRAX03-0.1/GCA_902829185.1_FRAX03-0.1_genomic.fna.gz
+GCA_903798245.1	Fraxinus pennsylvanica	56036	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/245/GCA_903798245.1_FRAX09-0.1/GCA_903798245.1_FRAX09-0.1_genomic.fna.gz
+GCA_000583005.2	Trifolium pratense	57577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/583/005/GCA_000583005.2_Tp1.0/GCA_000583005.2_Tp1.0_genomic.fna.gz
+GCA_900079335.1	Trifolium pratense	57577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/079/335/GCA_900079335.1_Trpr/GCA_900079335.1_Trpr_genomic.fna.gz
+GCA_900292005.1	Trifolium pratense	57577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/292/005/GCA_900292005.1_Trifolium_pratense_genome_v3/GCA_900292005.1_Trifolium pratense genome v3_genomic.fna.gz
+GCA_000524985.1	Arabidopsis lyrata subsp. petraea	59689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/524/985/GCA_000524985.1_Alyr_1.0/GCA_000524985.1_Alyr_1.0_genomic.fna.gz
+GCA_900205625.1	Arabidopsis lyrata subsp. petraea	59689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/205/625/GCA_900205625.1_Alyrpet2.2/GCA_900205625.1_Alyrpet2.2_genomic.fna.gz
+GCA_000763605.2	Castanea mollissima	60419	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/763/605/GCA_000763605.2_ASM76360v2/GCA_000763605.2_ASM76360v2_genomic.fna.gz
+GCA_002928575.1	Fagopyrum tataricum	62330	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/928/575/GCA_002928575.1_Ft54/GCA_002928575.1_Ft54_genomic.fna.gz
+GCA_900500655.1	Saccharum spontaneum	62335	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/500/655/GCA_900500655.1_Sugarcane_genome/GCA_900500655.1_Sugarcane genome_genomic.fna.gz
+GCA_001742885.1	Chenopodium quinoa	63459	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/742/885/GCA_001742885.1_Cqu_r1.0/GCA_001742885.1_Cqu_r1.0_genomic.fna.gz
+GCA_002732095.1	Chenopodium quinoa	63459	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/732/095/GCA_002732095.1_Cq_real_v1.0/GCA_002732095.1_Cq_real_v1.0_genomic.fna.gz
+GCA_021164245.1	Chenopodium quinoa	63459	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/164/245/GCA_021164245.1_ASM2116424v1/GCA_021164245.1_ASM2116424v1_genomic.fna.gz
+GCA_000523005.1	Arabidopsis halleri subsp. gemmifera	81970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/523/005/GCA_000523005.1_Ahal_1.0/GCA_000523005.1_Ahal_1.0_genomic.fna.gz
+GCA_003118655.1	Arabidopsis halleri subsp. gemmifera	81970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/118/655/GCA_003118655.1_Ahalleri_gemmifera_v1/GCA_003118655.1_Ahalleri_gemmifera_v1_genomic.fna.gz
+GCA_900406545.1	Turritis glabra	63678	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/406/545/GCA_900406545.1_ASM90040654v1/GCA_900406545.1_ASM90040654v1_genomic.fna.gz
+GCA_000511975.1	Fragaria iinumae	64939	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/511/975/GCA_000511975.1_FII_r1.1/GCA_000511975.1_FII_r1.1_genomic.fna.gz
+GCA_002926215.1	Oryza barthii	65489	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/926/215/GCA_002926215.1_LB120v1/GCA_002926215.1_LB120v1_genomic.fna.gz
+GCA_002926235.1	Oryza barthii	65489	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/926/235/GCA_002926235.1_TB65v1/GCA_002926235.1_TB65v1_genomic.fna.gz
+GCA_003020155.1	Oryza barthii	65489	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/020/155/GCA_003020155.1_B88v1/GCA_003020155.1_B88v1_genomic.fna.gz
+GCA_003260635.2	Brassica cretica	69181	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/260/635/GCA_003260635.2_B_cretica_B_v2/GCA_003260635.2_B_cretica_B_v2_genomic.fna.gz
+GCA_003260675.2	Brassica cretica	69181	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/260/675/GCA_003260675.2_B_cretica_D_v2/GCA_003260675.2_B_cretica_D_v2_genomic.fna.gz
+GCA_003260695.2	Brassica cretica	69181	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/260/695/GCA_003260695.2_B_cretica_D_v2/GCA_003260695.2_B_cretica_D_v2_genomic.fna.gz
+GCA_002158475.1	Ostreococcus tauri	70448	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/158/475/GCA_002158475.1_Ostta1115_2/GCA_002158475.1_Ostta1115_2_genomic.fna.gz
+GCA_905339545.1	Ostreococcus tauri	70448	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/339/545/GCA_905339545.1_AP0994_ms/GCA_905339545.1_AP0994_ms_genomic.fna.gz
+GCA_905339615.1	Ostreococcus tauri	70448	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/339/615/GCA_905339615.1_AP0986_ms/GCA_905339615.1_AP0986_ms_genomic.fna.gz
+GCA_905339625.1	Ostreococcus tauri	70448	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/339/625/GCA_905339625.1_AP0982_ms/GCA_905339625.1_AP0982_ms_genomic.fna.gz
+GCA_905339635.1	Ostreococcus tauri	70448	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/339/635/GCA_905339635.1_AP0993_ms/GCA_905339635.1_AP0993_ms_genomic.fna.gz
+GCA_905339685.1	Ostreococcus tauri	70448	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/339/685/GCA_905339685.1_AP0985_ms/GCA_905339685.1_AP0985_ms_genomic.fna.gz
+GCA_000612305.1	Eucalyptus grandis	71139	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/612/305/GCA_000612305.1_Egrandis1_0/GCA_000612305.1_Egrandis1_0_genomic.fna.gz
+GCA_002079875.1	Boechera stricta	72658	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/079/875/GCA_002079875.1_Bstricta_278_v1/GCA_002079875.1_Bstricta_278_v1_genomic.fna.gz
+GCA_018361405.1	Boechera stricta	72658	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/361/405/GCA_018361405.1_NTU_Bstr_LTM_2.2/GCA_018361405.1_NTU_Bstr_LTM_2.2_genomic.fna.gz
+GCA_000325905.2	Eutrema salsugineum	72664	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/325/905/GCA_000325905.2_TsV2-8/GCA_000325905.2_TsV2-8_genomic.fna.gz
+GCA_016617915.1	Eutrema salsugineum	72664	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/617/915/GCA_016617915.1_SCU_Esa_1.0/GCA_016617915.1_SCU_Esa_1.0_genomic.fna.gz
+GCA_000775935.1	Erigeron canadensis	72917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/775/935/GCA_000775935.1_ASM77593v1/GCA_000775935.1_ASM77593v1_genomic.fna.gz
+GCA_907165085.1	Hordeum vulgare subsp. spontaneum	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/165/085/GCA_907165085.1_OUH206_pseudomolecules_assembly/GCA_907165085.1_OUH206_pseudomolecules_assembly_genomic.fna.gz
+GCA_021398055.1	Oryza coarctata	77588	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/398/055/GCA_021398055.1_SCIS-JNU_Pcoar_1.0/GCA_021398055.1_SCIS-JNU_Pcoar_1.0_genomic.fna.gz
+GCA_002146275.1	Elaeis oleifera	80265	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/146/275/GCA_002146275.1_EO01/GCA_002146275.1_EO01_genomic.fna.gz
+GCA_009849705.1	Solanum tuberosum subsp. andigenum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/849/705/GCA_009849705.1_ASM984970v1/GCA_009849705.1_ASM984970v1_genomic.fna.gz
+GCA_009849725.1	Solanum tuberosum subsp. andigenum	4113	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/849/725/GCA_009849725.1_ASM984972v1/GCA_009849725.1_ASM984972v1_genomic.fna.gz
+GCA_019343435.1	Corylus heterophylla	80754	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/343/435/GCA_019343435.1_ASM1934343v1/GCA_019343435.1_ASM1934343v1_genomic.fna.gz
+GCA_003711535.1	Arabidopsis halleri	81970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/711/535/GCA_003711535.1_Ahalleri_CH_v2/GCA_003711535.1_Ahalleri_CH_v2_genomic.fna.gz
+GCA_011037025.1	Arabidopsis halleri subsp. halleri	81970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/037/025/GCA_011037025.1_Aha_ha_2.0/GCA_011037025.1_Aha_ha_2.0_genomic.fna.gz
+GCA_900406515.1	Pseudoturritis turrita	81982	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/406/515/GCA_900406515.1_ASM90040651v1/GCA_900406515.1_ASM90040651v1_genomic.fna.gz
+GCA_002806895.1	Boehmeria nivea	83906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/806/895/GCA_002806895.1_ASM280689v1/GCA_002806895.1_ASM280689v1_genomic.fna.gz
+GCA_002937015.1	Boehmeria nivea	83906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/937/015/GCA_002937015.1_ASM293701v1/GCA_002937015.1_ASM293701v1_genomic.fna.gz
+GCA_021020685.1	Boehmeria nivea	83906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/020/685/GCA_021020685.1_ASM2102068v1/GCA_021020685.1_ASM2102068v1_genomic.fna.gz
+GCA_009802035.1	Triticum dicoccoides	85692	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/802/035/GCA_009802035.1_Tritex_turgidum_zavitan/GCA_009802035.1_Tritex_turgidum_zavitan_genomic.fna.gz
+GCA_900184675.1	Triticum dicoccoides	85692	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/184/675/GCA_900184675.1_WEW_v1/GCA_900184675.1_WEW v1_genomic.fna.gz
+GCA_902651645.1	Triticum dicoccoides	85692	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/651/645/GCA_902651645.1_Tritex_Tturgidum_zavitan/GCA_902651645.1_Tritex_Tturgidum_zavitan_genomic.fna.gz
+GCA_014863905.1	Prunus salicina	88123	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/863/905/GCA_014863905.1_SCAU_Psal_1.0/GCA_014863905.1_SCAU_Psal_1.0_genomic.fna.gz
+GCA_019277915.1	Prunus salicina	88123	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/277/915/GCA_019277915.1_ASM1927791v1/GCA_019277915.1_ASM1927791v1_genomic.fna.gz
+GCA_019985075.1	Arctostaphylos glauca	89197	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/985/075/GCA_019985075.1_ddArcGlau1.0.a/GCA_019985075.1_ddArcGlau1.0.a_genomic.fna.gz
+GCA_015022175.1	Echinochloa crus-galli	90397	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/022/175/GCA_015022175.1_ASM1502217v1/GCA_015022175.1_ASM1502217v1_genomic.fna.gz
+GCA_900205405.1	Echinochloa crus-galli	90397	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/205/405/GCA_900205405.1_ASM90020540v1/GCA_900205405.1_ASM90020540v1_genomic.fna.gz
+GCA_000496875.1	Camelina sativa	90675	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/496/875/GCA_000496875.1_CamelinaSativa/GCA_000496875.1_CamelinaSativa_genomic.fna.gz
+GCA_003689015.2	Cicer reticulatum	90898	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/689/015/GCA_003689015.2_ASM368901v2/GCA_003689015.2_ASM368901v2_genomic.fna.gz
+GCA_003123785.1	Pterocarya stenoptera	91225	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/123/785/GCA_003123785.1_ASM312378v1/GCA_003123785.1_ASM312378v1_genomic.fna.gz
+GCA_002141455.1	Corchorus olitorius	93759	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/141/455/GCA_002141455.1_Co_S7_2014/GCA_002141455.1_Co_S7_2014_genomic.fna.gz
+GCA_004681165.1	Platycodon grandiflorus	94286	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/681/165/GCA_004681165.1_RDA_PgrJ_v1/GCA_004681165.1_RDA_PgrJ_v1_genomic.fna.gz
+GCA_011317585.1	Zingiber officinale	94328	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/317/585/GCA_011317585.1_ASM1131758v1/GCA_011317585.1_ASM1131758v1_genomic.fna.gz
+GCA_020796215.1	Xanthoceras sorbifolium	99658	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/796/215/GCA_020796215.1_XSv2.1f/GCA_020796215.1_XSv2.1f_genomic.fna.gz
+GCA_012071895.1	Benincasa hispida	102211	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/071/895/GCA_012071895.1_ASM1207189v1/GCA_012071895.1_ASM1207189v1_genomic.fna.gz
+GCA_016987355.1	Benincasa hispida	102211	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/987/355/GCA_016987355.1_ASM1698735v1/GCA_016987355.1_ASM1698735v1_genomic.fna.gz
+GCA_019972055.1	Castanea crenata	103480	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/972/055/GCA_019972055.1_CCR_r1.0/GCA_019972055.1_CCR_r1.0_genomic.fna.gz
+GCA_001696755.1	Hibiscus syriacus	106335	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/696/755/GCA_001696755.1_ASM169675v1/GCA_001696755.1_ASM169675v1_genomic.fna.gz
+GCA_900004065.1	Rhizophora apiculata	106626	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/004/065/GCA_900004065.1_ra_scaffold/GCA_900004065.1_ra_scaffold_genomic.fna.gz
+GCA_019776015.1	Amaranthus palmeri	107608	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/776/015/GCA_019776015.1_ASM1977601v1/GCA_019776015.1_ASM1977601v1_genomic.fna.gz
+GCA_900188785.1	Solanum americanum	109975	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/188/785/GCA_900188785.1_NanoPore_RenSeq_-_Canu_nanopolish/GCA_900188785.1_NanoPore RenSeq - Canu nanopolish_genomic.fna.gz
+GCA_900188835.1	Solanum americanum	109975	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/188/835/GCA_900188835.1_S._americanum_SMRT_RenSeq_PacBio_Canu/GCA_900188835.1_S. americanum SMRT RenSeq PacBio Canu_genomic.fna.gz
+GCA_900188885.1	Solanum americanum	109975	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/188/885/GCA_900188885.1_Nanopore_RenSeq_Canu_assembly/GCA_900188885.1_Nanopore RenSeq Canu assembly_genomic.fna.gz
+GCA_900188895.1	Solanum americanum	109975	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/188/895/GCA_900188895.1_NanoPore_RenSeq_-_Canu_assembly_nanopolish_pilon/GCA_900188895.1_NanoPore RenSeq - Canu assembly nanopolish pilon_genomic.fna.gz
+GCA_900198685.1	Solanum americanum	109975	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/198/685/GCA_900198685.1_S._americanum_SMRT_RenSeq_HGAP/GCA_900198685.1_S. americanum SMRT RenSeq HGAP_genomic.fna.gz
+GCA_000769845.1	Raphanus raphanistrum subsp. raphanistrum	109996	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/769/845/GCA_000769845.1_ASM76984v1/GCA_000769845.1_ASM76984v1_genomic.fna.gz
+GCA_005223365.2	Oryza meyeriana var. granulata	83307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/223/365/GCA_005223365.2_ASM522336v2/GCA_005223365.2_ASM522336v2_genomic.fna.gz
+GCA_000326085.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/326/085/GCA_000326085.1_ASM32608v1/GCA_000326085.1_ASM32608v1_genomic.fna.gz
+GCA_000326125.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/326/125/GCA_000326125.1_ASM32612v1/GCA_000326125.1_ASM32612v1_genomic.fna.gz
+GCA_001077415.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/077/415/GCA_001077415.1_ASM107741v1/GCA_001077415.1_ASM107741v1_genomic.fna.gz
+GCA_002900805.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/900/805/GCA_002900805.1_ASM290080v1/GCA_002900805.1_ASM290080v1_genomic.fna.gz
+GCA_012180865.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/180/865/GCA_012180865.1_renseq_pacbio_GoldenPromise_v3/GCA_012180865.1_renseq_pacbio_GoldenPromise_v3_genomic.fna.gz
+GCA_012184465.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/184/465/GCA_012184465.1_renseq_pacbio_CI16153_v3/GCA_012184465.1_renseq_pacbio_CI16153_v3_genomic.fna.gz
+GCA_900002345.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/002/345/GCA_900002345.1_BW457_CLC_assembly/GCA_900002345.1_BW457_CLC_assembly_genomic.fna.gz
+GCA_901482405.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/482/405/GCA_901482405.1_Assembly_for_barley_cultivar_Morex_v1.0/GCA_901482405.1_Assembly for barley cultivar Morex v1.0_genomic.fna.gz
+GCA_902375235.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/375/235/GCA_902375235.1_Morex_v1.0_update_x/GCA_902375235.1_Morex_v1.0_update_x_genomic.fna.gz
+GCA_902498975.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/498/975/GCA_902498975.1_Morex_v2.0/GCA_902498975.1_Morex_v2.0_genomic.fna.gz
+GCA_902499585.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/499/585/GCA_902499585.1_Morex_v2.0_test_0H/GCA_902499585.1_Morex_v2.0_test_0H_genomic.fna.gz
+GCA_902500625.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/500/625/GCA_902500625.1_GPv1/GCA_902500625.1_GPv1_genomic.fna.gz
+GCA_902505935.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/505/935/GCA_902505935.1_Tritex_Morex_Dovetail/GCA_902505935.1_Tritex_Morex_Dovetail_genomic.fna.gz
+GCA_903813605.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/813/605/GCA_903813605.1_Morex_V2_scaf/GCA_903813605.1_Morex_V2_scaf_genomic.fna.gz
+GCA_903970685.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/970/685/GCA_903970685.1_barley_shape_chiba/GCA_903970685.1_barley_shape_chiba_genomic.fna.gz
+GCA_903970725.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/970/725/GCA_903970725.1_barley_shape_hor_3365/GCA_903970725.1_barley_shape_hor_3365_genomic.fna.gz
+GCA_903994145.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/994/145/GCA_903994145.1_barley_shape_morex_clr/GCA_903994145.1_barley_shape_morex_clr_genomic.fna.gz
+GCA_904848275.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/848/275/GCA_904848275.1_MorexV3_clr_mecat_scaffolds/GCA_904848275.1_MorexV3_clr_mecat_scaffolds_genomic.fna.gz
+GCA_904848285.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/848/285/GCA_904848285.1_MorexV3_ont_scaffolds/GCA_904848285.1_MorexV3_ont__scaffolds_genomic.fna.gz
+GCA_904848295.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/848/295/GCA_904848295.1_MorexV3_css_canu_scaffolds/GCA_904848295.1_MorexV3_css_canu_scaffolds_genomic.fna.gz
+GCA_904848305.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/848/305/GCA_904848305.1_MorexV3_css_falcon_scaffolds/GCA_904848305.1_MorexV3_css_falcon_scaffolds_genomic.fna.gz
+GCA_904848315.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/848/315/GCA_904848315.1_MorexV3_clr_wtdbg2_scaffolds/GCA_904848315.1_MorexV3_clr_wtdbg2_scaffolds_genomic.fna.gz
+GCA_904848325.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/848/325/GCA_904848325.1_MorexV3_illumina_tritex_scaffolds/GCA_904848325.1_MorexV3_illumina_tritex_scaffolds_genomic.fna.gz
+GCA_904849715.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/849/715/GCA_904849715.1_MorexV3_hybrid_wengan_scaffolds/GCA_904849715.1_MorexV3_hybrid_wengan_scaffolds_genomic.fna.gz
+GCA_905310525.1	Hordeum vulgare subsp. vulgare	4513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/310/525/GCA_905310525.1_barley_shape_golden_promise_1.0/GCA_905310525.1_barley_shape_golden_promise_1.0_genomic.fna.gz
+GCA_002914565.1	Psidium guajava	120290	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/914/565/GCA_002914565.1_Guava1.0/GCA_002914565.1_Guava1.0_genomic.fna.gz
+GCA_019787385.1	Psidium guajava	120290	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/787/385/GCA_019787385.1_PAU_PgAS_1/GCA_019787385.1_PAU_PgAS_1_genomic.fna.gz
+GCA_900003875.1	Sonneratia alba	122812	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/003/875/GCA_900003875.1_sa_scaffold/GCA_900003875.1_sa_scaffold_genomic.fna.gz
+GCA_013103335.1	Forsythia suspensa	126418	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/103/335/GCA_013103335.1_ASM1310333v1/GCA_013103335.1_ASM1310333v1_genomic.fna.gz
+GCA_020102875.1	Saccharum hybrid cultivar	128810	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/102/875/GCA_020102875.1_cc-01-1940_version_1.0/GCA_020102875.1_cc-01-1940_version_1.0_genomic.fna.gz
+GCA_001704855.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/704/855/GCA_001704855.1_ASM170485v1/GCA_001704855.1_ASM170485v1_genomic.fna.gz
+GCA_006232335.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/335/GCA_006232335.1_ASM623233v1/GCA_006232335.1_ASM623233v1_genomic.fna.gz
+GCA_006232365.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/365/GCA_006232365.1_ASM623236v1/GCA_006232365.1_ASM623236v1_genomic.fna.gz
+GCA_006232395.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/395/GCA_006232395.1_ASM623239v1/GCA_006232395.1_ASM623239v1_genomic.fna.gz
+GCA_006232405.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/405/GCA_006232405.1_ASM623240v1/GCA_006232405.1_ASM623240v1_genomic.fna.gz
+GCA_006232475.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/475/GCA_006232475.1_ASM623247v1/GCA_006232475.1_ASM623247v1_genomic.fna.gz
+GCA_006232505.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/505/GCA_006232505.1_ASM623250v1/GCA_006232505.1_ASM623250v1_genomic.fna.gz
+GCA_006232515.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/515/GCA_006232515.1_ASM623251v1/GCA_006232515.1_ASM623251v1_genomic.fna.gz
+GCA_006232545.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/545/GCA_006232545.1_ASM623254v1/GCA_006232545.1_ASM623254v1_genomic.fna.gz
+GCA_019693475.1	Galdieria sulphuraria	130081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/693/475/GCA_019693475.1_ASM1969347v1/GCA_019693475.1_ASM1969347v1_genomic.fna.gz
+GCA_001687015.1	Arachis duranensis	130453	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/687/015/GCA_001687015.1_ASM168701v1/GCA_001687015.1_ASM168701v1_genomic.fna.gz
+GCA_014805325.1	Arachis duranensis	130453	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/805/325/GCA_014805325.1_aradu.K30065.gnm1.M24N/GCA_014805325.1_aradu.K30065.gnm1.M24N_genomic.fna.gz
+GCA_018207795.1	Arachis duranensis	130453	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/207/795/GCA_018207795.1_aradu.K30060.gnm1.W9B1/GCA_018207795.1_aradu.K30060.gnm1.W9B1_genomic.fna.gz
+GCA_013265535.1	Arachis ipaensis	130454	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/265/535/GCA_013265535.1_ASM1326553v1/GCA_013265535.1_ASM1326553v1_genomic.fna.gz
+GCA_015342455.1	Aristotelia chilensis	138855	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/342/455/GCA_015342455.1_UM_Achile_1.0/GCA_015342455.1_UM_Achile_1.0_genomic.fna.gz
+GCA_020101635.1	Litchi chinensis	151069	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/101/635/GCA_020101635.1_Haplotype_Yunnan/GCA_020101635.1_Haplotype_Yunnan_genomic.fna.gz
+GCA_020101655.1	Litchi chinensis	151069	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/101/655/GCA_020101655.1_Haplotype_Hainan/GCA_020101655.1_Haplotype_Hainan_genomic.fna.gz
+GCA_000465365.1	Vigna angularis var. angularis	3914	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/465/365/GCA_000465365.1_Vigna_angularis/GCA_000465365.1_Vigna angularis_genomic.fna.gz
+GCA_001723775.1	Vigna angularis var. angularis	3914	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/723/775/GCA_001723775.1_ASM172377v1/GCA_001723775.1_ASM172377v1_genomic.fna.gz
+GCA_004320505.1	Vigna angularis var. angularis	3914	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/320/505/GCA_004320505.1_Vangularis_v1/GCA_004320505.1_Vangularis_v1_genomic.fna.gz
+GCA_019096135.1	Vigna mungo var. mungo	3915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/096/135/GCA_019096135.1_ASM1909613v1/GCA_019096135.1_ASM1909613v1_genomic.fna.gz
+GCA_900603015.1	Olea europaea subsp. europaea	4146	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/603/015/GCA_900603015.1_OE6/GCA_900603015.1_OE6_genomic.fna.gz
+GCA_902713445.1	Olea europaea subsp. europaea	4146	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/713/445/GCA_902713445.1_OLEA9/GCA_902713445.1_OLEA9_genomic.fna.gz
+GCA_013350325.1	Wolffia australiana	161112	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/350/325/GCA_013350325.1_ASM1335032v1/GCA_013350325.1_ASM1335032v1_genomic.fna.gz
+GCA_013350365.1	Wolffia australiana	161112	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/350/365/GCA_013350365.1_ASM1335036v1/GCA_013350365.1_ASM1335036v1_genomic.fna.gz
+GCA_014595705.1	Isatis tinctoria	161756	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/595/705/GCA_014595705.1_ASM1459570v1/GCA_014595705.1_ASM1459570v1_genomic.fna.gz
+GCA_900406385.1	Isatis tinctoria	161756	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/406/385/GCA_900406385.1_ASM90040638v1/GCA_900406385.1_ASM90040638v1_genomic.fna.gz
+GCA_004150315.1	Actinidia eriantha	165200	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/150/315/GCA_004150315.1_ASM415031v1/GCA_004150315.1_ASM415031v1_genomic.fna.gz
+GCA_000950795.1	Capsicum annuum var. glabriusculum	4072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/950/795/GCA_000950795.1_Pepper_Chiltepin_Ref_v1.0/GCA_000950795.1_Pepper Chiltepin Ref_v1.0_genomic.fna.gz
+GCA_001957025.1	Aegilops tauschii subsp. tauschii	37682	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/957/025/GCA_001957025.1_Aet_MR_1.0/GCA_001957025.1_Aet_MR_1.0_genomic.fna.gz
+GCA_004354405.1	Andrographis paniculata	175694	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/354/405/GCA_004354405.1_ASM435440v1/GCA_004354405.1_ASM435440v1_genomic.fna.gz
+GCA_900635045.2	Rhodamnia argentea	178133	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/635/045/GCA_900635045.2_RargV1.1.alt/GCA_900635045.2_RargV1.1.alt_genomic.fna.gz
+GCA_000208675.2	Jatropha curcas	180498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/208/675/GCA_000208675.2_JAT_r4.5/GCA_000208675.2_JAT_r4.5_genomic.fna.gz
+GCA_000696525.1	Jatropha curcas	180498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/696/525/GCA_000696525.1_JatCur_1.0/GCA_000696525.1_JatCur_1.0_genomic.fna.gz
+GCA_004143595.1	Jatropha curcas	180498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/143/595/GCA_004143595.1_RIL_Jcurcas_v1/GCA_004143595.1_RIL_Jcurcas_v1_genomic.fna.gz
+GCA_016648075.1	Miscanthus sacchariflorus	183675	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/648/075/GCA_016648075.1_Msac_v2/GCA_016648075.1_Msac_v2_genomic.fna.gz
+GCA_002180455.1	Eleusine coracana subsp. coracana	4511	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/180/455/GCA_002180455.1_ASM218045v1/GCA_002180455.1_ASM218045v1_genomic.fna.gz
+GCA_002018215.1	Saccharum hybrid cultivar SP80-3280	128810	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/018/215/GCA_002018215.1_CTBE_SP803280_v1.0/GCA_002018215.1_CTBE_SP803280_v1.0_genomic.fna.gz
+GCA_008692665.1	Saccharum hybrid cultivar SP80-3280	128810	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/692/665/GCA_008692665.1_ASM869266v1/GCA_008692665.1_ASM869266v1_genomic.fna.gz
+GCA_016860505.2	Solanum lycopersicum var. cerasiforme	4081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/860/505/GCA_016860505.2_SLYcer_r1.1/GCA_016860505.2_SLYcer_r1.1_genomic.fna.gz
+GCA_001748785.1	Ocimum tenuiflorum	204149	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/748/785/GCA_001748785.1_OcimTenu2.0/GCA_001748785.1_OcimTenu2.0_genomic.fna.gz
+GCA_902499525.1	Nymphaea colorata	210225	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/499/525/GCA_902499525.1_Nym/GCA_902499525.1_Nym_genomic.fna.gz
+GCA_011066525.1	Aquilaria sinensis	210372	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/066/525/GCA_011066525.1_CUHK_Asin_1.0/GCA_011066525.1_CUHK_Asin_1.0_genomic.fna.gz
+GCA_904845865.1	Musa acuminata subsp. malaccensis	4641	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/845/865/GCA_904845865.1_assembly_for_Musa_acuminata_subsp._malaccensis/GCA_904845865.1_assembly for Musa acuminata subsp. malaccensis_genomic.fna.gz
+GCA_014525375.1	Cucumis melo subsp. agrestis	3656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/525/375/GCA_014525375.1_ASM1452537v1/GCA_014525375.1_ASM1452537v1_genomic.fna.gz
+GCA_900635065.1	Syzygium oleosum	219896	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/635/065/GCA_900635065.1_Sole10x-ALTSCAF/GCA_900635065.1_Sole10x-ALTSCAF_genomic.fna.gz
+GCA_019419815.1	Pyrus x bretschneideri	225117	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/419/815/GCA_019419815.1_Pyrus_bretschneideri_v1/GCA_019419815.1_Pyrus_bretschneideri_v1_genomic.fna.gz
+GCA_020921045.1	Vaccinium darrowii	229202	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/921/045/GCA_020921045.1_USDA_Vadar_1.0_alt/GCA_020921045.1_USDA_Vadar_1.0_alt_genomic.fna.gz
+GCA_014338645.1	Triticum aestivum subsp. tibeticum	4565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/338/645/GCA_014338645.1_ASM1433864v1/GCA_014338645.1_ASM1433864v1_genomic.fna.gz
+GCA_003016355.1	Urochloa ruziziensis	240450	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/016/355/GCA_003016355.1_Bruz/GCA_003016355.1_Bruz_genomic.fna.gz
+GCA_022058865.1	Vitis hybrid cultivar	241073	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/058/865/GCA_022058865.1_Concord/GCA_022058865.1_Concord_genomic.fna.gz
+GCA_907164895.1	Impatiens glandulifera	253017	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/164/895/GCA_907164895.1_dImpGla2.1_alternate_haplotype/GCA_907164895.1_dImpGla2.1 alternate haplotype_genomic.fna.gz
+GCA_914767515.1	Dunaliella primolecta	257627	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/914/767/515/GCA_914767515.1_ucDunPrim2.1_alternate_haplotype/GCA_914767515.1_ucDunPrim2.1 alternate haplotype_genomic.fna.gz
+GCA_018397975.1	Asparagopsis taxiformis	260499	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/397/975/GCA_018397975.1_spades/GCA_018397975.1_spades_genomic.fna.gz
+GCA_020536565.1	Camellia sinensis var. assamica	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/565/GCA_020536565.1_ASM2053656v1/GCA_020536565.1_ASM2053656v1_genomic.fna.gz
+GCA_020536795.1	Camellia sinensis var. assamica	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/795/GCA_020536795.1_ASM2053679v1/GCA_020536795.1_ASM2053679v1_genomic.fna.gz
+GCA_020536855.1	Camellia sinensis var. assamica	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/855/GCA_020536855.1_ASM2053685v1/GCA_020536855.1_ASM2053685v1_genomic.fna.gz
+GCA_020536865.1	Camellia sinensis var. assamica	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/865/GCA_020536865.1_ASM2053686v1/GCA_020536865.1_ASM2053686v1_genomic.fna.gz
+GCA_020227335.1	Macrotyloma uniflorum	271171	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/227/335/GCA_020227335.1_ASM2022733v1/GCA_020227335.1_ASM2022733v1_genomic.fna.gz
+GCA_000830395.1	Humulus lupulus var. cordifolius	3486	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/830/395/GCA_000830395.1_hl_KR_version_1.0.fasta/GCA_000830395.1_hl_KR_version_1.0.fasta_genomic.fna.gz
+GCA_902728035.1	Apium graveolens Rapaceum Group	4045	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/728/035/GCA_902728035.1_Apium_graveolens/GCA_902728035.1_Apium_graveolens_genomic.fna.gz
+GCA_019705965.1	Raphanus sativus var. raphanistroides	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/705/965/GCA_019705965.1_IVFCAAS_Rs07_1.0/GCA_019705965.1_IVFCAAS_Rs07_1.0_genomic.fna.gz
+GCA_900185145.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/145/GCA_900185145.1_discovar-mp-dt-bn/GCA_900185145.1_discovar-mp-dt-bn_genomic.fna.gz
+GCA_900185155.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/155/GCA_900185155.1_10x-bn/GCA_900185155.1_10x-bn_genomic.fna.gz
+GCA_900185165.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/165/GCA_900185165.1_falcon-bn/GCA_900185165.1_falcon-bn_genomic.fna.gz
+GCA_900185175.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/175/GCA_900185175.1_canu-bn/GCA_900185175.1_canu-bn_genomic.fna.gz
+GCA_900185185.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/185/GCA_900185185.1_abyss77-mp/GCA_900185185.1_abyss77-mp_genomic.fna.gz
+GCA_900185195.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/195/GCA_900185195.1_abyss113-mp/GCA_900185195.1_abyss113-mp_genomic.fna.gz
+GCA_900185205.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/205/GCA_900185205.1_10x/GCA_900185205.1_10x_genomic.fna.gz
+GCA_900185215.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/215/GCA_900185215.1_canu/GCA_900185215.1_canu_genomic.fna.gz
+GCA_900185225.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/225/GCA_900185225.1_abyss113/GCA_900185225.1_abyss113_genomic.fna.gz
+GCA_900185235.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/235/GCA_900185235.1_abyss77/GCA_900185235.1_abyss77_genomic.fna.gz
+GCA_900185245.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/245/GCA_900185245.1_hgap/GCA_900185245.1_hgap_genomic.fna.gz
+GCA_900185265.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/265/GCA_900185265.1_discovar-mp-dt/GCA_900185265.1_discovar-mp-dt_genomic.fna.gz
+GCA_900185285.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/285/GCA_900185285.1_falcon/GCA_900185285.1_falcon_genomic.fna.gz
+GCA_900185295.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/295/GCA_900185295.1_discovar-mp/GCA_900185295.1_discovar-mp_genomic.fna.gz
+GCA_900185305.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/305/GCA_900185305.1_hgap-mp/GCA_900185305.1_hgap-mp_genomic.fna.gz
+GCA_900185315.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/315/GCA_900185315.1_discovar-contig/GCA_900185315.1_discovar-contig_genomic.fna.gz
+GCA_900185325.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/325/GCA_900185325.1_falcon-dt/GCA_900185325.1_falcon-dt_genomic.fna.gz
+GCA_900185335.1	Solanum verrucosum	315347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/185/335/GCA_900185335.1_hgap-bn/GCA_900185335.1_hgap-bn_genomic.fna.gz
+GCA_001687265.1	Brassica juncea var. tumida	3707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/687/265/GCA_001687265.1_Brassica_juncea_var_tumida_T84-66_v1/GCA_001687265.1_Brassica_juncea_var_tumida_T84-66_v1_genomic.fna.gz
+GCA_001835785.2	Ziziphus jujuba	326968	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/835/785/GCA_001835785.2_NAFU_Zjuj_v2.0/GCA_001835785.2_NAFU_Zjuj_v2.0_genomic.fna.gz
+GCA_019706005.1	Raphanus raphanistrum subsp. landra	109996	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/706/005/GCA_019706005.1_IVFCAAS_Rs08_1.0/GCA_019706005.1_IVFCAAS_Rs08_1.0_genomic.fna.gz
+GCA_005862445.2	Beta vulgaris subsp. maritima	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/862/445/GCA_005862445.2_Bmar-1.0.1/GCA_005862445.2_Bmar-1.0.1_genomic.fna.gz
+GCA_009760825.1	Cucumis melo var. inodorus	3656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/760/825/GCA_009760825.1_ASM976082v1/GCA_009760825.1_ASM976082v1_genomic.fna.gz
+GCA_021209675.1	Desmodesmus armatus	375941	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/209/675/GCA_021209675.1_ASM2120967v1/GCA_021209675.1_ASM2120967v1_genomic.fna.gz
+GCA_001644905.2	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/644/905/GCA_001644905.2_Zm-W22-REFERENCE-NRGENE-2.0/GCA_001644905.2_Zm-W22-REFERENCE-NRGENE-2.0_genomic.fna.gz
+GCA_001984235.2	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/984/235/GCA_001984235.2_Zm-EP1-REFERENCE-TUM-1.0/GCA_001984235.2_Zm-EP1-REFERENCE-TUM-1.0_genomic.fna.gz
+GCA_001990705.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/990/705/GCA_001990705.1_Zm-F7-REFERENCE-TUM-1.0/GCA_001990705.1_Zm-F7-REFERENCE-TUM-1.0_genomic.fna.gz
+GCA_002237485.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/237/485/GCA_002237485.1_Zm-PH207-REFERENCE_NS-UIUC_UMN-1.1/GCA_002237485.1_Zm-PH207-REFERENCE_NS-UIUC_UMN-1.1_genomic.fna.gz
+GCA_002682915.2	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/682/915/GCA_002682915.2_Zm_CML247_REFERENCE_PANZEA.1.2/GCA_002682915.2_Zm_CML247_REFERENCE_PANZEA.1.2_genomic.fna.gz
+GCA_002813505.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/813/505/GCA_002813505.1_ASM281350v1/GCA_002813505.1_ASM281350v1_genomic.fna.gz
+GCA_900230695.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/695/GCA_900230695.1_oilsands_bin_058/GCA_900230695.1_oilsands_bin_058_genomic.fna.gz
+GCA_900230705.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/705/GCA_900230705.1_oilsands_bin_059/GCA_900230705.1_oilsands_bin_059_genomic.fna.gz
+GCA_900230715.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/715/GCA_900230715.1_oilsands_bin_072/GCA_900230715.1_oilsands_bin_072_genomic.fna.gz
+GCA_900230725.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/725/GCA_900230725.1_oilsands_bin_073/GCA_900230725.1_oilsands_bin_073_genomic.fna.gz
+GCA_900230735.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/735/GCA_900230735.1_oilsands_bin_083/GCA_900230735.1_oilsands_bin_083_genomic.fna.gz
+GCA_900230745.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/745/GCA_900230745.1_oilsands_bin_075/GCA_900230745.1_oilsands_bin_075_genomic.fna.gz
+GCA_900230755.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/755/GCA_900230755.1_oilsands_bin_079/GCA_900230755.1_oilsands_bin_079_genomic.fna.gz
+GCA_900230765.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/765/GCA_900230765.1_oilsands_bin_084/GCA_900230765.1_oilsands_bin_084_genomic.fna.gz
+GCA_900230775.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/775/GCA_900230775.1_oilsands_bin_086/GCA_900230775.1_oilsands_bin_086_genomic.fna.gz
+GCA_900230785.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/785/GCA_900230785.1_oilsands_bin_099/GCA_900230785.1_oilsands_bin_099_genomic.fna.gz
+GCA_900230795.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/795/GCA_900230795.1_oilsands_bin_096/GCA_900230795.1_oilsands_bin_096_genomic.fna.gz
+GCA_900230805.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/805/GCA_900230805.1_oilsands_bin_136/GCA_900230805.1_oilsands_bin_136_genomic.fna.gz
+GCA_900230815.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/815/GCA_900230815.1_oilsands_bin_133/GCA_900230815.1_oilsands_bin_133_genomic.fna.gz
+GCA_900230825.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/825/GCA_900230825.1_oilsands_bin_122/GCA_900230825.1_oilsands_bin_122_genomic.fna.gz
+GCA_900230835.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/835/GCA_900230835.1_oilsands_bin_091/GCA_900230835.1_oilsands_bin_091_genomic.fna.gz
+GCA_900230845.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/845/GCA_900230845.1_oilsands_bin_137/GCA_900230845.1_oilsands_bin_137_genomic.fna.gz
+GCA_900230855.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/855/GCA_900230855.1_oilsands_bin_144/GCA_900230855.1_oilsands_bin_144_genomic.fna.gz
+GCA_900230865.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/865/GCA_900230865.1_oilsands_bin_150/GCA_900230865.1_oilsands_bin_150_genomic.fna.gz
+GCA_900230905.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/905/GCA_900230905.1_oilsands_bin_151/GCA_900230905.1_oilsands_bin_151_genomic.fna.gz
+GCA_900230915.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/915/GCA_900230915.1_oilsands_bin_157/GCA_900230915.1_oilsands_bin_157_genomic.fna.gz
+GCA_900230925.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/925/GCA_900230925.1_oilsands_bin_153/GCA_900230925.1_oilsands_bin_153_genomic.fna.gz
+GCA_900230935.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/935/GCA_900230935.1_oilsands_bin_154/GCA_900230935.1_oilsands_bin_154_genomic.fna.gz
+GCA_900230945.1	Zea mays subsp. mays	4577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/230/945/GCA_900230945.1_oilsands_bin_158/GCA_900230945.1_oilsands_bin_158_genomic.fna.gz
+GCA_016880815.1	Tripterygium wilfordii	458696	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/880/815/GCA_016880815.1_ASM1688081v1/GCA_016880815.1_ASM1688081v1_genomic.fna.gz
+GCA_019705895.1	Raphanus sativus var. caudatus	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/705/895/GCA_019705895.1_IVFCAAS_Rs01_1.0/GCA_019705895.1_IVFCAAS_Rs01_1.0_genomic.fna.gz
+GCA_019705865.1	Raphanus sativus var. oleiformis	3726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/705/865/GCA_019705865.1_IVFCAAS_Rs02_1.0/GCA_019705865.1_IVFCAAS_Rs02_1.0_genomic.fna.gz
+GCA_000737105.1	Manihot esculenta subsp. flabellifolia	3983	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/737/105/GCA_000737105.1_MW_v2d/GCA_000737105.1_MW_v2d_genomic.fna.gz
+GCA_000259855.1	uncultured Bathycoccus	528323	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/259/855/GCA_000259855.1_ASM25985v1/GCA_000259855.1_ASM25985v1_genomic.fna.gz
+GCA_902712295.1	uncultured Bathycoccus	528323	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/712/295/GCA_902712295.1_eukcc_tara_1/GCA_902712295.1_eukcc_tara_1_genomic.fna.gz
+GCA_903798045.1	uncultured Bathycoccus	528323	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/045/GCA_903798045.1_TARA_EukCC_1/GCA_903798045.1_TARA_EukCC_1_genomic.fna.gz
+GCA_017311205.1	Camellia sinensis var. sinensis	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/311/205/GCA_017311205.1_ASM1731120v1/GCA_017311205.1_ASM1731120v1_genomic.fna.gz
+GCA_020536495.1	Camellia sinensis var. sinensis	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/495/GCA_020536495.1_ASM2053649v1/GCA_020536495.1_ASM2053649v1_genomic.fna.gz
+GCA_016906445.1	Prototheca cutis	575411	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/906/445/GCA_016906445.1_ASM1690644v1/GCA_016906445.1_ASM1690644v1_genomic.fna.gz
+GCA_008033785.1	Persea americana var. drymifolia	3435	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/033/785/GCA_008033785.1_ASM803378v1/GCA_008033785.1_ASM803378v1_genomic.fna.gz
+GCA_003117095.1	Eudorina sp. 2006-703-Eu-15	593785	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/117/095/GCA_003117095.1_EudorinaMale_1.0/GCA_003117095.1_EudorinaMale_1.0_genomic.fna.gz
+GCA_004303085.2	Perilla frutescens var. hirtella	48386	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/303/085/GCA_004303085.2_ASM430308v2/GCA_004303085.2_ASM430308v2_genomic.fna.gz
+GCA_019512045.2	Perilla frutescens var. hirtella	48386	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/512/045/GCA_019512045.2_ICMM_Pcit_2.0/GCA_019512045.2_ICMM_Pcit_2.0_genomic.fna.gz
+GCA_009758035.1	Coix lacryma-jobi var. ma-yuen	4505	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/758/035/GCA_009758035.1_Adlay_draft_genome_1.0/GCA_009758035.1_Adlay_draft_genome_1.0_genomic.fna.gz
+GCA_020796205.1	Ziziphus jujuba var. spinosa	326968	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/796/205/GCA_020796205.1_ASM2079620v1/GCA_020796205.1_ASM2079620v1_genomic.fna.gz
+GCA_903992495.4	Vitis vinifera subsp. sylvestris	29760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/992/495/GCA_903992495.4_Sylvestris_C1-2_haplotigs_pseudomolecules/GCA_903992495.4_Sylvestris_C1-2_haplotigs_pseudomolecules_genomic.fna.gz
+GCA_021521975.1	Bidens hawaiensis	980011	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/521/975/GCA_021521975.1_B.hawaiensis_a1.0/GCA_021521975.1_B.hawaiensis_a1.0_genomic.fna.gz
+GCA_902806635.1	Digitaria exilis	1010633	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/806/635/GCA_902806635.1_CM05836_v1.1/GCA_902806635.1_CM05836_v1.1_genomic.fna.gz
+GCA_902859565.1	Digitaria exilis	1010633	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/859/565/GCA_902859565.1_Fonio_CM05836/GCA_902859565.1_Fonio_CM05836_genomic.fna.gz
+GCA_021328975.1	Raphanus raphanistrum x Raphanus sativus	1028570	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/328/975/GCA_021328975.1_UCB_Raph_RaphxSat_V1.fasta/GCA_021328975.1_UCB_Raph_RaphxSat_V1.fasta_genomic.fna.gz
+GCA_009849865.1	Solanum stenotomum subsp. goniocalyx	172797	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/849/865/GCA_009849865.1_ASM984986v1/GCA_009849865.1_ASM984986v1_genomic.fna.gz
+GCA_009849905.1	Solanum stenotomum subsp. goniocalyx	172797	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/849/905/GCA_009849905.1_ASM984990v1/GCA_009849905.1_ASM984990v1_genomic.fna.gz
+GCA_902829175.1	Fraxinus angustifolia subsp. angustifolia	166594	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/829/175/GCA_902829175.1_FRAX01-0.1/GCA_902829175.1_FRAX01-0.1_genomic.fna.gz
+GCA_004115005.2	Cucurbita argyrosperma subsp. argyrosperma	34294	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/115/005/GCA_004115005.2_UNAM_Carg_1.1/GCA_004115005.2_UNAM_Carg_1.1_genomic.fna.gz
+GCA_004359105.1	Chrysanthemum seticuspe	1111766	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/359/105/GCA_004359105.1_CSE_r1.0/GCA_004359105.1_CSE_r1.0_genomic.fna.gz
+GCA_005549215.1	Cucumis melo var. makuwa	3656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/549/215/GCA_005549215.1_ASM554921v1/GCA_005549215.1_ASM554921v1_genomic.fna.gz
+GCA_005549225.1	Cucumis melo var. makuwa	3656	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/549/225/GCA_005549225.1_ASM554922v1/GCA_005549225.1_ASM554922v1_genomic.fna.gz
+GCA_019201805.1	Arabidopsis thaliana x Arabidopsis arenosa	1240361	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/201/805/GCA_019201805.1_ASM1920180v1/GCA_019201805.1_ASM1920180v1_genomic.fna.gz
+GCA_021651115.1	Neoporphyra haitanensis	1262161	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/651/115/GCA_021651115.1_ASM2165111v1/GCA_021651115.1_ASM2165111v1_genomic.fna.gz
+GCA_001510005.1	Cannabis sativa subsp. indica	3483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/510/005/GCA_001510005.1_ASM151000v1/GCA_001510005.1_ASM151000v1_genomic.fna.gz
+GCA_013168755.1	Avicennia marina subsp. marina	82927	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/168/755/GCA_013168755.1_CGSB_Amar_1.0/GCA_013168755.1_CGSB_Amar_1.0_genomic.fna.gz
+GCA_900003535.1	Avicennia marina subsp. marina	82927	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/003/535/GCA_900003535.1_am_scaffold/GCA_900003535.1_am_scaffold_genomic.fna.gz
+GCA_900174615.1	Avicennia marina subsp. marina	82927	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/174/615/GCA_900174615.1_Ama_scaffold_v2/GCA_900174615.1_Ama_scaffold_v2_genomic.fna.gz
+GCA_011319375.1	Marchantia polymorpha subsp. montivagans	3197	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/319/375/GCA_011319375.1_MpmSA2_1.0/GCA_011319375.1_MpmSA2_1.0_genomic.fna.gz
+GCA_011319315.1	Marchantia polymorpha subsp. polymorpha	3197	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/319/315/GCA_011319315.1_MppBR5_1.0/GCA_011319315.1_MppBR5_1.0_genomic.fna.gz
+GCA_001641455.1	Marchantia polymorpha subsp. ruderalis	3197	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/641/455/GCA_001641455.1_Mp_v4/GCA_001641455.1_Mp_v4_genomic.fna.gz
+GCA_009936355.2	Marchantia polymorpha subsp. ruderalis	3197	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/936/355/GCA_009936355.2_ASM993635v2/GCA_009936355.2_ASM993635v2_genomic.fna.gz
+GCA_003061485.1	Panicum hallii var. hallii	206008	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/061/485/GCA_003061485.1_PhalliiHAL_v2.1/GCA_003061485.1_PhalliiHAL_v2.1_genomic.fna.gz
+GCA_018282175.1	Beta vulgaris subsp. cicla	161934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/282/175/GCA_018282175.1_Chard-1.0/GCA_018282175.1_Chard-1.0_genomic.fna.gz
+GCA_003024255.1	Actinidia chinensis var. chinensis	3625	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/024/255/GCA_003024255.1_Red5_PS1_1.69.0/GCA_003024255.1_Red5_PS1_1.69.0_genomic.fna.gz
+GCA_019202925.1	Chlorella desiccata (nom. nud.)	1650286	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/202/925/GCA_019202925.1_LANL_v2/GCA_019202925.1_LANL_v2_genomic.fna.gz
+GCA_019650155.1	Vigna unguiculata subsp. dekindtiana	3917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/650/155/GCA_019650155.1_Vund_1.0/GCA_019650155.1_Vund_1.0_genomic.fna.gz
+GCA_009831275.1	Oryza sativa tropical japonica subgroup	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/831/275/GCA_009831275.1_OS128077RS1/GCA_009831275.1_OS128077RS1_genomic.fna.gz
+GCA_009831315.1	Oryza sativa tropical japonica subgroup	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/831/315/GCA_009831315.1_Os132278RS1/GCA_009831315.1_Os132278RS1_genomic.fna.gz
+GCA_009831255.1	Oryza sativa aromatic subgroup	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/831/255/GCA_009831255.1_Os117425RS1/GCA_009831255.1_Os117425RS1_genomic.fna.gz
+GCA_001952365.3	Oryza sativa aus subgroup	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/952/365/GCA_001952365.3_OsN22RS2/GCA_001952365.3_OsN22RS2_genomic.fna.gz
+GCA_009831335.1	Oryza sativa aus subgroup	4530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/831/335/GCA_009831335.1_Os127652RS1/GCA_009831335.1_Os127652RS1_genomic.fna.gz
+GCA_019650255.1	Volvox reticuliferus	1737510	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/650/255/GCA_019650255.1_Vretimale_1.0/GCA_019650255.1_Vretimale_1.0_genomic.fna.gz
+GCA_020521435.1	Prunus kanzakura	1813533	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/521/435/GCA_020521435.1_ATM_r1.0/GCA_020521435.1_ATM_r1.0_genomic.fna.gz
+GCA_017639395.1	Brassica rapa subsp. trilocularis	3711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/395/GCA_017639395.1_SCU_BraROA_2.3/GCA_017639395.1_SCU_BraROA_2.3_genomic.fna.gz
+GCA_019202725.1	Populus x sibirica	1954239	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/202/725/GCA_019202725.1_EIMB_PSib_F41_1.0/GCA_019202725.1_EIMB_PSib_F41_1.0_genomic.fna.gz
+GCA_002966915.1	Gastrodia elata f. glauca	91201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/966/915/GCA_002966915.1_ASM296691v1/GCA_002966915.1_ASM296691v1_genomic.fna.gz
+GCA_002966975.2	Prunus yedoensis var. nudiflora	3759	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/966/975/GCA_002966975.2_Pyn_1.0/GCA_002966975.2_Pyn_1.0_genomic.fna.gz
+GCA_900382725.1	Prunus yedoensis var. nudiflora	3759	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/382/725/GCA_900382725.1_Pyn.v1/GCA_900382725.1_Pyn.v1_genomic.fna.gz
+GCA_004785585.1	Juglans microcarpa x Juglans regia	2249226	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/785/585/GCA_004785585.1_JrSerr_v1.0/GCA_004785585.1_JrSerr_v1.0_genomic.fna.gz
+GCA_020536555.1	Camellia sinensis var. lasiocalyx	4442	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/536/555/GCA_020536555.1_ASM2053655v1/GCA_020536555.1_ASM2053655v1_genomic.fna.gz
+GCA_009849785.1	Solanum stenotomum subsp. stenotomum	172797	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/849/785/GCA_009849785.1_ASM984978v1/GCA_009849785.1_ASM984978v1_genomic.fna.gz

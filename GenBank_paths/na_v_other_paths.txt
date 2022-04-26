@@ -1,0 +1,759 @@
+GCA_000148955.1	Petromyzon marinus	7757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/148/955/GCA_000148955.1_Petromyzon_marinus-7.0/GCA_000148955.1_Petromyzon_marinus-7.0_genomic.fna.gz
+GCA_002833325.1	Petromyzon marinus	7757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/833/325/GCA_002833325.1_Pmar_germline_1.0/GCA_002833325.1_Pmar_germline 1.0_genomic.fna.gz
+GCA_010993595.1	Petromyzon marinus	7757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/993/595/GCA_010993595.1_kPetMar1.alt/GCA_010993595.1_kPetMar1.alt_genomic.fna.gz
+GCA_902713625.2	Scyliorhinus canicula	7830	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/713/625/GCA_902713625.2_sScyCan1.2_alternate_haplotype/GCA_902713625.2_sScyCan1.2 alternate haplotype_genomic.fna.gz
+GCA_000165045.2	Callorhinchus milii	7868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/165/045/GCA_000165045.2_Callorhinchus_milii-6.1.3/GCA_000165045.2_Callorhinchus_milii-6.1.3_genomic.fna.gz
+GCA_000325985.2	Latimeria chalumnae	7897	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/325/985/GCA_000325985.2_LatCha_J1.0/GCA_000325985.2_LatCha_J1.0_genomic.fna.gz
+GCA_004119895.1	Acipenser ruthenus	7906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/119/895/GCA_004119895.1_ASM411989v1/GCA_004119895.1_ASM411989v1_genomic.fna.gz
+GCA_902713425.1	Acipenser ruthenus	7906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/713/425/GCA_902713425.1_fAciRut3.1_maternal_haplotype/GCA_902713425.1_fAciRut3.1 maternal haplotype_genomic.fna.gz
+GCA_902713435.2	Acipenser ruthenus	7906	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/713/435/GCA_902713435.2_fAciRut3.2/GCA_902713435.2_fAciRut3.2_genomic.fna.gz
+GCA_016984195.1	Polyodon spathula	7913	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/984/195/GCA_016984195.1_BGI_Pspa_1.1/GCA_016984195.1_BGI_Pspa_1.1_genomic.fna.gz
+GCA_016984155.1	Amia calva	7924	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/984/155/GCA_016984155.1_BGI_Acal_1.1/GCA_016984155.1_BGI_Acal_1.1_genomic.fna.gz
+GCA_000695075.1	Anguilla anguilla	7936	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/695/075/GCA_000695075.1_Anguilla_anguilla_v1_09_nov_10/GCA_000695075.1_Anguilla_anguilla_v1_09_nov_10_genomic.fna.gz
+GCA_013347865.1	Anguilla anguilla	7936	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/347/865/GCA_013347865.1_fAngAng1.alt/GCA_013347865.1_fAngAng1.alt_genomic.fna.gz
+GCA_018320845.1	Anguilla anguilla	7936	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/320/845/GCA_018320845.1_ANANG_Geno_1.0/GCA_018320845.1_ANANG_Geno_1.0_genomic.fna.gz
+GCA_000470695.1	Anguilla japonica	7937	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/470/695/GCA_000470695.1_japanese_eel_genome_v1_25_oct_2011_japonica_c401b400k25m200_sspacepremiumk3a02n24_extra.final.scaffolds/GCA_000470695.1_japanese_eel_genome_v1_25_oct_2011_japonica_c401b400k25m200_sspacepremiumk3a02n24_extra.final.scaffolds_genomic.fna.gz
+GCA_002723815.1	Anguilla japonica	7937	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/723/815/GCA_002723815.1_Ajaponica_ver_D2/GCA_002723815.1_Ajaponica_ver_D2_genomic.fna.gz
+GCA_006352315.1	Anguilla japonica	7937	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/352/315/GCA_006352315.1_ASM635231v1/GCA_006352315.1_ASM635231v1_genomic.fna.gz
+GCA_916313395.1	Anguilla japonica	7937	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/313/395/GCA_916313395.1_AJA001/GCA_916313395.1_AJA001_genomic.fna.gz
+GCA_001606085.1	Anguilla rostrata	7938	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/606/085/GCA_001606085.1_ASM160608v1/GCA_001606085.1_ASM160608v1_genomic.fna.gz
+GCA_000966335.1	Clupea harengus	7950	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/966/335/GCA_000966335.1_ASM96633v1/GCA_000966335.1_ASM96633v1_genomic.fna.gz
+GCA_900323705.1	Clupea harengus	7950	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/323/705/GCA_900323705.1_C.harengus/GCA_900323705.1_C.harengus_genomic.fna.gz
+GCA_902175115.3	Clupea harengus	7950	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/175/115/GCA_902175115.3_ChASM_A3/GCA_902175115.3_ChASM_A3_genomic.fna.gz
+GCA_000767325.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/767/325/GCA_000767325.1_WGS31/GCA_000767325.1_WGS31_genomic.fna.gz
+GCA_001483285.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/483/285/GCA_001483285.1_CG2v1.0/GCA_001483285.1_CG2v1.0_genomic.fna.gz
+GCA_001487895.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/487/895/GCA_001487895.1_Zebrafish_Genome_Assembly_WGS32/GCA_001487895.1_Zebrafish Genome Assembly WGS32_genomic.fna.gz
+GCA_008692375.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/692/375/GCA_008692375.1_ASM869237v1/GCA_008692375.1_ASM869237v1_genomic.fna.gz
+GCA_018400075.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/400/075/GCA_018400075.1_ASM1840007v1/GCA_018400075.1_ASM1840007v1_genomic.fna.gz
+GCA_020064045.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/064/045/GCA_020064045.1_ZF1_MM_RP/GCA_020064045.1_ZF1_MM_RP_genomic.fna.gz
+GCA_020184715.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/184/715/GCA_020184715.1_ASM2018471v1/GCA_020184715.1_ASM2018471v1_genomic.fna.gz
+GCA_903684855.2	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/684/855/GCA_903684855.2_fDreTuH1.2/GCA_903684855.2_fDreTuH1.2_genomic.fna.gz
+GCA_903684865.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/684/865/GCA_903684865.1_fDreABH1.1/GCA_903684865.1_fDreABH1.1_genomic.fna.gz
+GCA_903798165.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/165/GCA_903798165.1_fDreCBz1.1/GCA_903798165.1_fDreCBz1.1_genomic.fna.gz
+GCA_903798175.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/175/GCA_903798175.1_fDreNAz1.1/GCA_903798175.1_fDreNAz1.1_genomic.fna.gz
+GCA_903798185.1	Danio rerio	7955	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/185/GCA_903798185.1_fDreABz2.1/GCA_903798185.1_fDreABz2.1_genomic.fna.gz
+GCA_013115835.1	Carassius auratus	7957	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/115/835/GCA_013115835.1_ASM1311583v1/GCA_013115835.1_ASM1311583v1_genomic.fna.gz
+GCA_014332655.1	Carassius auratus	7957	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/332/655/GCA_014332655.1_ASM1433265v1/GCA_014332655.1_ASM1433265v1_genomic.fna.gz
+GCA_019720715.1	Carassius auratus	7957	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/720/715/GCA_019720715.1_ASM1972071v1/GCA_019720715.1_ASM1972071v1_genomic.fna.gz
+GCA_000951615.2	Cyprinus carpio	7962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/951/615/GCA_000951615.2_common_carp_genome/GCA_000951615.2_common carp genome_genomic.fna.gz
+GCA_001270105.1	Cyprinus carpio	7962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/270/105/GCA_001270105.1_ASM127010v1/GCA_001270105.1_ASM127010v1_genomic.fna.gz
+GCA_004011555.1	Cyprinus carpio	7962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/011/555/GCA_004011555.1_German_Mirror_carp_1.0/GCA_004011555.1_German_Mirror_carp_1.0_genomic.fna.gz
+GCA_004011575.1	Cyprinus carpio	7962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/011/575/GCA_004011575.1_Hunaghe_carp_2.0/GCA_004011575.1_Hunaghe_carp_2.0_genomic.fna.gz
+GCA_004011595.1	Cyprinus carpio	7962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/011/595/GCA_004011595.1_Hebao_red_carp_1.0/GCA_004011595.1_Hebao_red_carp_1.0_genomic.fna.gz
+GCA_004193235.1	Hypophthalmichthys nobilis	7965	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/193/235/GCA_004193235.1_HypNob1.0/GCA_004193235.1_HypNob1.0_genomic.fna.gz
+GCA_004802775.1	Astyanax mexicanus	7994	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/802/775/GCA_004802775.1_Astyanax_mexicanus-1.0.2/GCA_004802775.1_Astyanax_mexicanus-1.0.2_genomic.fna.gz
+GCA_019721115.1	Astyanax mexicanus	7994	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/721/115/GCA_019721115.1_AMEX_1.1/GCA_019721115.1_AMEX_1.1_genomic.fna.gz
+GCA_004006655.3	Ictalurus punctatus	7998	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/006/655/GCA_004006655.3_ASM400665v3/GCA_004006655.3_ASM400665v3_genomic.fna.gz
+GCA_003665695.2	Electrophorus electricus	8005	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/665/695/GCA_003665695.2_Ee_SOAP_WITH_SSPACE/GCA_003665695.2_Ee_SOAP_WITH_SSPACE_genomic.fna.gz
+GCA_013347915.1	Electrophorus electricus	8005	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/347/915/GCA_013347915.1_fEleEle1.alt/GCA_013347915.1_fEleEle1.alt_genomic.fna.gz
+GCA_000721915.3	Esox lucius	8010	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/721/915/GCA_000721915.3_Eluc_V3/GCA_000721915.3_Eluc_V3_genomic.fna.gz
+GCA_004634155.1	Esox lucius	8010	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/634/155/GCA_004634155.1_Eluc_v4/GCA_004634155.1_Eluc_v4_genomic.fna.gz
+GCA_007844535.1	Esox lucius	8010	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/844/535/GCA_007844535.1_INRA_Eluc_1.0/GCA_007844535.1_INRA_Eluc_1.0_genomic.fna.gz
+GCA_011004835.1	Esox lucius	8010	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/004/835/GCA_011004835.1_fEsoLuc1.alt/GCA_011004835.1_fEsoLuc1.alt_genomic.fna.gz
+GCA_017355495.1	Oncorhynchus gorbuscha	8017	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/355/495/GCA_017355495.1_Ogor_1.0/GCA_017355495.1_Ogor_1.0_genomic.fna.gz
+GCA_002163495.1	Oncorhynchus mykiss	8022	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/163/495/GCA_002163495.1_Omyk_1.0/GCA_002163495.1_Omyk_1.0_genomic.fna.gz
+GCA_900005705.1	Oncorhynchus mykiss	8022	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/005/705/GCA_900005705.1_AUL_PRJEB4421_v1/GCA_900005705.1_AUL_PRJEB4421_v1_genomic.fna.gz
+GCA_905477455.1	Oncorhynchus mykiss	8022	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/477/455/GCA_905477455.1_MSM_MAG_01/GCA_905477455.1_MSM_MAG_01_genomic.fna.gz
+GCA_000233375.4	Salmo salar	8030	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/233/375/GCA_000233375.4_ICSASG_v2/GCA_000233375.4_ICSASG_v2_genomic.fna.gz
+GCA_021399835.1	Salmo salar	8030	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/399/835/GCA_021399835.1_USDA_NASsal_1.1/GCA_021399835.1_USDA_NASsal_1.1_genomic.fna.gz
+GCA_905477595.1	Salmo salar	8030	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/477/595/GCA_905477595.1_MSS_MAG_01/GCA_905477595.1_MSS_MAG_01_genomic.fna.gz
+GCA_000231765.1	Gadus morhua	8049	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/231/765/GCA_000231765.1_GadMor_May2010/GCA_000231765.1_GadMor_May2010_genomic.fna.gz
+GCA_010882105.1	Gadus morhua	8049	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/882/105/GCA_010882105.1_gadMor_Celtic/GCA_010882105.1_gadMor_Celtic_genomic.fna.gz
+GCA_900302565.1	Gadus morhua	8049	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/302/565/GCA_900302565.1_ASM90030256v1/GCA_900302565.1_ASM90030256v1_genomic.fna.gz
+GCA_902167395.1	Gadus morhua	8049	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/167/395/GCA_902167395.1_gadMor3.0_alternate_haplotype/GCA_902167395.1_gadMor3.0 alternate haplotype_genomic.fna.gz
+GCA_905250895.1	Gadus morhua	8049	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/250/895/GCA_905250895.1_gadMor_Stat/GCA_905250895.1_gadMor_Stat_genomic.fna.gz
+GCA_900302525.1	Melanogrammus aeglefinus	8056	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/302/525/GCA_900302525.1_ASM90030252v1/GCA_900302525.1_ASM90030252v1_genomic.fna.gz
+GCA_009660315.1	Lophius piscatorius	8074	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/660/315/GCA_009660315.1_BF1_NORD/GCA_009660315.1_BF1_NORD_genomic.fna.gz
+GCA_000826765.1	Fundulus heteroclitus	8078	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/826/765/GCA_000826765.1_Fundulus_heteroclitus-3.0.2/GCA_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fna.gz
+GCA_904066995.1	Poecilia reticulata	8081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/066/995/GCA_904066995.1_PRET-male-REFERENCE/GCA_904066995.1_PRET-male-REFERENCE_genomic.fna.gz
+GCA_000241075.1	Xiphophorus maculatus	8083	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/241/075/GCA_000241075.1_Xiphophorus_maculatus-4.4.2/GCA_000241075.1_Xiphophorus_maculatus-4.4.2_genomic.fna.gz
+GCA_001443345.1	Xiphophorus hellerii	8084	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/443/345/GCA_001443345.1_Xiphophorus_hellerii-3.0.1/GCA_001443345.1_Xiphophorus_hellerii-3.0.1_genomic.fna.gz
+GCA_000151825.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/151/825/GCA_000151825.1_ASM15182v1/GCA_000151825.1_ASM15182v1_genomic.fna.gz
+GCA_000313675.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/313/675/GCA_000313675.1_ASM31367v1/GCA_000313675.1_ASM31367v1_genomic.fna.gz
+GCA_002234695.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/234/695/GCA_002234695.1_ASM223469v1/GCA_002234695.1_ASM223469v1_genomic.fna.gz
+GCA_002234715.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/234/715/GCA_002234715.1_ASM223471v1/GCA_002234715.1_ASM223471v1_genomic.fna.gz
+GCA_004347445.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/347/445/GCA_004347445.1_ASM434744v1/GCA_004347445.1_ASM434744v1_genomic.fna.gz
+GCA_004348095.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/348/095/GCA_004348095.1_ASM434809v1/GCA_004348095.1_ASM434809v1_genomic.fna.gz
+GCA_004348135.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/348/135/GCA_004348135.1_ASM434813v1/GCA_004348135.1_ASM434813v1_genomic.fna.gz
+GCA_905309105.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/105/GCA_905309105.1_MIKK_7-2_draft_assembly/GCA_905309105.1_MIKK_7-2_draft_assembly_genomic.fna.gz
+GCA_905309355.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/355/GCA_905309355.1_MIKK_80-1_draft_assembly/GCA_905309355.1_MIKK_80-1_draft_assembly_genomic.fna.gz
+GCA_905309365.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/365/GCA_905309365.1_MIKK_7-1_draft_assembly/GCA_905309365.1_MIKK_7-1_draft_assembly_genomic.fna.gz
+GCA_905309375.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/375/GCA_905309375.1_MIKK_117-2_draft_assembly/GCA_905309375.1_MIKK_117-2_draft_assembly_genomic.fna.gz
+GCA_905309385.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/385/GCA_905309385.1_MIKK_131-1_draft_assembly/GCA_905309385.1_MIKK_131-1_draft_assembly_genomic.fna.gz
+GCA_905309395.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/395/GCA_905309395.1_MIKK_4-2_draft_assembly/GCA_905309395.1_MIKK_4-2_draft_assembly_genomic.fna.gz
+GCA_905309405.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/405/GCA_905309405.1_MIKK_4-1_draft_assembly/GCA_905309405.1_MIKK_4-1_draft_assembly_genomic.fna.gz
+GCA_905309415.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/415/GCA_905309415.1_MIKK_69-1_draft_assembly/GCA_905309415.1_MIKK_69-1_draft_assembly_genomic.fna.gz
+GCA_905309425.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/425/GCA_905309425.1_MIKK_11-1_draft_assembly/GCA_905309425.1_MIKK_11-1_draft_assembly_genomic.fna.gz
+GCA_905309435.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/435/GCA_905309435.1_MIKK_79-2_draft_assembly/GCA_905309435.1_MIKK_79-2_draft_assembly_genomic.fna.gz
+GCA_905309455.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/455/GCA_905309455.1_MIKK_134-1_draft_assembly/GCA_905309455.1_MIKK_134-1_draft_assembly_genomic.fna.gz
+GCA_905309465.1	Oryzias latipes	8090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/309/465/GCA_905309465.1_MIKK_134-2_draft_assembly/GCA_905309465.1_MIKK_134-2_draft_assembly_genomic.fna.gz
+GCA_009769515.1	Cyclopterus lumpus	8103	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/769/515/GCA_009769515.1_fCycLum1.alt/GCA_009769515.1_fCycLum1.alt_genomic.fna.gz
+GCA_021186565.1	Cyclopterus lumpus	8103	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/186/565/GCA_021186565.1_lmpF_NL/GCA_021186565.1_lmpF_NL_genomic.fna.gz
+GCA_015112075.1	Julidochromis regani	8125	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/075/GCA_015112075.1_KHE6.scf/GCA_015112075.1_KHE6.scf_genomic.fna.gz
+GCA_000188235.2	Oreochromis niloticus	8128	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/188/235/GCA_000188235.2_Orenil1.1/GCA_000188235.2_Orenil1.1_genomic.fna.gz
+GCA_013350305.1	Oreochromis niloticus	8128	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/350/305/GCA_013350305.1_XX_nile/GCA_013350305.1_XX_nile_genomic.fna.gz
+GCA_922820385.1	Oreochromis niloticus	8128	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/922/820/385/GCA_922820385.1_Nile_Tilapia_GIFT/GCA_922820385.1_Nile Tilapia GIFT_genomic.fna.gz
+GCA_015107795.1	Oreochromis tanganicae	8142	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/795/GCA_015107795.1_JAC7.scf/GCA_015107795.1_JAC7.scf_genomic.fna.gz
+GCA_015108435.1	Tropheus annectens	8146	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/435/GCA_015108435.1_JWG5.scf/GCA_015108435.1_JWG5.scf_genomic.fna.gz
+GCA_015110115.1	Tropheus brichardi	8147	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/115/GCA_015110115.1_JZA3.scf/GCA_015110115.1_JZA3.scf_genomic.fna.gz
+GCA_015109175.1	Tropheus duboisi	8148	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/175/GCA_015109175.1_KHA4.scf/GCA_015109175.1_KHA4.scf_genomic.fna.gz
+GCA_015052245.1	Tropheus moorii	8150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/245/GCA_015052245.1_JBH5.scf/GCA_015052245.1_JBH5.scf_genomic.fna.gz
+GCA_015107615.1	Tropheus moorii	8150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/615/GCA_015107615.1_JBH4.scf/GCA_015107615.1_JBH4.scf_genomic.fna.gz
+GCA_015111035.1	Tropheus polli	8151	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/035/GCA_015111035.1_LEF9.scf/GCA_015111035.1_LEF9.scf_genomic.fna.gz
+GCA_000239415.1	Haplochromis burtoni	8153	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/239/415/GCA_000239415.1_AstBur1.0/GCA_000239415.1_AstBur1.0_genomic.fna.gz
+GCA_015108015.1	Haplochromis burtoni	8153	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/015/GCA_015108015.1_IZA1.scf/GCA_015108015.1_IZA1.scf_genomic.fna.gz
+GCA_015110255.1	Haplochromis burtoni	8153	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/255/GCA_015110255.1_JYD5.scf/GCA_015110255.1_JYD5.scf_genomic.fna.gz
+GCA_015102275.1	Pseudosimochromis babaulti	8156	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/275/GCA_015102275.1_AUB6.scf/GCA_015102275.1_AUB6.scf_genomic.fna.gz
+GCA_015104015.1	Pseudosimochromis babaulti	8156	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/015/GCA_015104015.1_AVB6.scf/GCA_015104015.1_AVB6.scf_genomic.fna.gz
+GCA_015107055.1	Pseudosimochromis babaulti	8156	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/055/GCA_015107055.1_JUA3.scf/GCA_015107055.1_JUA3.scf_genomic.fna.gz
+GCA_002207885.1	Seriola quinqueradiata	8161	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/207/885/GCA_002207885.1_Squ_1.0/GCA_002207885.1_Squ_1.0_genomic.fna.gz
+GCA_003402435.1	Seriola quinqueradiata	8161	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/402/435/GCA_003402435.1_Haploid_YT_All_LG_ver.1/GCA_003402435.1_Haploid_YT_All_LG_ver.1_genomic.fna.gz
+GCA_013375545.1	Perca flavescens	8167	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/375/545/GCA_013375545.1_MU_Pfla_1.0/GCA_013375545.1_MU_Pfla_1.0_genomic.fna.gz
+GCA_003412525.1	Perca fluviatilis	8168	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/412/525/GCA_003412525.1_UTU_Pfluv_1.1/GCA_003412525.1_UTU_Pfluv_1.1_genomic.fna.gz
+GCA_900302645.1	Perca fluviatilis	8168	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/302/645/GCA_900302645.1_ASM90030264v1/GCA_900302645.1_ASM90030264v1_genomic.fna.gz
+GCA_003309015.1	Sparus aurata	8175	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/309/015/GCA_003309015.1_ASM330901v1/GCA_003309015.1_ASM330901v1_genomic.fna.gz
+GCA_900880695.1	Sparus aurata	8175	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/880/695/GCA_900880695.1_fSpaAur1.1_alternate_haplotype/GCA_900880695.1_fSpaAur1.1 alternate haplotype_genomic.fna.gz
+GCA_013436515.1	Acanthopagrus latus	8177	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/436/515/GCA_013436515.1_ASM1343651v1/GCA_013436515.1_ASM1343651v1_genomic.fna.gz
+GCA_020080195.1	Acanthopagrus latus	8177	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/080/195/GCA_020080195.1_ASM2008019v1/GCA_020080195.1_ASM2008019v1_genomic.fna.gz
+GCA_904848175.1	Acanthopagrus latus	8177	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/848/175/GCA_904848175.1_fAcaLat1.1_alternate_haplotype/GCA_904848175.1_fAcaLat1.1 alternate haplotype_genomic.fna.gz
+GCA_001010145.1	Lates calcarifer	8187	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/010/145/GCA_001010145.1_ASM101014v1/GCA_001010145.1_ASM101014v1_genomic.fna.gz
+GCA_900066035.1	Lates calcarifer	8187	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/066/035/GCA_900066035.1_ASB_HGAPassembly_v1/GCA_900066035.1_ASB_HGAPassembly_v1_genomic.fna.gz
+GCA_900066045.1	Lates calcarifer	8187	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/066/045/GCA_900066045.1_ASB_FALCONassembly_v1/GCA_900066045.1_ASB_FALCONassembly_v1_genomic.fna.gz
+GCA_902827185.1	Gymnodraco acuticeps	8218	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/827/185/GCA_902827185.1_fGymAcu1.1_alternate_haplotype/GCA_902827185.1_fGymAcu1.1 alternate haplotype_genomic.fna.gz
+GCA_900302625.1	Thunnus albacares	8236	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/302/625/GCA_900302625.1_ASM90030262v1/GCA_900302625.1_ASM90030262v1_genomic.fna.gz
+GCA_914744365.1	Thunnus albacares	8236	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/914/744/365/GCA_914744365.1_fThuAlb1.1_alternate_haplotype/GCA_914744365.1_fThuAlb1.1 alternate haplotype_genomic.fna.gz
+GCA_000418415.1	Thunnus orientalis	8238	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/418/415/GCA_000418415.1_Thunnus_orientalis_ver_Ba_1.0/GCA_000418415.1_Thunnus_orientalis_ver_Ba_1.0_genomic.fna.gz
+GCA_009176245.1	Thunnus orientalis	8238	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/176/245/GCA_009176245.1_tuna2/GCA_009176245.1_tuna2_genomic.fna.gz
+GCA_910596085.1	Thunnus maccoyii	8240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/596/085/GCA_910596085.1_fThuMac1.1_alternate_haplotype/GCA_910596085.1_fThuMac1.1 alternate haplotype_genomic.fna.gz
+GCA_001904815.2	Paralichthys olivaceus	8255	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/904/815/GCA_001904815.2_ParOli_1.1/GCA_001904815.2_ParOli_1.1_genomic.fna.gz
+GCA_009819745.1	Hippoglossus hippoglossus	8267	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/745/GCA_009819745.1_fHipHip1.alt/GCA_009819745.1_fHipHip1.alt_genomic.fna.gz
+GCA_001663975.1	Xenopus laevis	8355	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/663/975/GCA_001663975.1_Xenopus_laevis_v2/GCA_001663975.1_Xenopus_laevis_v2_genomic.fna.gz
+GCA_013368275.1	Xenopus tropicalis	8364	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/368/275/GCA_013368275.1_ASM1336827v1/GCA_013368275.1_ASM1336827v1_genomic.fna.gz
+GCA_905171715.1	Bufo bufo	8384	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/171/715/GCA_905171715.1_aBufBuf1.1_alternate_haplotype/GCA_905171715.1_aBufBuf1.1 alternate haplotype_genomic.fna.gz
+GCA_009802015.1	Rana temporaria	8407	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/802/015/GCA_009802015.1_UCB_Rtem_1.0/GCA_009802015.1_UCB_Rtem_1.0_genomic.fna.gz
+GCA_905171725.1	Rana temporaria	8407	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/171/725/GCA_905171725.1_aRanTem1.1_alternate_haplotype/GCA_905171725.1_aRanTem1.1 alternate haplotype_genomic.fna.gz
+GCA_000344595.1	Chelonia mydas	8469	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/344/595/GCA_000344595.1_CheMyd_1.0/GCA_000344595.1_CheMyd_1.0_genomic.fna.gz
+GCA_015220195.2	Chelonia mydas	8469	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/220/195/GCA_015220195.2_rCheMyd1.alt.v2/GCA_015220195.2_rCheMyd1.alt.v2_genomic.fna.gz
+GCA_007922165.1	Chelydra serpentina	8475	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/922/165/GCA_007922165.1_Chelydra_serpentina-1.0/GCA_007922165.1_Chelydra_serpentina-1.0_genomic.fna.gz
+GCA_011386835.1	Chrysemys picta bellii	8479	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/386/835/GCA_011386835.1_ASM1138683v1/GCA_011386835.1_ASM1138683v1_genomic.fna.gz
+GCA_001541155.1	Alligator mississippiensis	8496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/541/155/GCA_001541155.1_Algmis_Hirise_1.0/GCA_001541155.1_Algmis_Hirise_1.0_genomic.fna.gz
+GCA_001541185.1	Alligator mississippiensis	8496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/541/185/GCA_001541185.1_Algmis_1.0/GCA_001541185.1_Algmis_1.0_genomic.fna.gz
+GCA_000768395.2	Crocodylus porosus	8502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/768/395/GCA_000768395.2_Cpor_3.0/GCA_000768395.2_Cpor_3.0_genomic.fna.gz
+GCA_004320045.1	Laticauda colubrina	8628	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/320/045/GCA_004320045.1_latCor_1.0/GCA_004320045.1_latCor_1.0_genomic.fna.gz
+GCA_900608555.1	Notechis scutatus	8663	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/608/555/GCA_900608555.1_TS10Xv2-ALT/GCA_900608555.1_TS10Xv2-ALT_genomic.fna.gz
+GCA_900608585.1	Pseudonaja textilis	8673	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/608/585/GCA_900608585.1_EBS10Xv2-ALT/GCA_900608585.1_EBS10Xv2-ALT_genomic.fna.gz
+GCA_004023725.1	Hydrophis cyanocinctus	8686	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/023/725/GCA_004023725.1_ASM402372v1/GCA_004023725.1_ASM402372v1_genomic.fna.gz
+GCA_013396415.1	Casuarius casuarius	8787	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/396/415/GCA_013396415.1_ASM1339641v1/GCA_013396415.1_ASM1339641v1_genomic.fna.gz
+GCA_013396795.1	Dromaius novaehollandiae	8790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/396/795/GCA_013396795.1_ASM1339679v1/GCA_013396795.1_ASM1339679v1_genomic.fna.gz
+GCA_016128335.1	Dromaius novaehollandiae	8790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/128/335/GCA_016128335.1_ZJU1.0/GCA_016128335.1_ZJU1.0_genomic.fna.gz
+GCA_020892015.1	Dromaius novaehollandiae	8790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/892/015/GCA_020892015.1_emu_female_v2.2_1/GCA_020892015.1_emu_female_v2.2_1_genomic.fna.gz
+GCA_020892035.1	Dromaius novaehollandiae	8790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/892/035/GCA_020892035.1_emu_female_v2.2_2/GCA_020892035.1_emu_female_v2.2_2_genomic.fna.gz
+GCA_020892055.1	Dromaius novaehollandiae	8790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/892/055/GCA_020892055.1_emu_male_v1.2/GCA_020892055.1_emu_male_v1.2_genomic.fna.gz
+GCA_013398775.1	Eudromia elegans	8805	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/775/GCA_013398775.1_ASM1339877v1/GCA_013398775.1_ASM1339877v1_genomic.fna.gz
+GCA_006938045.1	Anomalopteryx didiformis	8811	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/938/045/GCA_006938045.1_anoDid_nucDNA_mapDamage/GCA_006938045.1_anoDid_nucDNA_mapDamage_genomic.fna.gz
+GCA_000355885.1	Anas platyrhynchos	8839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/355/885/GCA_000355885.1_BGI_duck_1.0/GCA_000355885.1_BGI_duck_1.0_genomic.fna.gz
+GCA_002224895.1	Anas platyrhynchos	8839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/224/895/GCA_002224895.1_ASM222489v1/GCA_002224895.1_ASM222489v1_genomic.fna.gz
+GCA_003850225.1	Anas platyrhynchos	8839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/850/225/GCA_003850225.1_IASCAAS_PekingDuck_PBH1.5/GCA_003850225.1_IASCAAS_PekingDuck_PBH1.5_genomic.fna.gz
+GCA_008746955.1	Anas platyrhynchos	8839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/746/955/GCA_008746955.1_CAU_Wild1.0/GCA_008746955.1_CAU__Wild1.0_genomic.fna.gz
+GCA_017639285.1	Anas platyrhynchos	8839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/285/GCA_017639285.1_CAU_Pekin_2.0/GCA_017639285.1_CAU_Pekin_2.0_genomic.fna.gz
+GCA_017639305.1	Anas platyrhynchos	8839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/305/GCA_017639305.1_CAU_Laying_1.0/GCA_017639305.1_CAU_Laying_1.0_genomic.fna.gz
+GCA_900411745.1	Anas platyrhynchos	8839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/411/745/GCA_900411745.1_duckbase.refseq.v4/GCA_900411745.1_duckbase.refseq.v4_genomic.fna.gz
+GCA_002743455.1	Anas platyrhynchos platyrhynchos	8839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/743/455/GCA_002743455.1_CAU_duck1.0/GCA_002743455.1_CAU_duck1.0_genomic.fna.gz
+GCA_002166845.1	Anser cygnoides	8845	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/166/845/GCA_002166845.1_GooseV1.0/GCA_002166845.1_GooseV1.0_genomic.fna.gz
+GCA_013030995.1	Anser cygnoides	8845	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/030/995/GCA_013030995.1_ASM1303099v1/GCA_013030995.1_ASM1303099v1_genomic.fna.gz
+GCA_907166815.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/166/815/GCA_907166815.1_blackswan2.fasta.gz/GCA_907166815.1_blackswan2.fasta.gz_genomic.fna.gz
+GCA_907166825.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/166/825/GCA_907166825.1_blackswan6.fasta.gz/GCA_907166825.1_blackswan6.fasta.gz_genomic.fna.gz
+GCA_907166835.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/166/835/GCA_907166835.1_blackswan7.fasta.gz/GCA_907166835.1_blackswan7.fasta.gz_genomic.fna.gz
+GCA_907166845.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/166/845/GCA_907166845.1_blackswan3.fasta.gz/GCA_907166845.1_blackswan3.fasta.gz_genomic.fna.gz
+GCA_907166935.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/166/935/GCA_907166935.1_blackswan5.fasta.gz/GCA_907166935.1_blackswan5.fasta.gz_genomic.fna.gz
+GCA_910591715.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/591/715/GCA_910591715.1_blackswan9.fasta.gz/GCA_910591715.1_blackswan9.fasta.gz_genomic.fna.gz
+GCA_910591725.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/591/725/GCA_910591725.1_blackswan10.fasta.gz/GCA_910591725.1_blackswan10.fasta.gz_genomic.fna.gz
+GCA_910591735.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/591/735/GCA_910591735.1_blackswan8.fasta.gz/GCA_910591735.1_blackswan8.fasta.gz_genomic.fna.gz
+GCA_910591745.1	Cygnus atratus	8868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/591/745/GCA_910591745.1_blackswan1.fasta.gz/GCA_910591745.1_blackswan1.fasta.gz_genomic.fna.gz
+GCA_009769485.2	Cygnus olor	8869	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/769/485/GCA_009769485.2_bCygOlo1.alt.v2/GCA_009769485.2_bCygOlo1.alt.v2_genomic.fna.gz
+GCA_020740585.1	Apus apus	8895	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/740/585/GCA_020740585.1_bApuApu2.alt.cur/GCA_020740585.1_bApuApu2.alt.cur_genomic.fna.gz
+GCA_001887795.1	Columba livia	8932	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/887/795/GCA_001887795.1_colLiv2/GCA_001887795.1_colLiv2_genomic.fna.gz
+GCA_001887755.1	Falco peregrinus	8954	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/887/755/GCA_001887755.1_falPer2/GCA_001887755.1_falPer2_genomic.fna.gz
+GCA_012488915.1	Falco peregrinus	8954	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/488/915/GCA_012488915.1_Fperegrinus_1.0/GCA_012488915.1_Fperegrinus_1.0_genomic.fna.gz
+GCA_012487025.1	Accipiter gentilis	8957	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/487/025/GCA_012487025.1_Agentilis_1.0/GCA_012487025.1_Agentilis_1.0_genomic.fna.gz
+GCA_004320185.1	Haliaeetus albicilla	8969	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/320/185/GCA_004320185.1_Haliaeetus_albicilla_ver1.0/GCA_004320185.1_Haliaeetus albicilla_ver1.0_genomic.fna.gz
+GCA_013398555.1	Haliaeetus albicilla	8969	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/555/GCA_013398555.1_ASM1339855v1/GCA_013398555.1_ASM1339855v1_genomic.fna.gz
+GCA_014595935.1	Numida meleagris	8996	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/595/935/GCA_014595935.1_HGFv1/GCA_014595935.1_HGFv1_genomic.fna.gz
+GCA_000599465.2	Colinus virginianus	9014	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/599/465/GCA_000599465.2_ASM59946v2/GCA_000599465.2_ASM59946v2_genomic.fna.gz
+GCA_000599485.1	Colinus virginianus	9014	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/599/485/GCA_000599485.1_NB1.0/GCA_000599485.1_NB1.0_genomic.fna.gz
+GCA_000002315.5	Gallus gallus	9031	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/002/315/GCA_000002315.5_GRCg6a/GCA_000002315.5_GRCg6a_genomic.fna.gz
+GCA_002798355.1	Gallus gallus	9031	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/798/355/GCA_002798355.1_Ogye1.0/GCA_002798355.1_Ogye1.0_genomic.fna.gz
+GCA_016700215.2	Gallus gallus	9031	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/700/215/GCA_016700215.2_bGalGal1.pat.whiteleghornlayer.GRCg7w/GCA_016700215.2_bGalGal1.pat.whiteleghornlayer.GRCg7w_genomic.fna.gz
+GCA_005519975.1	Pavo cristatus	9049	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/519/975/GCA_005519975.1_AIIM_Pcri_1.0/GCA_005519975.1_AIIM_Pcri_1.0_genomic.fna.gz
+GCA_015227605.1	Phasianus colchicus	9054	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/227/605/GCA_015227605.1_ASM1522760v1/GCA_015227605.1_ASM1522760v1_genomic.fna.gz
+GCA_905368555.1	Meleagris gallopavo	9103	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/368/555/GCA_905368555.1_MGAL_WU_HG_1.0/GCA_905368555.1_MGAL_WU_HG_1.0_genomic.fna.gz
+GCA_000534875.1	Serinus canaria	9135	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/534/875/GCA_000534875.1_SCA1/GCA_000534875.1_SCA1_genomic.fna.gz
+GCA_000687265.1	Phoenicopterus ruber ruber	9217	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/687/265/GCA_000687265.1_ASM68726v1/GCA_000687265.1_ASM68726v1_genomic.fna.gz
+GCA_009819805.1	Phoenicopterus ruber ruber	9217	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/805/GCA_009819805.1_bPhoRub2.alt/GCA_009819805.1_bPhoRub2.alt_genomic.fna.gz
+GCA_003264635.1	Pygoscelis adeliae	9238	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/635/GCA_003264635.1_ASM326463v1/GCA_003264635.1_ASM326463v1_genomic.fna.gz
+GCA_003264665.1	Pygoscelis adeliae	9238	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/665/GCA_003264665.1_ASM326466v1/GCA_003264665.1_ASM326466v1_genomic.fna.gz
+GCA_003264545.1	Spheniscus humboldti	9240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/545/GCA_003264545.1_ASM326454v1/GCA_003264545.1_ASM326454v1_genomic.fna.gz
+GCA_003264735.1	Spheniscus humboldti	9240	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/735/GCA_003264735.1_ASM326473v1/GCA_003264735.1_ASM326473v1_genomic.fna.gz
+GCA_000699085.1	Calypte anna	9244	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/699/085/GCA_000699085.1_ASM69908v1/GCA_000699085.1_ASM69908v1_genomic.fna.gz
+GCA_002021895.1	Calypte anna	9244	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/021/895/GCA_002021895.1_Canna_diploid_1.0/GCA_002021895.1_Canna_diploid_1.0_genomic.fna.gz
+GCA_003957575.1	Calypte anna	9244	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/957/575/GCA_003957575.1_bCalAnn1_v1.h/GCA_003957575.1_bCalAnn1_v1.h_genomic.fna.gz
+GCA_001420675.1	Amazona aestiva	12930	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/420/675/GCA_001420675.1_ASM142067v1/GCA_001420675.1_ASM142067v1_genomic.fna.gz
+GCA_000238935.1	Melopsittacus undulatus	13146	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/238/935/GCA_000238935.1_Melopsittacus_undulatus_6.3/GCA_000238935.1_Melopsittacus_undulatus_6.3_genomic.fna.gz
+GCA_012275265.1	Melopsittacus undulatus	13146	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/275/265/GCA_012275265.1_bMelUnd1.mat/GCA_012275265.1_bMelUnd1.mat_genomic.fna.gz
+GCA_012275275.1	Melopsittacus undulatus	13146	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/275/275/GCA_012275275.1_bMelUnd1.pat/GCA_012275275.1_bMelUnd1.pat_genomic.fna.gz
+GCA_003604245.1	Carcharodon carcharias	13397	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/604/245/GCA_003604245.1_ASM360424v1/GCA_003604245.1_ASM360424v1_genomic.fna.gz
+GCA_017639455.1	Carcharodon carcharias	13397	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/455/GCA_017639455.1_sCarCar2.alt/GCA_017639455.1_sCarCar2.alt_genomic.fna.gz
+GCA_000689215.1	Dicentrarchus labrax	13489	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/689/215/GCA_000689215.1_seabass_V1.0/GCA_000689215.1_seabass_V1.0_genomic.fna.gz
+GCA_900700845.3	Erpetoichthys calabaricus	27687	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/700/845/GCA_900700845.3_fErpCal1.3_alternate_haplotype/GCA_900700845.3_fErpCal1.3 alternate haplotype_genomic.fna.gz
+GCA_900499035.1	Sardina pilchardus	27697	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/499/035/GCA_900499035.1_SP_G/GCA_900499035.1_SP_G_genomic.fna.gz
+GCA_021464605.1	Gobio gobio	27704	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/464/605/GCA_021464605.1_fGobGob41.alt.20210311/GCA_021464605.1_fGobGob41.alt.20210311_genomic.fna.gz
+GCA_019677235.1	Micropterus salmoides	27706	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/677/235/GCA_019677235.1_HNU_Msal_1.0/GCA_019677235.1_HNU_Msal_1.0_genomic.fna.gz
+GCA_015102315.1	Aulonocranus dewindti	27731	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/315/GCA_015102315.1_AUA1.scf/GCA_015102315.1_AUA1.scf_genomic.fna.gz
+GCA_015111555.1	Bathybates ferox	27733	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/555/GCA_015111555.1_LCD7.scf/GCA_015111555.1_LCD7.scf_genomic.fna.gz
+GCA_015110055.1	Callochromis pleurospilus	27735	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/055/GCA_015110055.1_JZE2.scf/GCA_015110055.1_JZE2.scf_genomic.fna.gz
+GCA_015106395.1	Cunningtonia longiventralis	27739	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/395/GCA_015106395.1_IWD7.scf/GCA_015106395.1_IWD7.scf_genomic.fna.gz
+GCA_015103875.1	Cyathopharynx furcifer	27741	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/875/GCA_015103875.1_AVH2.scf/GCA_015103875.1_AVH2.scf_genomic.fna.gz
+GCA_015104925.1	Ectodus descampsii	27743	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/925/GCA_015104925.1_IRD8.scf/GCA_015104925.1_IRD8.scf_genomic.fna.gz
+GCA_015105115.1	Lestradea perspicax	27747	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/115/GCA_015105115.1_IRA1.scf/GCA_015105115.1_IRA1.scf_genomic.fna.gz
+GCA_015107695.1	Limnochromis auritus	27749	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/695/GCA_015107695.1_JAF5.scf/GCA_015107695.1_JAF5.scf_genomic.fna.gz
+GCA_015113175.1	Xenotilapia tenuidentata	27753	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/175/GCA_015113175.1_LHG4.scf/GCA_015113175.1_LHG4.scf_genomic.fna.gz
+GCA_015105135.1	Ophthalmotilapia ventralis	27755	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/135/GCA_015105135.1_IQE4.scf/GCA_015105135.1_IQE4.scf_genomic.fna.gz
+GCA_015110315.1	Paracyprichromis brieni	27757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/315/GCA_015110315.1_JXI4.scf/GCA_015110315.1_JXI4.scf_genomic.fna.gz
+GCA_015110175.1	Tanganicodus irsacae	27763	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/175/GCA_015110175.1_JYH7.scf/GCA_015110175.1_JYH7.scf_genomic.fna.gz
+GCA_015106815.1	Xenotilapia ochrogenys	27765	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/815/GCA_015106815.1_JVI5.scf/GCA_015106815.1_JVI5.scf_genomic.fna.gz
+GCA_015110995.1	Cyphotilapia frontosa	27783	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/995/GCA_015110995.1_LEI9.scf/GCA_015110995.1_LEI9.scf_genomic.fna.gz
+GCA_006547105.1	Dermochelys coriacea	27794	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/547/105/GCA_006547105.1_GSC_toitle_1.0/GCA_006547105.1_GSC_toitle_1.0_genomic.fna.gz
+GCA_009762595.2	Dermochelys coriacea	27794	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/762/595/GCA_009762595.2_rDerCor1.alt.v2/GCA_009762595.2_rDerCor1.alt.v2_genomic.fna.gz
+GCA_008658355.1	Alca torda	28689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/658/355/GCA_008658355.1_bAlcTor1_alternate/GCA_008658355.1_bAlcTor1 alternate_genomic.fna.gz
+GCA_013398245.1	Alca torda	28689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/245/GCA_013398245.1_ASM1339824v1/GCA_013398245.1_ASM1339824v1_genomic.fna.gz
+GCA_015104615.1	Lobochilotes labiatus	28810	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/615/GCA_015104615.1_ISE5.scf/GCA_015104615.1_ISE5.scf_genomic.fna.gz
+GCA_015110355.1	Petrochromis orthognathus	28818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/355/GCA_015110355.1_JXH4.scf/GCA_015110355.1_JXH4.scf_genomic.fna.gz
+GCA_018691325.1	Chanos chanos	29144	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/691/325/GCA_018691325.1_CCHAN_1.0/GCA_018691325.1_CCHAN_1.0_genomic.fna.gz
+GCA_902362175.1	Chanos chanos	29144	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/362/175/GCA_902362175.1_fChaCha1.1_alternate_haplotype/GCA_902362175.1_fChaCha1.1 alternate haplotype_genomic.fna.gz
+GCA_003264615.1	Pygoscelis papua	30457	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/615/GCA_003264615.1_ASM326461v1/GCA_003264615.1_ASM326461v1_genomic.fna.gz
+GCA_003264685.1	Pygoscelis papua	30457	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/685/GCA_003264685.1_ASM326468v1/GCA_003264685.1_ASM326468v1_genomic.fna.gz
+GCA_014170095.1	Oryzias melastigma	30732	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/170/095/GCA_014170095.1_ASM1417009v1/GCA_014170095.1_ASM1417009v1_genomic.fna.gz
+GCA_000180615.2	Takifugu rubripes	31033	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/180/615/GCA_000180615.2_FUGU5/GCA_000180615.2_FUGU5_genomic.fna.gz
+GCA_901000745.3	Takifugu rubripes	31033	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/000/745/GCA_901000745.3_fTakRub1.2_alternate_haplotype/GCA_901000745.3_fTakRub1.2 alternate haplotype_genomic.fna.gz
+GCA_015107755.1	Boulengerochromis microlepis	32488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/755/GCA_015107755.1_JAE7.scf/GCA_015107755.1_JAE7.scf_genomic.fna.gz
+GCA_015103375.1	Callochromis macrops	32491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/375/GCA_015103375.1_BND3.scf/GCA_015103375.1_BND3.scf_genomic.fna.gz
+GCA_015109895.1	Cardiopharynx schoutedeni	32492	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/895/GCA_015109895.1_KAF1.scf/GCA_015109895.1_KAF1.scf_genomic.fna.gz
+GCA_015103615.1	Chalinochromis popelini	32494	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/615/GCA_015103615.1_Bel07.scf/GCA_015103615.1_Bel07.scf_genomic.fna.gz
+GCA_015103855.1	Gnathochromis pfefferi	32498	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/855/GCA_015103855.1_AWE2.scf/GCA_015103855.1_AWE2.scf_genomic.fna.gz
+GCA_015110495.1	Julidochromis marlieri	32499	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/495/GCA_015110495.1_JXC1.scf/GCA_015110495.1_JXC1.scf_genomic.fna.gz
+GCA_015107835.1	Lamprologus callipterus	32501	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/835/GCA_015107835.1_JAB1.scf/GCA_015107835.1_JAB1.scf_genomic.fna.gz
+GCA_015103995.1	Lepidiolamprologus elongatus	32503	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/995/GCA_015103995.1_AUE6.scf/GCA_015103995.1_AUE6.scf_genomic.fna.gz
+GCA_015106995.1	Neolamprologus brichardi	32507	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/995/GCA_015106995.1_JUI1.scf/GCA_015106995.1_JUI1.scf_genomic.fna.gz
+GCA_015107025.1	Neolamprologus brichardi	32507	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/025/GCA_015107025.1_JUH9.scf/GCA_015107025.1_JUH9.scf_genomic.fna.gz
+GCA_015105355.1	Neolamprologus tetracanthus	32508	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/355/GCA_015105355.1_IPF7.scf/GCA_015105355.1_IPF7.scf_genomic.fna.gz
+GCA_015105155.1	Perissodus microlepis	32509	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/155/GCA_015105155.1_IQI4.scf/GCA_015105155.1_IQI4.scf_genomic.fna.gz
+GCA_015102655.1	Telmatochromis temporalis	32511	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/655/GCA_015102655.1_IMB3.scf/GCA_015102655.1_IMB3.scf_genomic.fna.gz
+GCA_015107675.1	Tylochromis polylepis	32513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/675/GCA_015107675.1_JAH5.scf/GCA_015107675.1_JAH5.scf_genomic.fna.gz
+GCA_015104275.1	Xenotilapia sima	32515	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/275/GCA_015104275.1_IUF8.scf/GCA_015104275.1_IUF8.scf_genomic.fna.gz
+GCA_015111795.1	Xenotilapia sima	32515	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/795/GCA_015111795.1_LBE9.scf/GCA_015111795.1_LBE9.scf_genomic.fna.gz
+GCA_015111815.1	Xenotilapia sima	32515	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/815/GCA_015111815.1_LBE2.scf/GCA_015111815.1_LBE2.scf_genomic.fna.gz
+GCA_003097735.1	Gambusia affinis	33528	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/097/735/GCA_003097735.1_ASM309773v1/GCA_003097735.1_ASM309773v1_genomic.fna.gz
+GCA_018492705.1	Alosa sapidissima	34773	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/492/705/GCA_018492705.1_fAloSap1.alt/GCA_018492705.1_fAloSap1.alt_genomic.fna.gz
+GCA_019202745.1	Alosa sapidissima	34773	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/202/745/GCA_019202745.1_Alosa.v1/GCA_019202745.1_Alosa.v1_genomic.fna.gz
+GCA_020745675.1	Tautogolabrus adspersus	34787	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/745/675/GCA_020745675.1_fTauAds1.alt.cur/GCA_020745675.1_fTauAds1.alt.cur_genomic.fna.gz
+GCA_015105555.1	Altolamprologus calvus	34792	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/555/GCA_015105555.1_IOE2.scf/GCA_015105555.1_IOE2.scf_genomic.fna.gz
+GCA_015104775.1	Altolamprologus compressiceps	34793	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/775/GCA_015104775.1_ISB1.scf/GCA_015104775.1_ISB1.scf_genomic.fna.gz
+GCA_015104035.1	Chalinochromis brichardi	34794	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/035/GCA_015104035.1_AVB2.scf/GCA_015104035.1_AVB2.scf_genomic.fna.gz
+GCA_015102995.1	Neolamprologus brevis	34800	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/995/GCA_015102995.1_ILB7.scf/GCA_015102995.1_ILB7.scf_genomic.fna.gz
+GCA_015102495.1	Neolamprologus calliurus	34801	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/495/GCA_015102495.1_INC7.scf/GCA_015102495.1_INC7.scf_genomic.fna.gz
+GCA_015105315.1	Neolamprologus caudopunctatus	34802	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/315/GCA_015105315.1_IQA4.scf/GCA_015105315.1_IQA4.scf_genomic.fna.gz
+GCA_015107815.1	Neolamprologus christyi	34803	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/815/GCA_015107815.1_IZI8.scf/GCA_015107815.1_IZI8.scf_genomic.fna.gz
+GCA_015103215.1	Neolamprologus cylindricus	34804	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/215/GCA_015103215.1_GPH1.scf/GCA_015103215.1_GPH1.scf_genomic.fna.gz
+GCA_015107075.1	Neolamprologus furcifer	34805	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/075/GCA_015107075.1_JEI8.scf/GCA_015107075.1_JEI8.scf_genomic.fna.gz
+GCA_015111095.1	Neolamprologus longior	34806	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/095/GCA_015111095.1_LEE1.scf/GCA_015111095.1_LEE1.scf_genomic.fna.gz
+GCA_015102175.1	Variabilichromis moorii	34807	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/175/GCA_015102175.1_AUC4.scf/GCA_015102175.1_AUC4.scf_genomic.fna.gz
+GCA_015110095.1	Neolamprologus toae	34808	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/095/GCA_015110095.1_JZD5.scf/GCA_015110095.1_JZD5.scf_genomic.fna.gz
+GCA_015111935.1	Telmatochromis bifrenatus	34809	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/935/GCA_015111935.1_KYB7.scf/GCA_015111935.1_KYB7.scf_genomic.fna.gz
+GCA_015105955.1	Telmatochromis vittatus	34811	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/955/GCA_015105955.1_JBD5.scf/GCA_015105955.1_JBD5.scf_genomic.fna.gz
+GCA_015108975.1	Triglachromis otostigma	34813	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/975/GCA_015108975.1_JEG6.scf/GCA_015108975.1_JEG6.scf_genomic.fna.gz
+GCA_001663605.1	Morone saxatilis	34816	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/663/605/GCA_001663605.1_SBDraft1/GCA_001663605.1_SBDraft1_genomic.fna.gz
+GCA_009769695.1	Thamnophis elegans	35005	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/769/695/GCA_009769695.1_rThaEle1.alt/GCA_009769695.1_rThaEle1.alt_genomic.fna.gz
+GCA_018093825.1	Naja naja	35670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/093/825/GCA_018093825.1_NN_10x_BNG/GCA_018093825.1_NN_10x_BNG_genomic.fna.gz
+GCA_905171655.2	Trachurus trachurus	36212	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/171/655/GCA_905171655.2_fTraTra1.2_alternate_haplotype/GCA_905171655.2_fTraTra1.2 alternate haplotype_genomic.fna.gz
+GCA_001663955.1	Kryptolebias marmoratus	37003	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/663/955/GCA_001663955.1_ASM166395v1/GCA_001663955.1_ASM166395v1_genomic.fna.gz
+GCA_003264535.1	Spheniscus magellanicus	37081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/535/GCA_003264535.1_ASM326453v1/GCA_003264535.1_ASM326453v1_genomic.fna.gz
+GCA_003264715.1	Spheniscus magellanicus	37081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/715/GCA_003264715.1_ASM326471v1/GCA_003264715.1_ASM326471v1_genomic.fna.gz
+GCA_003264755.1	Spheniscus magellanicus	37081	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/755/GCA_003264755.1_ASM326475v1/GCA_003264755.1_ASM326475v1_genomic.fna.gz
+GCA_013398395.1	Erithacus rubecula	37610	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/395/GCA_013398395.1_ASM1339839v1/GCA_013398395.1_ASM1339839v1_genomic.fna.gz
+GCA_903797565.2	Erithacus rubecula	37610	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/797/565/GCA_903797565.2_bEriRub2.2_alternate_haplotype/GCA_903797565.2_bEriRub2.2 alternate haplotype_genomic.fna.gz
+GCA_013398685.1	Acrocephalus arundinaceus	39621	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/685/GCA_013398685.1_ASM1339868v1/GCA_013398685.1_ASM1339868v1_genomic.fna.gz
+GCA_013398535.1	Agelaius phoeniceus	39638	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/535/GCA_013398535.1_ASM1339853v1/GCA_013398535.1_ASM1339853v1_genomic.fna.gz
+GCA_021869885.1	Lonchura striata	40157	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/869/885/GCA_021869885.1_ASM2186988v1/GCA_021869885.1_ASM2186988v1_genomic.fna.gz
+GCA_015109115.1	Neolamprologus tretocephalus	40190	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/115/GCA_015109115.1_KFH4.scf/GCA_015109115.1_KFH4.scf_genomic.fna.gz
+GCA_902827105.1	Trematomus bernacchii	40690	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/827/105/GCA_902827105.1_fTreBer1.1_alternate_haplotype/GCA_902827105.1_fTreBer1.1 alternate haplotype_genomic.fna.gz
+GCA_001682695.1	Pygocentrus nattereri	42514	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/682/695/GCA_001682695.1_Pygocentrus_nattereri-1.0.2/GCA_001682695.1_Pygocentrus_nattereri-1.0.2_genomic.fna.gz
+GCA_015220065.1	Pygocentrus nattereri	42514	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/220/065/GCA_015220065.1_fPygNat1.alt/GCA_015220065.1_fPygNat1.alt_genomic.fna.gz
+GCA_012026605.1	Colossoma macropomum	42526	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/026/605/GCA_012026605.1_UP_Cma/GCA_012026605.1_UP_Cma_genomic.fna.gz
+GCA_013399815.1	Hirundo rustica	43150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/399/815/GCA_013399815.1_ASM1339981v1/GCA_013399815.1_ASM1339981v1_genomic.fna.gz
+GCA_015227815.3	Hirundo rustica	43150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/227/815/GCA_015227815.3_bHirRus1.alt.v3/GCA_015227815.3_bHirRus1.alt.v3_genomic.fna.gz
+GCA_902827095.1	Harpagifer antarcticus	43256	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/827/095/GCA_902827095.1_fHarAnt1.1_alternate_haplotype/GCA_902827095.1_fHarAnt1.1 alternate haplotype_genomic.fna.gz
+GCA_015052585.1	Simochromis diagramma	43689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/585/GCA_015052585.1_AUD8.scf/GCA_015052585.1_AUD8.scf_genomic.fna.gz
+GCA_015102155.1	Simochromis diagramma	43689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/155/GCA_015102155.1_AUE1.scf/GCA_015102155.1_AUE1.scf_genomic.fna.gz
+GCA_002850735.1	Zonotrichia albicollis	44394	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/850/735/GCA_002850735.1_WTSP-SWSv1/GCA_002850735.1_WTSP-SWSv1_genomic.fna.gz
+GCA_013397355.1	Motacilla alba	45807	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/397/355/GCA_013397355.1_ASM1339735v1/GCA_013397355.1_ASM1339735v1_genomic.fna.gz
+GCA_003610055.1	Morone chrysops	46259	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/610/055/GCA_003610055.1_DOM152_MoChry_1.0/GCA_003610055.1_DOM152_MoChry_1.0_genomic.fna.gz
+GCA_015109255.1	Pseudosimochromis marginatus	46578	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/255/GCA_015109255.1_KFF1.scf/GCA_015109255.1_KFF1.scf_genomic.fna.gz
+GCA_015109285.1	Pseudosimochromis marginatus	46578	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/285/GCA_015109285.1_KFE8.scf/GCA_015109285.1_KFE8.scf_genomic.fna.gz
+GCA_015109615.1	Pseudosimochromis marginatus	46578	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/615/GCA_015109615.1_KCF3.scf/GCA_015109615.1_KCF3.scf_genomic.fna.gz
+GCA_005870065.1	Oreochromis aureus	47969	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/005/870/065/GCA_005870065.1_ASM587006v1/GCA_005870065.1_ASM587006v1_genomic.fna.gz
+GCA_016625535.1	Oreochromis aureus	47969	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/625/535/GCA_016625535.1_ASM1662553v1/GCA_016625535.1_ASM1662553v1_genomic.fna.gz
+GCA_009819715.1	Sylvia atricapilla	48155	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/715/GCA_009819715.1_bSylAtr1.alt/GCA_009819715.1_bSylAtr1.alt_genomic.fna.gz
+GCA_013398435.1	Sylvia atricapilla	48155	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/435/GCA_013398435.1_ASM1339843v1/GCA_013398435.1_ASM1339843v1_genomic.fna.gz
+GCA_013368595.1	Nyctibius grandis	48427	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/368/595/GCA_013368595.1_bNycGra1.alt/GCA_013368595.1_bNycGra1.alt_genomic.fna.gz
+GCA_013399155.1	Nyctibius grandis	48427	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/399/155/GCA_013399155.1_ASM1339915v1/GCA_013399155.1_ASM1339915v1_genomic.fna.gz
+GCA_021464575.1	Rutilus rutilus	48668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/464/575/GCA_021464575.1_fRutRut3.alt.20211004/GCA_021464575.1_fRutRut3.alt.20211004_genomic.fna.gz
+GCA_013036085.2	Poecilia formosa	48698	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/036/085/GCA_013036085.2_Poecilia_formosa_haplotype_mexicana/GCA_013036085.2_Poecilia_formosa_haplotype_mexicana_genomic.fna.gz
+GCA_013036135.2	Poecilia formosa	48698	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/036/135/GCA_013036135.2_Poecilia_formosa_haplotype_latipinna/GCA_013036135.2_Poecilia_formosa_haplotype_latipinna_genomic.fna.gz
+GCA_013398625.1	Poecile atricapillus	48891	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/625/GCA_013398625.1_ASM1339862v1/GCA_013398625.1_ASM1339862v1_genomic.fna.gz
+GCA_015104555.1	Cyprichromis leptosoma	51791	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/555/GCA_015104555.1_ISI6.scf/GCA_015104555.1_ISI6.scf_genomic.fna.gz
+GCA_902827155.1	Pseudochaenichthys georgianus	52239	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/827/155/GCA_902827155.1_fPseGeo1.1_alternate_haplotype/GCA_902827155.1_fPseGeo1.1 alternate haplotype_genomic.fna.gz
+GCA_013399255.1	Ciconia maguari	52777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/399/255/GCA_013399255.1_ASM1339925v1/GCA_013399255.1_ASM1339925v1_genomic.fna.gz
+GCA_017639665.1	Ciconia maguari	52777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/665/GCA_017639665.1_bCicMag1.alt/GCA_017639665.1_bCicMag1.alt_genomic.fna.gz
+GCA_003186165.1	Scophthalmus maximus	52904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/186/165/GCA_003186165.1_ASM318616v1/GCA_003186165.1_ASM318616v1_genomic.fna.gz
+GCA_006346445.1	Scophthalmus maximus	52904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/346/445/GCA_006346445.1_Turbot_ysfricsl_Female_v1.0/GCA_006346445.1_Turbot_ysfricsl_Female_v1.0_genomic.fna.gz
+GCA_006346465.1	Scophthalmus maximus	52904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/346/465/GCA_006346465.1_ASM634646v1/GCA_006346465.1_ASM634646v1_genomic.fna.gz
+GCA_009764425.1	Scophthalmus maximus	52904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/764/425/GCA_009764425.1_turbot/GCA_009764425.1_turbot_genomic.fna.gz
+GCA_015107855.1	Eretmodus cyanostictus	52954	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/855/GCA_015107855.1_IZI3.scf/GCA_015107855.1_IZI3.scf_genomic.fna.gz
+GCA_015052725.1	Spathodus erythrodon	52956	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/725/GCA_015052725.1_JUB7.scf/GCA_015052725.1_JUB7.scf_genomic.fna.gz
+GCA_015110195.1	Spathodus marlieri	52957	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/195/GCA_015110195.1_JZB7.scf/GCA_015110195.1_JZB7.scf_genomic.fna.gz
+GCA_009819485.1	Cariama cristata	54380	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/485/GCA_009819485.1_bCarCri1.alt/GCA_009819485.1_bCarCri1.alt_genomic.fna.gz
+GCA_009819825.1	Cariama cristata	54380	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/825/GCA_009819825.1_bCarCri1.pri/GCA_009819825.1_bCarCri1.pri_genomic.fna.gz
+GCA_016984135.1	Polypterus senegalus	55291	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/984/135/GCA_016984135.1_BGI_Psen_1.0/GCA_016984135.1_BGI_Psen_1.0_genomic.fna.gz
+GCA_017976305.1	Cuculus canorus	55661	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/976/305/GCA_017976305.1_bCucCan1.alt/GCA_017976305.1_bCucCan1.alt_genomic.fna.gz
+GCA_017976375.1	Cuculus canorus	55661	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/976/375/GCA_017976375.1_bCucCan1.pri/GCA_017976375.1_bCucCan1.pri_genomic.fna.gz
+GCA_000687205.1	Tyto alba	56313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/687/205/GCA_000687205.1_ASM68720v1/GCA_000687205.1_ASM68720v1_genomic.fna.gz
+GCA_900634435.1	Cottoperca gobio	56716	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/634/435/GCA_900634435.1_fCotGob3.1_alternate_haplotype/GCA_900634435.1_fCotGob3.1 alternate haplotype_genomic.fna.gz
+GCA_910591705.2	Pholis gunnellus	56726	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/591/705/GCA_910591705.2_fPhoGun1.2_alternate_haplotype/GCA_910591705.2_fPhoGun1.2 alternate haplotype_genomic.fna.gz
+GCA_015107425.1	Neolamprologus meeli	56727	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/425/GCA_015107425.1_JDF3.scf/GCA_015107425.1_JDF3.scf_genomic.fna.gz
+GCA_016880875.1	Acanthisitta chloris	57068	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/880/875/GCA_016880875.1_bAcaChl1.alt/GCA_016880875.1_bAcaChl1.alt_genomic.fna.gz
+GCA_016904835.1	Acanthisitta chloris	57068	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/904/835/GCA_016904835.1_bAcaChl1.pri/GCA_016904835.1_bAcaChl1.pri_genomic.fna.gz
+GCA_009819585.1	Merops nubicus	57421	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/585/GCA_009819585.1_bMerNub1.alt/GCA_009819585.1_bMerNub1.alt_genomic.fna.gz
+GCA_009819595.1	Merops nubicus	57421	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/595/GCA_009819595.1_bMerNub1.pri/GCA_009819595.1_bMerNub1.pri_genomic.fna.gz
+GCA_000151805.2	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/151/805/GCA_000151805.2_Taeniopygia_guttata-3.2.4/GCA_000151805.2_Taeniopygia_guttata-3.2.4_genomic.fna.gz
+GCA_002008985.2	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/008/985/GCA_002008985.2_Tgut_diploid_1.0/GCA_002008985.2_Tgut_diploid_1.0_genomic.fna.gz
+GCA_003957525.2	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/957/525/GCA_003957525.2_bTaeGut1.4.alt/GCA_003957525.2_bTaeGut1.4.alt_genomic.fna.gz
+GCA_008822105.2	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/822/105/GCA_008822105.2_bTaeGut2.pat.W.v2/GCA_008822105.2_bTaeGut2.pat.W.v2_genomic.fna.gz
+GCA_008822115.3	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/822/115/GCA_008822115.3_bTaeGut2.mat.v3/GCA_008822115.3_bTaeGut2.mat.v3_genomic.fna.gz
+GCA_008822125.1	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/822/125/GCA_008822125.1_bTaeGut2pat/GCA_008822125.1_bTaeGut2pat_genomic.fna.gz
+GCA_009859025.1	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/859/025/GCA_009859025.1_bTaeGut2.p.v1.alt/GCA_009859025.1_bTaeGut2.p.v1.alt_genomic.fna.gz
+GCA_009859065.2	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/859/065/GCA_009859065.2_bTaeGut2.pri.v2/GCA_009859065.2_bTaeGut2.pri.v2_genomic.fna.gz
+GCA_012069535.1	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/069/535/GCA_012069535.1_zebrafinch.Unzip_purge_haplotigs/GCA_012069535.1_zebrafinch.Unzip_purge_haplotigs_genomic.fna.gz
+GCA_012069575.1	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/069/575/GCA_012069575.1_zebrafinch.phase1_contigs/GCA_012069575.1_zebrafinch.phase1_contigs_genomic.fna.gz
+GCA_012069585.1	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/069/585/GCA_012069585.1_zebrafinch.Unzip_purge_primary/GCA_012069585.1_zebrafinch.Unzip_purge_primary_genomic.fna.gz
+GCA_012069595.1	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/069/595/GCA_012069595.1_zebrafinch.phase1_scaffolds/GCA_012069595.1_zebrafinch.phase1_scaffolds_genomic.fna.gz
+GCA_012069605.1	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/069/605/GCA_012069605.1_zebrafinch.phase0_scaffolds/GCA_012069605.1_zebrafinch.phase0_scaffolds_genomic.fna.gz
+GCA_012069615.1	Taeniopygia guttata	59729	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/069/615/GCA_012069615.1_zebrafinch.phase0_contigs/GCA_012069615.1_zebrafinch.phase0_contigs_genomic.fna.gz
+GCA_018398675.1	Coregonus clupeaformis	59861	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/398/675/GCA_018398675.1_ASM1839867v1/GCA_018398675.1_ASM1839867v1_genomic.fna.gz
+GCA_021733505.1	Plecoglossus altivelis	61084	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/733/505/GCA_021733505.1_ASM2173350v1/GCA_021733505.1_ASM2173350v1_genomic.fna.gz
+GCA_021733525.1	Plecoglossus altivelis	61084	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/733/525/GCA_021733525.1_ASM2173352v1/GCA_021733525.1_ASM2173352v1_genomic.fna.gz
+GCA_007859595.1	Varanus komodoensis	61221	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/859/595/GCA_007859595.1_VCOM_VKom_1.0/GCA_007859595.1_VCOM_VKom_1.0_genomic.fna.gz
+GCA_910589325.1	Taurulus bubalis	61643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/910/589/325/GCA_910589325.1_fTauBub2.1_alternate_haplotype/GCA_910589325.1_fTauBub2.1 alternate haplotype_genomic.fna.gz
+GCA_000751415.1	Amphilophus citrinellus	61819	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/751/415/GCA_000751415.1_Midas_v5/GCA_000751415.1_Midas_v5_genomic.fna.gz
+GCA_007364235.1	Archocentrus centrarchus	63155	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/364/235/GCA_007364235.1_fArcCen1_v1.h/GCA_007364235.1_fArcCen1_v1.h_genomic.fna.gz
+GCA_900302665.1	Anabas testudineus	64144	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/302/665/GCA_900302665.1_ASM90030266v1/GCA_900302665.1_ASM90030266v1_genomic.fna.gz
+GCA_900650485.1	Anabas testudineus	64144	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/650/485/GCA_900650485.1_fAnaTes1.2_alternate_haplotype/GCA_900650485.1_fAnaTes1.2 alternate haplotype_genomic.fna.gz
+GCA_015103575.1	Ophthalmotilapia heterodonta	68045	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/575/GCA_015103575.1_Bel06.scf/GCA_015103575.1_Bel06.scf_genomic.fna.gz
+GCA_015103675.1	Ophthalmotilapia nasuta	68046	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/675/GCA_015103675.1_AXH6.scf/GCA_015103675.1_AXH6.scf_genomic.fna.gz
+GCA_017639225.1	Corvus kubaryi	68294	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/225/GCA_017639225.1_C.kubaryi_AGA036_a1.0/GCA_017639225.1_C.kubaryi_AGA036_a1.0_genomic.fna.gz
+GCA_018127105.1	Corvus kubaryi	68294	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/127/105/GCA_018127105.1_ASM1812710v1/GCA_018127105.1_ASM1812710v1_genomic.fna.gz
+GCA_903067115.1	Micropoecilia picta	69234	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/067/115/GCA_903067115.1_HVK_PPI_001/GCA_903067115.1_HVK_PPI_001_genomic.fna.gz
+GCA_000180675.1	Gasterosteus aculeatus	69293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/180/675/GCA_000180675.1_ASM18067v1/GCA_000180675.1_ASM18067v1_genomic.fna.gz
+GCA_006229165.1	Gasterosteus aculeatus	69293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/229/165/GCA_006229165.1_NID/GCA_006229165.1_NID_genomic.fna.gz
+GCA_006229185.1	Gasterosteus aculeatus	69293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/229/185/GCA_006229185.1_BOT/GCA_006229185.1_BOT_genomic.fna.gz
+GCA_006232265.1	Gasterosteus aculeatus	69293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/265/GCA_006232265.1_BAM/GCA_006232265.1_BAM_genomic.fna.gz
+GCA_006232285.1	Gasterosteus aculeatus	69293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/006/232/285/GCA_006232285.1_SYL/GCA_006232285.1_SYL_genomic.fna.gz
+GCA_021554715.1	Leuciscus idus	69811	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/554/715/GCA_021554715.1_fLeuIdu1.alt.20210917/GCA_021554715.1_fLeuIdu1.alt.20210917_genomic.fna.gz
+GCA_015113055.1	Julidochromis transcriptus	70784	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/055/GCA_015113055.1_LJC2.scf/GCA_015113055.1_LJC2.scf_genomic.fna.gz
+GCA_015104295.1	Reganochromis calliurus	70788	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/295/GCA_015104295.1_IUI1.scf/GCA_015104295.1_IUI1.scf_genomic.fna.gz
+GCA_916700715.1	Sebastes crameri	72067	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/700/715/GCA_916700715.1_S-crameri_SEB-6/GCA_916700715.1_S-crameri_SEB-6_genomic.fna.gz
+GCA_916701365.1	Sebastes entomelas	72073	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/365/GCA_916701365.1_S-entomelas_SEB-16/GCA_916701365.1_S-entomelas_SEB-16_genomic.fna.gz
+GCA_916701175.1	Sebastes maliger	72084	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/175/GCA_916701175.1_S-maliger_KUI3233/GCA_916701175.1_S-maliger_KUI3233_genomic.fna.gz
+GCA_916701005.1	Sebastes miniatus	72087	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/005/GCA_916701005.1_S-miniatus_SEB-153/GCA_916701005.1_S-miniatus_SEB-153_genomic.fna.gz
+GCA_916701115.1	Sebastes miniatus	72087	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/115/GCA_916701115.1_S-miniatus_SEB-11/GCA_916701115.1_S-miniatus_SEB-11_genomic.fna.gz
+GCA_916701235.1	Sebastes mystinus	72088	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/235/GCA_916701235.1_S-mystinus_xSEB-27/GCA_916701235.1_S-mystinus_xSEB-27_genomic.fna.gz
+GCA_916701185.1	Sebastes nigrocinctus	72089	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/185/GCA_916701185.1_S-nigrocinctus_UW114045/GCA_916701185.1_S-nigrocinctus_UW114045_genomic.fna.gz
+GCA_916701155.1	Sebastes oculatus	72091	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/155/GCA_916701155.1_S-oculatus_PAR11/GCA_916701155.1_S-oculatus_PAR11_genomic.fna.gz
+GCA_916701355.1	Sebastes oculatus	72091	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/355/GCA_916701355.1_S-oculatus_IQ03/GCA_916701355.1_S-oculatus_IQ03_genomic.fna.gz
+GCA_916701065.1	Sebastes pinniger	72094	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/065/GCA_916701065.1_S-pinniger_SEB-72/GCA_916701065.1_S-pinniger_SEB-72_genomic.fna.gz
+GCA_916701535.1	Sebastes rosaceus	72096	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/535/GCA_916701535.1_S-rosaceus_xSEB-30/GCA_916701535.1_S-rosaceus_xSEB-30_genomic.fna.gz
+GCA_916701565.1	Sebastes ruberrimus	72098	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/565/GCA_916701565.1_S-ruberrimus_Seb91/GCA_916701565.1_S-ruberrimus_Seb91_genomic.fna.gz
+GCA_000475215.1	Sebastes rubrivinctus	72099	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/475/215/GCA_000475215.1_SRub1.0/GCA_000475215.1_SRub1.0_genomic.fna.gz
+GCA_916701395.1	Sebastes rubrivinctus	72099	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/395/GCA_916701395.1_S-rubrivinctus_UW155382/GCA_916701395.1_S-rubrivinctus_UW155382_genomic.fna.gz
+GCA_015220095.1	Sebastes umbrosus	72105	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/220/095/GCA_015220095.1_fSebUmb1.alt/GCA_015220095.1_fSebUmb1.alt_genomic.fna.gz
+GCA_916701575.1	Sebastes umbrosus	72105	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/575/GCA_916701575.1_S-umbrosus_SEB-10/GCA_916701575.1_S-umbrosus_SEB-10_genomic.fna.gz
+GCA_916701685.1	Sebastolobus alascanus	72110	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/685/GCA_916701685.1_B-alascanus_SEB-32/GCA_916701685.1_B-alascanus_SEB-32_genomic.fna.gz
+GCA_014525385.1	Labeo catla	72446	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/525/385/GCA_014525385.1_HRRL_MCC_1.0/GCA_014525385.1_HRRL_MCC_1.0_genomic.fna.gz
+GCA_013400015.1	Sylvia borin	73324	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/400/015/GCA_013400015.1_ASM1340001v1/GCA_013400015.1_ASM1340001v1_genomic.fna.gz
+GCA_014839765.1	Sylvia borin	73324	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/839/765/GCA_014839765.1_bSylBor1.alt/GCA_014839765.1_bSylBor1.alt_genomic.fna.gz
+GCA_002831465.1	Oncorhynchus tshawytscha	74940	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/831/465/GCA_002831465.1_CHI06/GCA_002831465.1_CHI06_genomic.fna.gz
+GCA_002872995.1	Oncorhynchus tshawytscha	74940	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/872/995/GCA_002872995.1_Otsh_v1.0/GCA_002872995.1_Otsh_v1.0_genomic.fna.gz
+GCA_020382915.1	Scatophagus argus	75038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/382/915/GCA_020382915.1_fScaArg1.alt/GCA_020382915.1_fScaArg1.alt_genomic.fna.gz
+GCA_009869865.1	Megalobrama amblycephala	75352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/869/865/GCA_009869865.1_ASM986986v1/GCA_009869865.1_ASM986986v1_genomic.fna.gz
+GCA_003264555.1	Pygoscelis antarcticus	79643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/555/GCA_003264555.1_ASM326455v1/GCA_003264555.1_ASM326455v1_genomic.fna.gz
+GCA_003264595.1	Pygoscelis antarcticus	79643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/264/595/GCA_003264595.1_ASM326459v1/GCA_003264595.1_ASM326459v1_genomic.fna.gz
+GCA_009819545.1	Lacerta agilis	80427	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/545/GCA_009819545.1_rLacAgi1.alt/GCA_009819545.1_rLacAgi1.alt_genomic.fna.gz
+GCA_021347895.1	Acanthochromis polyacanthus	80966	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/347/895/GCA_021347895.1_KAUST_Apoly_ChrSc/GCA_021347895.1_KAUST_Apoly_ChrSc_genomic.fna.gz
+GCA_012393435.1	Verasper variegatus	82366	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/393/435/GCA_012393435.1_ASM1239343v1/GCA_012393435.1_ASM1239343v1_genomic.fna.gz
+GCA_004120215.1	Labeo rohita	84645	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/120/215/GCA_004120215.1_ASM412021v1/GCA_004120215.1_ASM412021v1_genomic.fna.gz
+GCA_013401155.1	Molothrus ater	84834	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/401/155/GCA_013401155.1_ASM1340115v1/GCA_013401155.1_ASM1340115v1_genomic.fna.gz
+GCA_018703735.1	Bostrychus sinensis	86224	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/703/735/GCA_018703735.1_ASM1870373v1/GCA_018703735.1_ASM1870373v1_genomic.fna.gz
+GCA_902806625.1	Camarhynchus parvulus	87175	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/806/625/GCA_902806625.1_Camarhynchus_parvulus_V1.1/GCA_902806625.1_Camarhynchus_parvulus_V1.1_genomic.fna.gz
+GCA_901007815.1	Mullus surmuletus	87757	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/007/815/GCA_901007815.1_Mullus_surmuletus_assembly/GCA_901007815.1_Mullus_surmuletus_assembly_genomic.fna.gz
+GCA_000700825.1	Pimephales promelas	90988	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/700/825/GCA_000700825.1_FHM_SOAPdenovo/GCA_000700825.1_FHM_SOAPdenovo_genomic.fna.gz
+GCA_000700965.1	Pimephales promelas	90988	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/700/965/GCA_000700965.1_FHM_SGA/GCA_000700965.1_FHM_SGA_genomic.fna.gz
+GCA_009819505.2	Catharus ustulatus	91951	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/505/GCA_009819505.2_bCatUst1.alt.v2/GCA_009819505.2_bCatUst1.alt.v2_genomic.fna.gz
+GCA_000511605.2	Coturnix japonica	93934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/511/605/GCA_000511605.2_Coja_2.0a/GCA_000511605.2_Coja_2.0a_genomic.fna.gz
+GCA_000775435.1	Gavialis gangeticus	94835	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/775/435/GCA_000775435.1_ggan_v0.2/GCA_000775435.1_ggan_v0.2_genomic.fna.gz
+GCA_013397215.1	Cardinalis cardinalis	98964	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/397/215/GCA_013397215.1_ASM1339721v1/GCA_013397215.1_ASM1339721v1_genomic.fna.gz
+GCA_011004865.1	Balearica regulorum gibbericeps	925459	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/004/865/GCA_011004865.1_bBalReg1.alt/GCA_011004865.1_bBalReg1.alt_genomic.fna.gz
+GCA_011004875.1	Balearica regulorum gibbericeps	925459	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/004/875/GCA_011004875.1_bBalReg1.pri/GCA_011004875.1_bBalReg1.pri_genomic.fna.gz
+GCA_000878545.1	Nothobranchius furzeri	105023	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/878/545/GCA_000878545.1_NotFur1/GCA_000878545.1_NotFur1_genomic.fna.gz
+GCA_014300015.1	Nothobranchius furzeri	105023	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/300/015/GCA_014300015.1_MPIA_NFZ_2.0/GCA_014300015.1_MPIA_NFZ_2.0_genomic.fna.gz
+GCA_009819645.1	Sterna hirundo	108405	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/645/GCA_009819645.1_bSteHir1.alt/GCA_009819645.1_bSteHir1.alt_genomic.fna.gz
+GCA_017976315.1	Chelmon rostratus	109905	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/976/315/GCA_017976315.1_fCheRos1.alt/GCA_017976315.1_fCheRos1.alt_genomic.fna.gz
+GCA_907165095.1	Caprimulgus europaeus	111811	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/907/165/095/GCA_907165095.1_bCapEur3.1_alternate_haplotype/GCA_907165095.1_bCapEur3.1 alternate haplotype_genomic.fna.gz
+GCA_001005745.2	Scleropages formosus	113540	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/005/745/GCA_001005745.2_aro_v2/GCA_001005745.2_aro_v2_genomic.fna.gz
+GCA_001624245.1	Scleropages formosus	113540	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/624/245/GCA_001624245.1_ASM162424v1/GCA_001624245.1_ASM162424v1_genomic.fna.gz
+GCA_001624255.1	Scleropages formosus	113540	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/624/255/GCA_001624255.1_ASM162425v1/GCA_001624255.1_ASM162425v1_genomic.fna.gz
+GCA_001624265.1	Scleropages formosus	113540	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/624/265/GCA_001624265.1_ASM162426v1/GCA_001624265.1_ASM162426v1_genomic.fna.gz
+GCA_900964985.2	Scleropages formosus	113540	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/964/985/GCA_900964985.2_fSclFor1.1_alternate_haplotype/GCA_900964985.2_fSclFor1.1 alternate haplotype_genomic.fna.gz
+GCA_007844225.1	Arapaima gigas	113544	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/844/225/GCA_007844225.1_ASM784422v1/GCA_007844225.1_ASM784422v1_genomic.fna.gz
+GCA_013368575.1	Megalops cyprinoides	118141	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/368/575/GCA_013368575.1_fMegCyp1.alt/GCA_013368575.1_fMegCyp1.alt_genomic.fna.gz
+GCA_014839825.1	Dryobates pubescens	118200	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/839/825/GCA_014839825.1_bDryPub1.alt/GCA_014839825.1_bDryPub1.alt_genomic.fna.gz
+GCA_014839835.1	Dryobates pubescens	118200	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/839/835/GCA_014839835.1_bDryPub1.pri/GCA_014839835.1_bDryPub1.pri_genomic.fna.gz
+GCA_011952085.1	Siniperca chuatsi	119488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/952/085/GCA_011952085.1_sinChu7/GCA_011952085.1_sinChu7_genomic.fna.gz
+GCA_015220155.1	Falco rusticolus	120794	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/220/155/GCA_015220155.1_bFalRus1.alt/GCA_015220155.1_bFalRus1.alt_genomic.fna.gz
+GCA_009764505.1	Tauraco erythrolophus	121530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/764/505/GCA_009764505.1_bTauEry1.alt/GCA_009764505.1_bTauEry1.alt_genomic.fna.gz
+GCA_009769465.1	Tauraco erythrolophus	121530	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/769/465/GCA_009769465.1_bTauEry1.pri/GCA_009769465.1_bTauEry1.pri_genomic.fna.gz
+GCA_016801255.1	Esox masquinongy	126735	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/801/255/GCA_016801255.1_ASM1680125v1/GCA_016801255.1_ASM1680125v1_genomic.fna.gz
+GCA_013397325.1	Leucopsar rothschildi	127929	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/397/325/GCA_013397325.1_ASM1339732v1/GCA_013397325.1_ASM1339732v1_genomic.fna.gz
+GCA_014839645.1	Xenentodon cancila	129108	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/839/645/GCA_014839645.1_fXenCan1.alt/GCA_014839645.1_fXenCan1.alt_genomic.fna.gz
+GCA_003402825.1	Corvus hawaiiensis	134902	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/402/825/GCA_003402825.1_Coha_1.0/GCA_003402825.1_Coha_1.0_genomic.fna.gz
+GCA_020740675.1	Corvus hawaiiensis	134902	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/740/675/GCA_020740675.1_bCorHaw1.alt.cur/GCA_020740675.1_bCorHaw1.alt.cur_genomic.fna.gz
+GCA_003399555.1	Pungitius pungitius	134920	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/399/555/GCA_003399555.1_ASM339955v1/GCA_003399555.1_ASM339955v1_genomic.fna.gz
+GCA_003935095.1	Pungitius pungitius	134920	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/935/095/GCA_003935095.1_ASM393509v1/GCA_003935095.1_ASM393509v1_genomic.fna.gz
+GCA_009764545.1	Geothlypis trichas	135433	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/764/545/GCA_009764545.1_bGeoTri1.alt/GCA_009764545.1_bGeoTri1.alt_genomic.fna.gz
+GCA_021870715.1	Hypomesus transpacificus	137520	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/870/715/GCA_021870715.1_mHypTra1/GCA_021870715.1_mHypTra1_genomic.fna.gz
+GCA_015052325.1	Gnathochromis permaxillaris	143505	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/325/GCA_015052325.1_IUI5.scf/GCA_015052325.1_IUI5.scf_genomic.fna.gz
+GCA_015107535.1	Grammatotria lemairii	143506	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/535/GCA_015107535.1_JDD8.scf/GCA_015107535.1_JDD8.scf_genomic.fna.gz
+GCA_015109995.1	Xenotilapia ornatipinnis	143550	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/995/GCA_015109995.1_JZE8.scf/GCA_015109995.1_JZE8.scf_genomic.fna.gz
+GCA_001655135.1	Phylloscopus trochiloides trochiloides	48154	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/655/135/GCA_001655135.1_GWtro1.0/GCA_001655135.1_GWtro1.0_genomic.fna.gz
+GCA_017639645.1	Falco naumanni	148594	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/645/GCA_017639645.1_bFalNau1.mat/GCA_017639645.1_bFalNau1.mat_genomic.fna.gz
+GCA_015110715.1	Ophthalmotilapia boops	152463	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/715/GCA_015110715.1_LFI6.scf/GCA_015110715.1_LFI6.scf_genomic.fna.gz
+GCA_009769595.1	Bucorvus abyssinicus	153643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/769/595/GCA_009769595.1_bBucAby1.alt/GCA_009769595.1_bBucAby1.alt_genomic.fna.gz
+GCA_013398885.1	Bucorvus abyssinicus	153643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/885/GCA_013398885.1_ASM1339888v1/GCA_013398885.1_ASM1339888v1_genomic.fna.gz
+GCA_010077915.1	Spheniscus mendiculus	156760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/077/915/GCA_010077915.1_BGI_Smen.V1/GCA_010077915.1_BGI_Smen.V1_genomic.fna.gz
+GCA_003650155.1	Betta splendens	158456	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/650/155/GCA_003650155.1_ASM365015v1/GCA_003650155.1_ASM365015v1_genomic.fna.gz
+GCA_013403625.1	Betta splendens	158456	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/403/625/GCA_013403625.1_Bspl.v1.2018/GCA_013403625.1_Bspl.v1.2018_genomic.fna.gz
+GCA_900651605.1	Betta splendens	158456	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/651/605/GCA_900651605.1_fBetSpl5.1_alternate_haplotype/GCA_900651605.1_fBetSpl5.1 alternate haplotype_genomic.fna.gz
+GCA_015102395.1	Benthochromis tricoti	158760	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/395/GCA_015102395.1_LDA9.scf/GCA_015102395.1_LDA9.scf_genomic.fna.gz
+GCA_015106355.1	Trematocara unimaculatum	158782	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/355/GCA_015106355.1_IXA3.scf/GCA_015106355.1_IXA3.scf_genomic.fna.gz
+GCA_011397275.1	Plectropomus leopardus	160734	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/397/275/GCA_011397275.1_Pleo_1.0/GCA_011397275.1_Pleo_1.0_genomic.fna.gz
+GCA_019802525.1	Phyllopteryx taeniolatus	161469	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/802/525/GCA_019802525.1_ASM1980252v1/GCA_019802525.1_ASM1980252v1_genomic.fna.gz
+GCA_901709685.1	Syngnathus acus	161584	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/709/685/GCA_901709685.1_fSynAcu1.1_alternate_haplotype/GCA_901709685.1_fSynAcu1.1 alternate haplotype_genomic.fna.gz
+GCA_015105715.1	Plecodus straeleni	167846	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/715/GCA_015105715.1_INE9.scf/GCA_015105715.1_INE9.scf_genomic.fna.gz
+GCA_015103735.1	Pseudosimochromis curvifrons	167848	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/735/GCA_015103735.1_AXF8.scf/GCA_015103735.1_AXF8.scf_genomic.fna.gz
+GCA_020745765.1	Hemiscyllium ocellatum	170820	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/745/765/GCA_020745765.1_sHemOce1.mat.decon/GCA_020745765.1_sHemOce1.mat.decon_genomic.fna.gz
+GCA_900323315.1	Symphodus melops	171736	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/323/315/GCA_900323315.1_ASM90032331v1/GCA_900323315.1_ASM90032331v1_genomic.fna.gz
+GCA_900963505.1	Echeneis naucrates	173247	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/963/505/GCA_900963505.1_fEcheNa1.1_alternate_haplotype/GCA_900963505.1_fEcheNa1.1 alternate haplotype_genomic.fna.gz
+GCA_900231065.1	Trachinotus ovatus	173339	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/231/065/GCA_900231065.1_golden_pompano_genome_number_1/GCA_900231065.1_golden_pompano_genome_number_1_genomic.fna.gz
+GCA_000400545.1	Ara macao	176014	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/400/545/GCA_000400545.1_SMACv1.0/GCA_000400545.1_SMACv1.0_genomic.fna.gz
+GCA_009867195.1	Aratinga solstitialis	176015	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/867/195/GCA_009867195.1_ASM986719v1/GCA_009867195.1_ASM986719v1_genomic.fna.gz
+GCA_013036005.1	Myiopsitta monachus	176066	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/036/005/GCA_013036005.1_ASM1303600v1/GCA_013036005.1_ASM1303600v1_genomic.fna.gz
+GCA_901699165.2	Streptopelia turtur	177155	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/699/165/GCA_901699165.2_bStrTur1.2_alternate_haplotype/GCA_901699165.2_bStrTur1.2 alternate haplotype_genomic.fna.gz
+GCA_902148835.1	Salarias fasciatus	181472	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/148/835/GCA_902148835.1_fSalaFa1.1_alternate_haplotype/GCA_902148835.1_fSalaFa1.1 alternate haplotype_genomic.fna.gz
+GCA_015108355.1	Neolamprologus gracilis	184147	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/355/GCA_015108355.1_JWH1.scf/GCA_015108355.1_JWH1.scf_genomic.fna.gz
+GCA_015108375.1	Neolamprologus helianthus	184148	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/375/GCA_015108375.1_JWG8.scf/GCA_015108375.1_JWG8.scf_genomic.fna.gz
+GCA_015108315.1	Neolamprologus marunguensis	184149	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/315/GCA_015108315.1_JWH3.scf/GCA_015108315.1_JWH3.scf_genomic.fna.gz
+GCA_015108295.1	Neolamprologus olivaceous	184150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/295/GCA_015108295.1_JWH5.scf/GCA_015108295.1_JWH5.scf_genomic.fna.gz
+GCA_015104735.1	Neolamprologus pulcher	184151	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/735/GCA_015104735.1_ISA6.scf/GCA_015104735.1_ISA6.scf_genomic.fna.gz
+GCA_015106135.1	Neolamprologus savoryi	184152	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/135/GCA_015106135.1_IYA4.scf/GCA_015106135.1_IYA4.scf_genomic.fna.gz
+GCA_011799995.1	Chlamydotis macqueenii	187382	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/799/995/GCA_011799995.1_REN_Cmacq_1.0/GCA_011799995.1_REN_Cmacq_1.0_genomic.fna.gz
+GCA_011800025.1	Chlamydotis macqueenii	187382	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/800/025/GCA_011800025.1_REN_Cmacq_2.0/GCA_011800025.1_REN_Cmacq_2.0_genomic.fna.gz
+GCA_016801415.1	Sceloporus tristichus	190870	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/801/415/GCA_016801415.1_ASM1680141v1/GCA_016801415.1_ASM1680141v1_genomic.fna.gz
+GCA_901001175.1	Rhinatrema bivittatum	194408	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/001/175/GCA_901001175.1_aRhiBiv1.1_alternate_haplotype/GCA_901001175.1_aRhiBiv1.1 alternate haplotype_genomic.fna.gz
+GCA_015102135.1	Ctenochromis horei	194657	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/135/GCA_015102135.1_AVA8.scf/GCA_015102135.1_AVA8.scf_genomic.fna.gz
+GCA_015102935.1	Lamprologus ocellatus	195090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/935/GCA_015102935.1_ILC1.scf/GCA_015102935.1_ILC1.scf_genomic.fna.gz
+GCA_015104375.1	Trematocara macrostoma	195092	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/375/GCA_015104375.1_IUD8.scf/GCA_015104375.1_IUD8.scf_genomic.fna.gz
+GCA_014839705.1	Anableps anableps	195821	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/839/705/GCA_014839705.1_fAnaAna1.alt/GCA_014839705.1_fAnaAna1.alt_genomic.fna.gz
+GCA_015111515.1	Tropheus sp. 'Kirschfleck'	198185	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/515/GCA_015111515.1_LCF3.scf/GCA_015111515.1_LCF3.scf_genomic.fna.gz
+GCA_001458055.1	Calidris pugnax	198806	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/458/055/GCA_001458055.1_ruff_EG1/GCA_001458055.1_ruff_EG1_genomic.fna.gz
+GCA_021966175.1	Artemisiospiza belli	198938	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/966/175/GCA_021966175.1_bArtBel1.0.a/GCA_021966175.1_bArtBel1.0.a_genomic.fna.gz
+GCA_001910785.2	Sebastes steindachneri	201708	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/910/785/GCA_001910785.2_ASM191078v2/GCA_001910785.2_ASM191078v2_genomic.fna.gz
+GCA_019455525.1	Mastacembelus armatus	205130	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/455/525/GCA_019455525.1_Marm_hapY/GCA_019455525.1_Marm_hapY_genomic.fna.gz
+GCA_019455535.1	Mastacembelus armatus	205130	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/455/535/GCA_019455535.1_Marm_hapX/GCA_019455535.1_Marm_hapX_genomic.fna.gz
+GCA_016584745.1	Phylloscopus trochilus trochilus	9182	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/584/745/GCA_016584745.1_LUNI_Phtr_3/GCA_016584745.1_LUNI_Phtr_3_genomic.fna.gz
+GCA_900651595.1	Parambassis ranga	210632	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/651/595/GCA_900651595.1_fParRan2.1_alternate_haplotype/GCA_900651595.1_fParRan2.1 alternate haplotype_genomic.fna.gz
+GCA_001910765.2	Sebastes minor	214483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/910/765/GCA_001910765.2_ASM191076v2/GCA_001910765.2_ASM191076v2_genomic.fna.gz
+GCA_001910805.2	Sebastes aleutianus	214485	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/910/805/GCA_001910805.2_ASM191080v2/GCA_001910805.2_ASM191080v2_genomic.fna.gz
+GCA_004335315.1	Sebastes schlegelii	214486	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/335/315/GCA_004335315.1_ASM433531v1/GCA_004335315.1_ASM433531v1_genomic.fna.gz
+GCA_916701485.1	Sebastes schlegelii	214486	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/485/GCA_916701485.1_S_schlegelii_139475/GCA_916701485.1_S_schlegelii_139475_genomic.fna.gz
+GCA_016617885.1	Siniperca knerii	214812	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/617/885/GCA_016617885.1_ASM1661788v1/GCA_016617885.1_ASM1661788v1_genomic.fna.gz
+GCA_019425535.1	Siniperca knerii	214812	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/425/535/GCA_019425535.1_ASM1942553v1/GCA_019425535.1_ASM1942553v1_genomic.fna.gz
+GCA_000742935.1	Larimichthys crocea	215358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/742/935/GCA_000742935.1_ASM74293v1/GCA_000742935.1_ASM74293v1_genomic.fna.gz
+GCA_003711585.2	Larimichthys crocea	215358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/711/585/GCA_003711585.2_ASM371158v2/GCA_003711585.2_ASM371158v2_genomic.fna.gz
+GCA_003845795.1	Larimichthys crocea	215358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/845/795/GCA_003845795.1_LCFGL_HiC_1.0/GCA_003845795.1_LCFGL_HiC_1.0_genomic.fna.gz
+GCA_004352675.2	Larimichthys crocea	215358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/352/675/GCA_004352675.2_ASM435267v2/GCA_004352675.2_ASM435267v2_genomic.fna.gz
+GCA_900246015.1	Larimichthys crocea	215358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/246/015/GCA_900246015.1_Larimichthys_crocea_chromosome_1.0/GCA_900246015.1_Larimichthys_crocea_chromosome_1.0_genomic.fna.gz
+GCA_004786185.1	Channa argus	215402	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/786/185/GCA_004786185.1_ASM478618v1/GCA_004786185.1_ASM478618v1_genomic.fna.gz
+GCA_000696035.1	Aquila chrysaetos canadensis	8962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/696/035/GCA_000696035.1_AquilaChrysaetos1/GCA_000696035.1_AquilaChrysaetos1_genomic.fna.gz
+GCA_000766835.1	Aquila chrysaetos canadensis	8962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/766/835/GCA_000766835.1_Aquila_chrysaetos-1.0.2/GCA_000766835.1_Aquila_chrysaetos-1.0.2_genomic.fna.gz
+GCA_015108195.1	Pelvicachromis taeniatus	219366	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/195/GCA_015108195.1_JWI5.scf/GCA_015108195.1_JWI5.scf_genomic.fna.gz
+GCA_015103315.1	Bathybates fasciatus	219385	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/315/GCA_015103315.1_GPB2.scf/GCA_015103315.1_GPB2.scf_genomic.fna.gz
+GCA_009819845.1	Aythya fuligula	219594	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/819/845/GCA_009819845.1_bAytFul2.alt/GCA_009819845.1_bAytFul2.alt_genomic.fna.gz
+GCA_902153765.2	Aquila chrysaetos chrysaetos	8962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/153/765/GCA_902153765.2_bAquChr1.4_alternate_haplotype/GCA_902153765.2_bAquChr1.4 alternate haplotype_genomic.fna.gz
+GCA_004358465.1	Ophiodon elongatus	225387	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/358/465/GCA_004358465.1_GSC_LCod_1.0/GCA_004358465.1_GSC_LCod_1.0_genomic.fna.gz
+GCA_013400095.1	Himantopus himantopus	225398	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/400/095/GCA_013400095.1_ASM1340009v1/GCA_013400095.1_ASM1340009v1_genomic.fna.gz
+GCA_905332855.1	Menidia menidia	238744	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/332/855/GCA_905332855.1_Menidia_menidia_CT_1.0/GCA_905332855.1_Menidia_menidia_CT_1.0_genomic.fna.gz
+GCA_009852395.1	Collichthys lucidus	240159	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/852/395/GCA_009852395.1_ASM985239v1/GCA_009852395.1_ASM985239v1_genomic.fna.gz
+GCA_900327885.1	Nibea albiflora	240163	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/327/885/GCA_900327885.1_Nibea_albiflora_v1.0/GCA_900327885.1_Nibea albiflora v1.0_genomic.fna.gz
+GCA_900659735.1	Nibea albiflora	240163	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/659/735/GCA_900659735.1_Pseudomonas_aeruginosa/GCA_900659735.1_Pseudomonas aeruginosa_genomic.fna.gz
+GCA_902410095.1	Nibea albiflora	240163	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/410/095/GCA_902410095.1_YD_2/GCA_902410095.1_YD_2_genomic.fna.gz
+GCA_009769505.1	Pterocles gutturalis	240206	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/769/505/GCA_009769505.1_bPteGut1.alt/GCA_009769505.1_bPteGut1.alt_genomic.fna.gz
+GCA_009769525.1	Pterocles gutturalis	240206	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/769/525/GCA_009769525.1_bPteGut1.pri/GCA_009769525.1_bPteGut1.pri_genomic.fna.gz
+GCA_015106875.1	Lestradea stappersii	240473	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/875/GCA_015106875.1_JVH3.scf/GCA_015106875.1_JVH3.scf_genomic.fna.gz
+GCA_015105415.1	Xenotilapia boulengeri	240480	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/415/GCA_015105415.1_IPE3.scf/GCA_015105415.1_IPE3.scf_genomic.fna.gz
+GCA_015105995.1	Xenotilapia flavipinnis	240481	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/995/GCA_015105995.1_JAF9.scf/GCA_015105995.1_JAF9.scf_genomic.fna.gz
+GCA_015106235.1	Xenotilapia caudafasciata	240484	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/235/GCA_015106235.1_IXB9.scf/GCA_015106235.1_IXB9.scf_genomic.fna.gz
+GCA_015109815.1	Xenotilapia longispinis	240485	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/815/GCA_015109815.1_KAF5.scf/GCA_015109815.1_KAF5.scf_genomic.fna.gz
+GCA_015103755.1	Xenotilapia spiloptera	240486	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/755/GCA_015103755.1_AXB8.scf/GCA_015103755.1_AXB8.scf_genomic.fna.gz
+GCA_015052465.1	Xenotilapia sp. 'papilio sunflower'	240487	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/465/GCA_015052465.1_GPF8.scf/GCA_015052465.1_GPF8.scf_genomic.fna.gz
+GCA_015109835.1	Callochromis melanostigma	240489	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/835/GCA_015109835.1_KAF4.scf/GCA_015109835.1_KAF4.scf_genomic.fna.gz
+GCA_903798155.1	Danio kyathit	242068	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/155/GCA_903798155.1_fDanKya3.1_alternate_haplotype/GCA_903798155.1_fDanKya3.1 alternate haplotype_genomic.fna.gz
+GCA_013396855.1	Hemiprocne comata	243314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/396/855/GCA_013396855.1_ASM1339685v1/GCA_013396855.1_ASM1339685v1_genomic.fna.gz
+GCA_020745695.1	Hemiprocne comata	243314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/745/695/GCA_020745695.1_bHemCom1.alt.cur/GCA_020745695.1_bHemCom1.alt.cur_genomic.fna.gz
+GCA_015103835.1	Limnotilapia dardennii	244511	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/835/GCA_015103835.1_AWI6.scf/GCA_015103835.1_AWI6.scf_genomic.fna.gz
+GCA_015105435.1	Petrochromis trewavasae ephippium	244518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/435/GCA_015105435.1_IPC1.scf/GCA_015105435.1_IPC1.scf_genomic.fna.gz
+GCA_015108055.1	Petrochromis trewavasae ephippium	244518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/055/GCA_015108055.1_IYA5.scf/GCA_015108055.1_IYA5.scf_genomic.fna.gz
+GCA_015106115.1	Petrochromis famula	244513	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/115/GCA_015106115.1_IYA6.scf/GCA_015106115.1_IYA6.scf_genomic.fna.gz
+GCA_015103895.1	Petrochromis polyodon	244514	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/895/GCA_015103895.1_AWI4.scf/GCA_015103895.1_AWI4.scf_genomic.fna.gz
+GCA_015052285.1	Petrochromis trewavasae	244518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/285/GCA_015052285.1_IWC9.scf/GCA_015052285.1_IWC9.scf_genomic.fna.gz
+GCA_015106415.1	Petrochromis trewavasae	244518	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/415/GCA_015106415.1_IWD4.scf/GCA_015106415.1_IWD4.scf_genomic.fna.gz
+GCA_014656915.2	Entosphenus tridentatus	245074	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/656/915/GCA_014656915.2_ETRm_v1/GCA_014656915.2_ETRm_v1_genomic.fna.gz
+GCA_013626285.1	Rhincodon typus	259920	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/626/285/GCA_013626285.1_RhiTyp_1.0/GCA_013626285.1_RhiTyp_1.0_genomic.fna.gz
+GCA_021869965.1	Rhincodon typus	259920	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/869/965/GCA_021869965.1_sRhiTyp1.1/GCA_021869965.1_sRhiTyp1.1_genomic.fna.gz
+GCA_902459495.1	Geotrypetes seraphini	260995	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/459/495/GCA_902459495.1_aGeoSer1.1_alternate_haplotype/GCA_902459495.1_aGeoSer1.1 alternate haplotype_genomic.fna.gz
+GCA_015111715.1	Telmatochromis dhonti	272717	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/715/GCA_015111715.1_LBF8.scf/GCA_015111715.1_LBF8.scf_genomic.fna.gz
+GCA_015112495.1	Neolamprologus petricola	272718	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/495/GCA_015112495.1_LGH8.scf/GCA_015112495.1_LGH8.scf_genomic.fna.gz
+GCA_015109435.1	Lepidiolamprologus profundicola	272719	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/435/GCA_015109435.1_KEB8.scf/GCA_015109435.1_KEB8.scf_genomic.fna.gz
+GCA_015103975.1	Lepidiolamprologus attenuatus	272720	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/975/GCA_015103975.1_AVD4.scf/GCA_015103975.1_AVD4.scf_genomic.fna.gz
+GCA_015103695.1	Neolamprologus fasciatus	272721	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/695/GCA_015103695.1_AXD5.scf/GCA_015103695.1_AXD5.scf_genomic.fna.gz
+GCA_015104695.1	Julidochromis ornatus	272722	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/695/GCA_015104695.1_ISB7.scf/GCA_015104695.1_ISB7.scf_genomic.fna.gz
+GCA_015108875.1	Neolamprologus mondabu	272723	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/875/GCA_015108875.1_JVB8.scf/GCA_015108875.1_JVB8.scf_genomic.fna.gz
+GCA_015105455.1	Lamprologus lemairii	272724	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/455/GCA_015105455.1_IPD6.scf/GCA_015105455.1_IPD6.scf_genomic.fna.gz
+GCA_015102595.1	Neolamprologus modestus	272725	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/595/GCA_015102595.1_IMG9.scf/GCA_015102595.1_IMG9.scf_genomic.fna.gz
+GCA_015109495.1	Neolamprologus similis	278786	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/495/GCA_015109495.1_KEC2.scf/GCA_015109495.1_KEC2.scf_genomic.fna.gz
+GCA_015105575.1	Cyathopharynx foae	284571	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/575/GCA_015105575.1_IOD6.scf/GCA_015105575.1_IOD6.scf_genomic.fna.gz
+GCA_015106015.1	Baileychromis centropomoides	286574	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/015/GCA_015106015.1_JAB7.scf/GCA_015106015.1_JAB7.scf_genomic.fna.gz
+GCA_015106155.1	Hemibates stenosoma	286578	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/155/GCA_015106155.1_IXC3.scf/GCA_015106155.1_IXC3.scf_genomic.fna.gz
+GCA_015104495.1	Limnochromis abeelei	286579	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/495/GCA_015104495.1_ITB3.scf/GCA_015104495.1_ITB3.scf_genomic.fna.gz
+GCA_015104425.1	Limnochromis staneri	286580	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/425/GCA_015104425.1_ITC2.scf/GCA_015104425.1_ITC2.scf_genomic.fna.gz
+GCA_015106275.1	Limnochromis staneri	286580	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/275/GCA_015106275.1_IXB6.scf/GCA_015106275.1_IXB6.scf_genomic.fna.gz
+GCA_015106035.1	Xenotilapia nigrolabiata	286602	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/035/GCA_015106035.1_IZC7.scf/GCA_015106035.1_IZC7.scf_genomic.fna.gz
+GCA_015113115.1	Petrochromis macrognathus	287480	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/115/GCA_015113115.1_LJB1.scf/GCA_015113115.1_LJB1.scf_genomic.fna.gz
+GCA_015105535.1	Lepidiolamprologus cunningtoni	287481	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/535/GCA_015105535.1_IOH4.scf/GCA_015105535.1_IOH4.scf_genomic.fna.gz
+GCA_015107775.1	Petrochromis fasciolatus	287489	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/775/GCA_015107775.1_JAE1.scf/GCA_015107775.1_JAE1.scf_genomic.fna.gz
+GCA_004335335.1	Sebastes koreanus	290523	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/335/335/GCA_004335335.1_ASM433533v1/GCA_004335335.1_ASM433533v1_genomic.fna.gz
+GCA_015106335.1	Bathybates minor	293467	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/335/GCA_015106335.1_IXA5.scf/GCA_015106335.1_IXA5.scf_genomic.fna.gz
+GCA_015104215.1	Bathybates graueri	293468	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/215/GCA_015104215.1_IUI8.scf/GCA_015104215.1_IUI8.scf_genomic.fna.gz
+GCA_015104445.1	Bathybates vittatus	293469	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/445/GCA_015104445.1_ITD7.scf/GCA_015104445.1_ITD7.scf_genomic.fna.gz
+GCA_015107415.1	Bathybates vittatus	293469	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/415/GCA_015107415.1_JDE7.scf/GCA_015107415.1_JDE7.scf_genomic.fna.gz
+GCA_015107475.1	Bathybates hornii	293471	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/475/GCA_015107475.1_JDE3.scf/GCA_015107475.1_JDE3.scf_genomic.fna.gz
+GCA_015708455.1	Sarotherodon lohbergeri	296553	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/708/455/GCA_015708455.1_Z06.scf/GCA_015708455.1_Z06.scf_genomic.fna.gz
+GCA_009829205.1	Chiroxiphia lanceolata	296741	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/829/205/GCA_009829205.1_bChiLan1.alt/GCA_009829205.1_bChiLan1.alt_genomic.fna.gz
+GCA_020746095.1	Trogon surrucura	297711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/746/095/GCA_020746095.1_bTroSur1.alt.cur/GCA_020746095.1_bTroSur1.alt.cur_genomic.fna.gz
+GCA_002197715.1	Lonchura striata domestica	40157	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/197/715/GCA_002197715.1_LonStrDom1/GCA_002197715.1_LonStrDom1_genomic.fna.gz
+GCA_021869855.1	Lonchura striata domestica	40157	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/869/855/GCA_021869855.1_ASM2186985v1/GCA_021869855.1_ASM2186985v1_genomic.fna.gz
+GCA_900700345.2	Denticeps clupeoides	299321	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/700/345/GCA_900700345.2_fDenClu1.1_alternate_haplotype/GCA_900700345.2_fDenClu1.1 alternate haplotype_genomic.fna.gz
+GCA_015106195.1	Benthochromis melanoides	299336	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/195/GCA_015106195.1_IXB8.scf/GCA_015106195.1_IXB8.scf_genomic.fna.gz
+GCA_015107975.1	Benthochromis melanoides	299336	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/975/GCA_015107975.1_IZA2.scf/GCA_015107975.1_IZA2.scf_genomic.fna.gz
+GCA_015107915.1	Greenwoodochromis christyi	299337	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/915/GCA_015107915.1_IZF1.scf/GCA_015107915.1_IZF1.scf_genomic.fna.gz
+GCA_902685365.1	Neostethus bicornis	300306	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/685/365/GCA_902685365.1_fNeoBic2.1_alternate_haplotype/GCA_902685365.1_fNeoBic2.1 alternate haplotype_genomic.fna.gz
+GCA_019802575.1	Syngnathoides biaculeatus	300417	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/802/575/GCA_019802575.1_ASM1980257v1/GCA_019802575.1_ASM1980257v1_genomic.fna.gz
+GCA_003054885.1	Seriola lalandi	302047	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/054/885/GCA_003054885.1_wag_ytk_001/GCA_003054885.1_wag_ytk_001_genomic.fna.gz
+GCA_010015425.1	Ara glaucogularis	303304	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/015/425/GCA_010015425.1_ASM1001542v1/GCA_010015425.1_ASM1001542v1_genomic.fna.gz
+GCA_922020495.1	Ara glaucogularis	303304	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/922/020/495/GCA_922020495.1_ORGONE_03/GCA_922020495.1_ORGONE_03_genomic.fna.gz
+GCA_019925165.1	Cromileptes altivelis	304459	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/925/165/GCA_019925165.1_OUC_Cal_1.0/GCA_019925165.1_OUC_Cal_1.0_genomic.fna.gz
+GCA_015103255.1	Paracyprichromis nigripinnis	309875	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/255/GCA_015103255.1_GPC6.scf/GCA_015103255.1_GPC6.scf_genomic.fna.gz
+GCA_015106935.1	Cyprichromis microlepidotus	309879	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/935/GCA_015106935.1_JVE1.scf/GCA_015106935.1_JVE1.scf_genomic.fna.gz
+GCA_015107255.1	Cyprichromis pavo	309881	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/255/GCA_015107255.1_JEB4.scf/GCA_015107255.1_JEB4.scf_genomic.fna.gz
+GCA_015103195.1	Cyprichromis zonatus	309894	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/195/GCA_015103195.1_GPD1.scf/GCA_015103195.1_GPD1.scf_genomic.fna.gz
+GCA_015112015.1	Neolamprologus niger	309899	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/015/GCA_015112015.1_KYA1.scf/GCA_015112015.1_KYA1.scf_genomic.fna.gz
+GCA_015113015.1	Neolamprologus nigriventris	309900	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/015/GCA_015113015.1_LJC3.scf/GCA_015113015.1_LJC3.scf_genomic.fna.gz
+GCA_017165655.1	Epinephelus lanceolatus	310571	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/165/655/GCA_017165655.1_SYSU_Elan_1.1/GCA_017165655.1_SYSU_Elan_1.1_genomic.fna.gz
+GCA_003671635.1	Pangasianodon hypophthalmus	310915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/671/635/GCA_003671635.1_VN_pangasius/GCA_003671635.1_VN_pangasius_genomic.fna.gz
+GCA_016801045.1	Pangasianodon hypophthalmus	310915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/801/045/GCA_016801045.1_ASM1680104v1/GCA_016801045.1_ASM1680104v1_genomic.fna.gz
+GCA_021464635.1	Proterorhinus semilunaris	322563	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/464/635/GCA_021464635.1_fProSem1.alt.20201207/GCA_021464635.1_fProSem1.alt.20201207_genomic.fna.gz
+GCA_000692015.2	Manacus vitellinus	328815	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/692/015/GCA_000692015.2_ASM69201v2/GCA_000692015.2_ASM69201v2_genomic.fna.gz
+GCA_015103495.1	Neolamprologus hecqui	329912	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/495/GCA_015103495.1_Bel13.scf/GCA_015103495.1_Bel13.scf_genomic.fna.gz
+GCA_015103515.1	Neolamprologus hecqui	329912	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/515/GCA_015103515.1_Bel14.scf/GCA_015103515.1_Bel14.scf_genomic.fna.gz
+GCA_015106835.1	Lamprologus meleagris	329913	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/835/GCA_015106835.1_JWA8.scf/GCA_015106835.1_JWA8.scf_genomic.fna.gz
+GCA_015108775.1	Neolamprologus variostigma	329914	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/775/GCA_015108775.1_JWA5.scf/GCA_015108775.1_JWA5.scf_genomic.fna.gz
+GCA_015109635.1	Lamprologus speciosus	329915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/635/GCA_015109635.1_KCG3.scf/GCA_015109635.1_KCG3.scf_genomic.fna.gz
+GCA_015108995.1	Neolamprologus buescheri	329916	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/995/GCA_015108995.1_JEI4.scf/GCA_015108995.1_JEI4.scf_genomic.fna.gz
+GCA_015111995.1	Neolamprologus boulengeri	329917	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/995/GCA_015111995.1_KYB9.scf/GCA_015111995.1_KYB9.scf_genomic.fna.gz
+GCA_015102705.1	Lepidiolamprologus kendalli	329923	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/705/GCA_015102705.1_IMD2.scf/GCA_015102705.1_IMD2.scf_genomic.fna.gz
+GCA_003692655.1	Hirundo rustica rustica	43150	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/692/655/GCA_003692655.1_Chelidonia/GCA_003692655.1_Chelidonia_genomic.fna.gz
+GCA_010119295.1	Larimichthys polyactis	334908	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/119/295/GCA_010119295.1_ASM1011929v1/GCA_010119295.1_ASM1011929v1_genomic.fna.gz
+GCA_012057345.1	Aquila chrysaetos japonica	8962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/057/345/GCA_012057345.1_Achrysaetos_1.0/GCA_012057345.1_Achrysaetos_1.0_genomic.fna.gz
+GCA_009430475.1	Actinemys marmorata	335395	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/430/475/GCA_009430475.1_Amar_v1/GCA_009430475.1_Amar_v1_genomic.fna.gz
+GCA_022086895.1	Actinemys marmorata	335395	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/086/895/GCA_022086895.1_rActMar1.a/GCA_022086895.1_rActMar1.a_genomic.fna.gz
+GCA_021039115.1	Scomber colias	338315	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/039/115/GCA_021039115.1_S.colias_a1.0/GCA_021039115.1_S.colias_a1.0_genomic.fna.gz
+GCA_003651195.1	Tenualosa ilisha	373995	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/651/195/GCA_003651195.1_ASM365119v1/GCA_003651195.1_ASM365119v1_genomic.fna.gz
+GCA_004329175.1	Tenualosa ilisha	373995	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/329/175/GCA_004329175.1_BAU_Tilisha_2.1/GCA_004329175.1_BAU_Tilisha_2.1_genomic.fna.gz
+GCA_902148825.1	Sphaeramia orbicularis	375764	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/148/825/GCA_902148825.1_fSphaOr1.1_alternate_haplotype/GCA_902148825.1_fSphaOr1.1 alternate haplotype_genomic.fna.gz
+GCA_010909745.1	Amblyraja radiata	386614	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/909/745/GCA_010909745.1_sAmbRad1.alt/GCA_010909745.1_sAmbRad1.alt_genomic.fna.gz
+GCA_020510965.1	Pholidichthys leucotaenia	390368	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/510/965/GCA_020510965.1_fPhoLeu1.alt/GCA_020510965.1_fPhoLeu1.alt_genomic.fna.gz
+GCA_902500245.1	Thalassophryne amazonica	390379	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/500/245/GCA_902500245.1_fThaAma1.1_alternate_haplotype/GCA_902500245.1_fThaAma1.1 alternate haplotype_genomic.fna.gz
+GCA_916701145.1	Sebastes moseri	394697	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/916/701/145/GCA_916701145.1_S-moseri_SEB-5/GCA_916701145.1_S-moseri_SEB-5_genomic.fna.gz
+GCA_000787105.1	Periophthalmus magnuspinnatus	409849	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/787/105/GCA_000787105.1_PM.fa/GCA_000787105.1_PM.fa_genomic.fna.gz
+GCA_009829135.1	Periophthalmus magnuspinnatus	409849	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/829/135/GCA_009829135.1_fPerMag1.alt/GCA_009829135.1_fPerMag1.alt_genomic.fna.gz
+GCA_015106315.1	Perissodus eccentricus	409979	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/315/GCA_015106315.1_IXA4.scf/GCA_015106315.1_IXA4.scf_genomic.fna.gz
+GCA_015110395.1	Lamprologus kungweensis	420104	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/395/GCA_015110395.1_JXH2.scf/GCA_015110395.1_JXH2.scf_genomic.fna.gz
+GCA_015106425.1	Lamprologus signatus	420105	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/425/GCA_015106425.1_IWD5.scf/GCA_015106425.1_IWD5.scf_genomic.fna.gz
+GCA_015107335.1	Lamprologus laparogramma	420106	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/335/GCA_015107335.1_JDI1.scf/GCA_015107335.1_JDI1.scf_genomic.fna.gz
+GCA_015111735.1	Neolamprologus leloupi	420108	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/735/GCA_015111735.1_LCA1.scf/GCA_015111735.1_LCA1.scf_genomic.fna.gz
+GCA_015109955.1	Lamprologus ornatipinnis	420112	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/955/GCA_015109955.1_JZF4.scf/GCA_015109955.1_JZF4.scf_genomic.fna.gz
+GCA_015105895.1	Telmatochromis brachygnathus	431670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/895/GCA_015105895.1_JBE8.scf/GCA_015105895.1_JBE8.scf_genomic.fna.gz
+GCA_017309765.1	Paedocypris sp. Pulau Singkep	432429	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/309/765/GCA_017309765.1_IMCB_Psing_M_1.0/GCA_017309765.1_IMCB_Psing_M_1.0_genomic.fna.gz
+GCA_000400755.1	Takifugu flavidus	433684	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/400/755/GCA_000400755.1_version_1_of_Takifugu_flavidus_genome/GCA_000400755.1_version 1 of Takifugu flavidus genome_genomic.fna.gz
+GCA_020801775.1	Porphyrio hochstetteri	439704	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/801/775/GCA_020801775.1_bPorHoc1.pat.decon/GCA_020801775.1_bPorHoc1.pat.decon_genomic.fna.gz
+GCA_900650505.1	Gouania willdenowi	441366	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/650/505/GCA_900650505.1_fGouWil2.1_alternate_haplotype/GCA_900650505.1_fGouWil2.1 alternate haplotype_genomic.fna.gz
+GCA_014363425.1	Uria aalge inornata	13746	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/363/425/GCA_014363425.1_U_aalge_scaffold_01/GCA_014363425.1_U_aalge_scaffold_01_genomic.fna.gz
+GCA_015105055.1	Julidochromis dickfeldi	449317	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/055/GCA_015105055.1_IRC5.scf/GCA_015105055.1_IRC5.scf_genomic.fna.gz
+GCA_015113275.1	Neolamprologus bifasciatus	449318	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/275/GCA_015113275.1_LHF6.scf/GCA_015113275.1_LHF6.scf_genomic.fna.gz
+GCA_015110475.1	Neolamprologus falcicula	449319	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/475/GCA_015110475.1_JXD7.scf/GCA_015110475.1_JXD7.scf_genomic.fna.gz
+GCA_015108235.1	Neolamprologus longicaudatus	449320	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/235/GCA_015108235.1_JWI2.scf/GCA_015108235.1_JWI2.scf_genomic.fna.gz
+GCA_015102835.1	Neolamprologus mustax	449322	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/835/GCA_015102835.1_ILH1.scf/GCA_015102835.1_ILH1.scf_genomic.fna.gz
+GCA_015108135.1	Neolamprologus pectoralis	449323	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/135/GCA_015108135.1_JWI6.scf/GCA_015108135.1_JWI6.scf_genomic.fna.gz
+GCA_015052335.1	Neolamprologus prochilus	449324	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/335/GCA_015052335.1_IVH2.scf/GCA_015052335.1_IVH2.scf_genomic.fna.gz
+GCA_015109755.1	Neolamprologus ventralis	449327	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/755/GCA_015109755.1_KAG7.scf/GCA_015109755.1_KAG7.scf_genomic.fna.gz
+GCA_015108115.1	Telmatochromis brichardi	449328	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/115/GCA_015108115.1_JXA4.scf/GCA_015108115.1_JXA4.scf_genomic.fna.gz
+GCA_015113195.1	Plecodus elaviae	452215	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/195/GCA_015113195.1_LHI4.scf/GCA_015113195.1_LHI4.scf_genomic.fna.gz
+GCA_015106055.1	Perissodus multidentatus	452216	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/055/GCA_015106055.1_IZA9.scf/GCA_015106055.1_IZA9.scf_genomic.fna.gz
+GCA_015111055.1	Plecodus paradoxus	452217	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/055/GCA_015111055.1_LEC7.scf/GCA_015111055.1_LEC7.scf_genomic.fna.gz
+GCA_015104195.1	Xenochromis hecqui	452219	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/195/GCA_015104195.1_IUI7.scf/GCA_015104195.1_IUI7.scf_genomic.fna.gz
+GCA_015220175.1	Pogoniulus pusillus	488313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/220/175/GCA_015220175.1_bPogPus1.alt/GCA_015220175.1_bPogPus1.alt_genomic.fna.gz
+GCA_902150015.1	Tyto alba alba	56313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/150/015/GCA_902150015.1_genome_assembly_l500/GCA_902150015.1_genome_assembly_l500_genomic.fna.gz
+GCA_015107235.1	Cyprichromis coloratus	559343	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/235/GCA_015107235.1_JED2.scf/GCA_015107235.1_JED2.scf_genomic.fna.gz
+GCA_015105675.1	Xenotilapia leptura	559344	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/675/GCA_015105675.1_INF2.scf/GCA_015105675.1_INF2.scf_genomic.fna.gz
+GCA_015102255.1	Xenotilapia papilio	559346	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/255/GCA_015102255.1_A206.scf/GCA_015102255.1_A206.scf_genomic.fna.gz
+GCA_015106515.1	Xenotilapia papilio	559346	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/515/GCA_015106515.1_IVF5.scf/GCA_015106515.1_IVF5.scf_genomic.fna.gz
+GCA_015105915.1	Xenotilapia rotundiventralis	559347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/915/GCA_015105915.1_JBE6.scf/GCA_015105915.1_JBE6.scf_genomic.fna.gz
+GCA_015111365.1	Lepidiolamprologus mimicus	559349	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/365/GCA_015111365.1_LDD1.scf/GCA_015111365.1_LDD1.scf_genomic.fna.gz
+GCA_015102755.1	Neolamprologus obscurus	559352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/755/GCA_015102755.1_IMA1.scf/GCA_015102755.1_IMA1.scf_genomic.fna.gz
+GCA_015105775.1	Neolamprologus sexfasciatus	559353	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/775/GCA_015105775.1_IND8.scf/GCA_015105775.1_IND8.scf_genomic.fna.gz
+GCA_902148815.1	Myripristis murdjan	586833	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/148/815/GCA_902148815.1_fMyrMur1.1_alternate_haplotype/GCA_902148815.1_fMyrMur1.1 alternate haplotype_genomic.fna.gz
+GCA_903798025.1	Danionella translucida	623744	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/025/GCA_903798025.1_fDanTra1.1/GCA_903798025.1_fDanTra1.1_genomic.fna.gz
+GCA_905221575.1	Cyprinus carpio carpio	7962	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/221/575/GCA_905221575.1_Cypcar_WagV4.0/GCA_905221575.1_Cypcar_WagV4.0_genomic.fna.gz
+GCA_009069565.1	Carassius auratus red var.	7957	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/069/565/GCA_009069565.1_ASM906956v1/GCA_009069565.1_ASM906956v1_genomic.fna.gz
+GCA_017639475.1	Pluvialis apricaria	670352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/475/GCA_017639475.1_bPluApr1.alt/GCA_017639475.1_bPluApr1.alt_genomic.fna.gz
+GCA_015105395.1	Interochromis loocki	683192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/395/GCA_015105395.1_IPF3.scf/GCA_015105395.1_IPF3.scf_genomic.fna.gz
+GCA_009764485.1	Pristis pectinata	685728	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/764/485/GCA_009764485.1_sPriPec2.alt/GCA_009764485.1_sPriPec2.alt_genomic.fna.gz
+GCA_015109235.1	Neolamprologus walteri	863668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/235/GCA_015109235.1_KFD2.scf/GCA_015109235.1_KFD2.scf_genomic.fna.gz
+GCA_013347815.1	Antennarius maculatus	882753	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/347/815/GCA_013347815.1_fAntMac1.alt/GCA_013347815.1_fAntMac1.alt_genomic.fna.gz
+GCA_002023255.2	Corvus cornix cornix	181096	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/023/255/GCA_002023255.2_ASM202325v2/GCA_002023255.2_ASM202325v2_genomic.fna.gz
+GCA_017976295.1	Toxotes jaculatrix	941984	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/976/295/GCA_017976295.1_fToxJac2.alt/GCA_017976295.1_fToxJac2.alt_genomic.fna.gz
+GCA_017639685.1	Aplochiton taeniatus	946358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/685/GCA_017639685.1_fAplTae1.alt/GCA_017639685.1_fAplTae1.alt_genomic.fna.gz
+GCA_000466285.1	Lethenteron camtschaticum	980415	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/466/285/GCA_000466285.1_LetJap1.0/GCA_000466285.1_LetJap1.0_genomic.fna.gz
+GCA_015104835.1	Trematocara marginatum	1084758	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/835/GCA_015104835.1_ISA1.scf/GCA_015104835.1_ISA1.scf_genomic.fna.gz
+GCA_015832205.1	Motacilla alba alba	45807	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/832/205/GCA_015832205.1_Motacilla_alba_V1.0_alt/GCA_015832205.1_Motacilla_alba_V1.0_alt_genomic.fna.gz
+GCA_020745805.1	Theristicus caerulescens	1118847	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/745/805/GCA_020745805.1_bTheCae1.alt.cur/GCA_020745805.1_bTheCae1.alt.cur_genomic.fna.gz
+GCA_015103335.1	Trematocara nigrifrons	1131402	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/335/GCA_015103335.1_GPA1.scf/GCA_015103335.1_GPA1.scf_genomic.fna.gz
+GCA_903798135.1	Danio aesculapii	1142201	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/798/135/GCA_903798135.1_fDanAes4.1_alternate_haplotype/GCA_903798135.1_fDanAes4.1 alternate haplotype_genomic.fna.gz
+GCA_015108035.1	Trematochromis benthicola	1171431	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/035/GCA_015108035.1_IYA8.scf/GCA_015108035.1_IYA8.scf_genomic.fna.gz
+GCA_009650515.1	Corvus moneduloides	1196302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/650/515/GCA_009650515.1_UO_Cmon_1.0/GCA_009650515.1_UO_Cmon_1.0_genomic.fna.gz
+GCA_009651025.1	Corvus moneduloides	1196302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/651/025/GCA_009651025.1_bCorMon1.alt/GCA_009651025.1_bCorMon1.alt_genomic.fna.gz
+GCA_013398675.1	Corvus moneduloides	1196302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/398/675/GCA_013398675.1_ASM1339867v1/GCA_013398675.1_ASM1339867v1_genomic.fna.gz
+GCA_009762545.1	Notolabrus celidotus	1203425	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/762/545/GCA_009762545.1_fNotCel1.alt/GCA_009762545.1_fNotCel1.alt_genomic.fna.gz
+GCA_009194515.1	Cairina moschata domestica	8855	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/194/515/GCA_009194515.1_CaiMos1.0/GCA_009194515.1_CaiMos1.0_genomic.fna.gz
+GCA_017639755.1	Melanotaenia boesemani	1250792	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/639/755/GCA_017639755.1_fMelBoe1.alt/GCA_017639755.1_fMelBoe1.alt_genomic.fna.gz
+GCA_015105615.1	Cyphotilapia gibberosa	1355922	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/615/GCA_015105615.1_INH9.scf/GCA_015105615.1_INH9.scf_genomic.fna.gz
+GCA_901765105.1	Microcaecilia unicolor	1415580	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/765/105/GCA_901765105.1_aMicUni1.1_alternate_haplotype/GCA_901765105.1_aMicUni1.1 alternate haplotype_genomic.fna.gz
+GCA_015112675.1	Neolamprologus timidus	1492750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/675/GCA_015112675.1_LGE3.scf/GCA_015112675.1_LGE3.scf_genomic.fna.gz
+GCA_015112575.1	Chalinochromis cyanophleps	1506565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/575/GCA_015112575.1_LGG7.scf/GCA_015112575.1_LGG7.scf_genomic.fna.gz
+GCA_014706415.1	Podarcis muralis nigriventris	64176	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/415/GCA_014706415.1_LU_Pmuni_1.1/GCA_014706415.1_LU_Pmuni_1.1_genomic.fna.gz
+GCA_004335365.1	Sebastes nudus	1617787	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/335/365/GCA_004335365.1_ASM433536v1/GCA_004335365.1_ASM433536v1_genomic.fna.gz
+GCA_015113135.1	Tangachromis dhanisi	1811344	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/135/GCA_015113135.1_LJA7.scf/GCA_015113135.1_LJA7.scf_genomic.fna.gz
+GCA_015111335.1	Chalinochromis sp. 'bifrenatus'	1818570	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/335/GCA_015111335.1_LDD9.scf/GCA_015111335.1_LDD9.scf_genomic.fna.gz
+GCA_015112055.1	Ectodus sp. 'north'	1818571	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/055/GCA_015112055.1_KHC5.scf/GCA_015112055.1_KHC5.scf_genomic.fna.gz
+GCA_015110435.1	Eretmodus marksmithi	1818572	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/435/GCA_015110435.1_JXF4.scf/GCA_015110435.1_JXF4.scf_genomic.fna.gz
+GCA_015106955.1	Tropheus sp. 'black'	1818577	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/955/GCA_015106955.1_JVC9.scf/GCA_015106955.1_JVC9.scf_genomic.fna.gz
+GCA_007399395.1	Gopherus evgoodei	1825980	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/399/395/GCA_007399395.1_rGopEvg1_v1.alt/GCA_007399395.1_rGopEvg1_v1.alt_genomic.fna.gz
+GCA_015103135.1	Haplochromis sp. Chipwa	1892571	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/135/GCA_015103135.1_HXC4.scf/GCA_015103135.1_HXC4.scf_genomic.fna.gz
+GCA_015110935.1	Trematocara zebra	1982068	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/935/GCA_015110935.1_LFC9.scf/GCA_015110935.1_LFC9.scf_genomic.fna.gz
+GCA_015113035.1	Hemibates koningsi	2126561	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/035/GCA_015113035.1_LJC5.scf/GCA_015113035.1_LJC5.scf_genomic.fna.gz
+GCA_011057915.1	Melospiza melodia maxima	44397	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/011/057/915/GCA_011057915.1_Mmel_1.0/GCA_011057915.1_Mmel_1.0_genomic.fna.gz
+GCA_016859755.1	Pogoniulus pusillus pusillus	488313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/859/755/GCA_016859755.1_ASM1685975v1/GCA_016859755.1_ASM1685975v1_genomic.fna.gz
+GCA_015103055.1	Orthochromis indermauri	2527915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/055/GCA_015103055.1_HXC7.scf/GCA_015103055.1_HXC7.scf_genomic.fna.gz
+GCA_015103935.1	Enantiopus melanogenys	2591250	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/935/GCA_015103935.1_AWC5.scf/GCA_015103935.1_AWC5.scf_genomic.fna.gz
+GCA_015110765.1	Julidochromis marksmithi	2591252	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/765/GCA_015110765.1_LFG8.scf/GCA_015110765.1_LFG8.scf_genomic.fna.gz
+GCA_015110835.1	Lepidiolamprologus kamambae	2591253	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/835/GCA_015110835.1_LFF7.scf/GCA_015110835.1_LFF7.scf_genomic.fna.gz
+GCA_015112375.1	Neolamprologus cancellatus	2591254	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/375/GCA_015112375.1_LJD1.scf/GCA_015112375.1_LJD1.scf_genomic.fna.gz
+GCA_015109055.1	Neolamprologus chitamwebwai	2591255	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/055/GCA_015109055.1_KHA9.scf/GCA_015109055.1_KHA9.scf_genomic.fna.gz
+GCA_015104155.1	Neolamprologus crassus	2591256	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/155/GCA_015104155.1_IVE8.scf/GCA_015104155.1_IVE8.scf_genomic.fna.gz
+GCA_015052625.1	Neolamprologus pleuromaculatus	2591257	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/625/GCA_015052625.1_JZF1.scf/GCA_015052625.1_JZF1.scf_genomic.fna.gz
+GCA_015106475.1	Petrochromis horii	2591258	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/475/GCA_015106475.1_IWB5.scf/GCA_015106475.1_IWB5.scf_genomic.fna.gz
+GCA_015104315.1	Trematocara stigmaticum	2591262	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/315/GCA_015104315.1_IUE7.scf/GCA_015104315.1_IUE7.scf_genomic.fna.gz
+GCA_015102575.1	Xenotilapia nasus	2591263	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/575/GCA_015102575.1_IMF7.scf/GCA_015102575.1_IMF7.scf_genomic.fna.gz
+GCA_015104915.1	Xenotilapia singularis	2591264	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/915/GCA_015104915.1_IRE3.scf/GCA_015104915.1_IRE3.scf_genomic.fna.gz
+GCA_015104815.1	Altolamprologus sp. 'compressiceps shell' AB-2019	2591265	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/815/GCA_015104815.1_IRH4.scf/GCA_015104815.1_IRH4.scf_genomic.fna.gz
+GCA_015109415.1	Chalinochromis sp. 'ndobhoi' AB-2019	2591267	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/415/GCA_015109415.1_KEE9.scf/GCA_015109415.1_KEE9.scf_genomic.fna.gz
+GCA_015109555.1	Cyphotilapia sp. '5-bar frontosa' AB-2019	2591268	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/555/GCA_015109555.1_KDG2.scf/GCA_015109555.1_KDG2.scf_genomic.fna.gz
+GCA_015109275.1	Cyprichromis sp. 'dwarf jumbo' AB-2019	2591269	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/275/GCA_015109275.1_KFA9.scf/GCA_015109275.1_KFA9.scf_genomic.fna.gz
+GCA_015103435.1	Cyprichromis sp. 'kibishi' AB-2019	2591271	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/435/GCA_015103435.1_Bel18.scf/GCA_015103435.1_Bel18.scf_genomic.fna.gz
+GCA_015102605.1	Julidochromis sp. 'kombe' AB-2019	2591273	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/605/GCA_015102605.1_INA6.scf/GCA_015102605.1_INA6.scf_genomic.fna.gz
+GCA_015111875.1	Julidochromis sp. 'marlieri south' AB-2019	2591274	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/875/GCA_015111875.1_LBA1.scf/GCA_015111875.1_LBA1.scf_genomic.fna.gz
+GCA_015105075.1	Julidochromis sp. 'regani south' AB-2019	2591275	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/075/GCA_015105075.1_IRB2.scf/GCA_015105075.1_IRB2.scf_genomic.fna.gz
+GCA_015108815.1	Julidochromis sp. 'unterfels' AB-2019	2591276	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/815/GCA_015108815.1_JWA1.scf/GCA_015108815.1_JWA1.scf_genomic.fna.gz
+GCA_015108795.1	Lamprologus sp. 'ornatipinnis congo' AB-2019	2591277	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/795/GCA_015108795.1_JWA4.scf/GCA_015108795.1_JWA4.scf_genomic.fna.gz
+GCA_015107395.1	Lamprologus sp. 'ornatipinnis zambia' AB-2019	2591278	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/395/GCA_015107395.1_JDG4.scf/GCA_015107395.1_JDG4.scf_genomic.fna.gz
+GCA_015113315.1	Lepidiolamprologus sp. 'meeli kipili' AB-2019	2591279	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/315/GCA_015113315.1_LHA2.scf/GCA_015113315.1_LHA2.scf_genomic.fna.gz
+GCA_015109595.1	Neolamprologus sp. 'brevis magara' AB-2019	2591280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/595/GCA_015109595.1_KCI7.scf/GCA_015109595.1_KCI7.scf_genomic.fna.gz
+GCA_015111215.1	Neolamprologus sp. 'caudopunctatus kipili' AB-2019	2591281	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/215/GCA_015111215.1_LDG2.scf/GCA_015111215.1_LDG2.scf_genomic.fna.gz
+GCA_015110855.1	Neolamprologus sp. 'cygnus' AB-2019	2591282	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/855/GCA_015110855.1_LFD2.scf/GCA_015110855.1_LFD2.scf_genomic.fna.gz
+GCA_015110895.1	Neolamprologus sp. 'eseki' AB-2019	2591283	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/895/GCA_015110895.1_LFB7.scf/GCA_015110895.1_LFB7.scf_genomic.fna.gz
+GCA_015111675.1	Neolamprologus sp. 'falcicula mahale' AB-2019	2591284	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/675/GCA_015111675.1_LCC2.scf/GCA_015111675.1_LCC2.scf_genomic.fna.gz
+GCA_015111235.1	Neolamprologus sp. 'furcifer ulwile' AB-2019	2591285	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/235/GCA_015111235.1_LDF4.scf/GCA_015111235.1_LDF4.scf_genomic.fna.gz
+GCA_015111695.1	Neolamprologus sp. 'gracilis tanzania' AB-2019	2591286	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/695/GCA_015111695.1_LCB4.scf/GCA_015111695.1_LCB4.scf_genomic.fna.gz
+GCA_015102895.1	Neolamprologus sp. 'kombe' AB-2019	2591287	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/102/895/GCA_015102895.1_ILE5.scf/GCA_015102895.1_ILE5.scf_genomic.fna.gz
+GCA_015107135.1	Neolamprologus sp. 'ventralis stripe' AB-2019	2591288	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/107/135/GCA_015107135.1_JED4.scf/GCA_015107135.1_JED4.scf_genomic.fna.gz
+GCA_015110295.1	Ophthalmotilapia sp. 'paranasuta' AB-2019	2591289	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/295/GCA_015110295.1_JYG5.scf/GCA_015110295.1_JYG5.scf_genomic.fna.gz
+GCA_015112595.1	Ophthalmotilapia sp. 'white cap' AB-2019	2591290	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/595/GCA_015112595.1_LGH3.scf/GCA_015112595.1_LGH3.scf_genomic.fna.gz
+GCA_015105215.1	Paracyprichromis sp. 'brieni south' AB-2019	2591291	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/215/GCA_015105215.1_IQC1.scf/GCA_015105215.1_IQC1.scf_genomic.fna.gz
+GCA_015106795.1	Paracyprichromis sp. 'tembwe' AB-2019	2591292	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/106/795/GCA_015106795.1_JWD2.scf/GCA_015106795.1_JWD2.scf_genomic.fna.gz
+GCA_015112455.1	Petrochromis sp. 'giant' AB-2019	2591293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/455/GCA_015112455.1_LHD2.scf/GCA_015112455.1_LHD2.scf_genomic.fna.gz
+GCA_015109535.1	Petrochromis sp. 'kazumbae' AB-2019	2591294	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/535/GCA_015109535.1_KEA4.scf/GCA_015109535.1_KEA4.scf_genomic.fna.gz
+GCA_015111295.1	Petrochromis sp. 'kipili brown' AB-2019	2591295	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/295/GCA_015111295.1_LDE3.scf/GCA_015111295.1_LDE3.scf_genomic.fna.gz
+GCA_015112695.1	Petrochromis sp. 'macrognathus rainbow' AB-2019	2591296	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/695/GCA_015112695.1_LGB5.scf/GCA_015112695.1_LGB5.scf_genomic.fna.gz
+GCA_015111475.1	Petrochromis sp. 'moshi yellow' AB-2019	2591297	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/475/GCA_015111475.1_LCF8.scf/GCA_015111475.1_LCF8.scf_genomic.fna.gz
+GCA_015110955.1	Petrochromis sp. 'orthognathus ikola' AB-2019	2591298	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/955/GCA_015110955.1_LFA6.scf/GCA_015110955.1_LFA6.scf_genomic.fna.gz
+GCA_015112535.1	Petrochromis sp. 'polyodon texas' AB-2019	2591299	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/535/GCA_015112535.1_LHB1.scf/GCA_015112535.1_LHB1.scf_genomic.fna.gz
+GCA_015111575.1	Petrochromis sp. 'red' AB-2019	2591300	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/575/GCA_015111575.1_LCD1.scf/GCA_015111575.1_LCD1.scf_genomic.fna.gz
+GCA_015108935.1	Telmatochromis sp. 'dhonti north' AB-2019	2591302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/935/GCA_015108935.1_JUD4.scf/GCA_015108935.1_JUD4.scf_genomic.fna.gz
+GCA_015112395.1	Telmatochromis sp. 'dhonti twiyu' AB-2019	2591303	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/112/395/GCA_015112395.1_LHF2.scf/GCA_015112395.1_LHF2.scf_genomic.fna.gz
+GCA_015108735.1	Telmatochromis sp. 'longola' AB-2019	2591304	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/108/735/GCA_015108735.1_JWC8.scf/GCA_015108735.1_JWC8.scf_genomic.fna.gz
+GCA_015104855.1	Telmatochromis sp. 'shell' AB-2019	2591306	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/855/GCA_015104855.1_IRI9.scf/GCA_015104855.1_IRI9.scf_genomic.fna.gz
+GCA_015110675.1	Tropheus sp. 'brichardi kipili' AB-2019	2591307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/110/675/GCA_015110675.1_LGA6.scf/GCA_015110675.1_LGA6.scf_genomic.fna.gz
+GCA_015109395.1	Tropheus sp. 'lukuga' AB-2019	2591308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/109/395/GCA_015109395.1_KEF3.scf/GCA_015109395.1_KEF3.scf_genomic.fna.gz
+GCA_015052595.1	Tropheus sp. 'lunatus' AB-2019	2591309	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/052/595/GCA_015052595.1_KED7.scf/GCA_015052595.1_KED7.scf_genomic.fna.gz
+GCA_015111155.1	Tropheus sp. 'mpimbwe' AB-2019	2591310	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/155/GCA_015111155.1_LDI7.scf/GCA_015111155.1_LDI7.scf_genomic.fna.gz
+GCA_015113215.1	Tropheus sp. 'murago' AB-2019	2591311	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/113/215/GCA_015113215.1_LHE3.scf/GCA_015113215.1_LHE3.scf_genomic.fna.gz
+GCA_015105515.1	Tropheus sp. 'red' AB-2019	2591312	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/105/515/GCA_015105515.1_IOE1.scf/GCA_015105515.1_IOE1.scf_genomic.fna.gz
+GCA_015103595.1	Xenotilapia sp. 'kilesa' AB-2019	2591313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/103/595/GCA_015103595.1_Bel03.scf/GCA_015103595.1_Bel03.scf_genomic.fna.gz
+GCA_015111135.1	Xenotilapia sp. 'spilopterus north' AB-2019	2591314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/111/135/GCA_015111135.1_LEA4.scf/GCA_015111135.1_LEA4.scf_genomic.fna.gz
+GCA_015104235.1	Xenotilapia bathyphilus	2759385	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/104/235/GCA_015104235.1_IVB5.scf/GCA_015104235.1_IVB5.scf_genomic.fna.gz
+GCA_014706015.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/015/GCA_014706015.1_ASM1470601v1/GCA_014706015.1_ASM1470601v1_genomic.fna.gz
+GCA_014706025.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/025/GCA_014706025.1_ASM1470602v1/GCA_014706025.1_ASM1470602v1_genomic.fna.gz
+GCA_014706035.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/035/GCA_014706035.1_ASM1470603v1/GCA_014706035.1_ASM1470603v1_genomic.fna.gz
+GCA_014706055.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/055/GCA_014706055.1_ASM1470605v1/GCA_014706055.1_ASM1470605v1_genomic.fna.gz
+GCA_014706265.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/265/GCA_014706265.1_ASM1470626v1/GCA_014706265.1_ASM1470626v1_genomic.fna.gz
+GCA_014706275.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/275/GCA_014706275.1_ASM1470627v1/GCA_014706275.1_ASM1470627v1_genomic.fna.gz
+GCA_014706285.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/285/GCA_014706285.1_ASM1470628v1/GCA_014706285.1_ASM1470628v1_genomic.fna.gz
+GCA_014706395.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/706/395/GCA_014706395.1_ASM1470639v1/GCA_014706395.1_ASM1470639v1_genomic.fna.gz
+GCA_015343275.1	Lycocorax pyrrhopterus obiensis	681192	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/343/275/GCA_015343275.1_lycPyrSN2/GCA_015343275.1_lycPyrSN2_genomic.fna.gz
