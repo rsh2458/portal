@@ -1,0 +1,183 @@
+#   See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt for a description of the columns in this file.			/#   See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt for a description of the columns in this file.__cds_from_genomic.fna.gz
+# assembly_accession	organism_name	species_taxid	ftp_path/# assembly_accession_asm_name_cds_from_genomic.fna.gz
+GCF_004115215.2	Ornithorhynchus anatinus	9258	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/115/215/GCF_004115215.2_mOrnAna1.pri.v4/GCF_004115215.2_mOrnAna1.pri.v4_cds_from_genomic.fna.gz
+GCF_015852505.1	Tachyglossus aculeatus	9261	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/852/505/GCF_015852505.1_mTacAcu1.pri/GCF_015852505.1_mTacAcu1.pri_cds_from_genomic.fna.gz
+GCF_902635505.1	Sarcophilus harrisii	9305	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/902/635/505/GCF_902635505.1_mSarHar1.11/GCF_902635505.1_mSarHar1.11_cds_from_genomic.fna.gz
+GCF_011100635.1	Trichosurus vulpecula	9337	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/100/635/GCF_011100635.1_mTriVul1.pri/GCF_011100635.1_mTriVul1.pri_cds_from_genomic.fna.gz
+GCF_000208655.1	Dasypus novemcinctus	9361	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/655/GCF_000208655.1_Dasnov3.0/GCF_000208655.1_Dasnov3.0_cds_from_genomic.fna.gz
+GCF_000296755.1	Erinaceus europaeus	9365	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/296/755/GCF_000296755.1_EriEur2.0/GCF_000296755.1_EriEur2.0_cds_from_genomic.fna.gz
+GCF_000313985.2	Echinops telfairi	9371	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/313/985/GCF_000313985.2_ASM31398v2/GCF_000313985.2_ASM31398v2_cds_from_genomic.fna.gz
+GCF_000325575.1	Pteropus alecto	9402	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/325/575/GCF_000325575.1_ASM32557v1/GCF_000325575.1_ASM32557v1_cds_from_genomic.fna.gz
+GCF_014176215.1	Rousettus aegyptiacus	9407	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/176/215/GCF_014176215.1_mRouAeg1.p/GCF_014176215.1_mRouAeg1.p_cds_from_genomic.fna.gz
+GCF_014825515.1	Artibeus jamaicensis	9417	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/825/515/GCF_014825515.1_WHU_Ajam_v2/GCF_014825515.1_WHU_Ajam_v2_cds_from_genomic.fna.gz
+GCF_019186645.2	Phyllostomus hastatus	9423	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/186/645/GCF_019186645.2_TTU_PhHast_1.1/GCF_019186645.2_TTU_PhHast_1.1_cds_from_genomic.fna.gz
+GCF_002940915.1	Desmodus rotundus	9430	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/940/915/GCF_002940915.1_ASM294091v2/GCF_002940915.1_ASM294091v2_cds_from_genomic.fna.gz
+GCF_020740605.2	Lemur catta	9447	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/740/605/GCF_020740605.2_mLemCat1.pri/GCF_020740605.2_mLemCat1.pri_cds_from_genomic.fna.gz
+GCF_009663435.1	Callithrix jacchus	9483	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/663/435/GCF_009663435.1_Callithrix_jacchus_cj1700_1.1/GCF_009663435.1_Callithrix_jacchus_cj1700_1.1_cds_from_genomic.fna.gz
+GCF_009761245.1	Sapajus apella	9515	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/761/245/GCF_009761245.1_GSC_monkey_1.0/GCF_009761245.1_GSC_monkey_1.0_cds_from_genomic.fna.gz
+GCF_000955945.1	Cercocebus atys	9531	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/955/945/GCF_000955945.1_Caty_1.0/GCF_000955945.1_Caty_1.0_cds_from_genomic.fna.gz
+GCF_012559485.2	Macaca fascicularis	9541	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/012/559/485/GCF_012559485.2_MFA1912RKSv2/GCF_012559485.2_MFA1912RKSv2_cds_from_genomic.fna.gz
+GCF_003339765.1	Macaca mulatta	9544	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/339/765/GCF_003339765.1_Mmul_10/GCF_003339765.1_Mmul_10_cds_from_genomic.fna.gz
+GCF_000956065.1	Macaca nemestrina	9545	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/956/065/GCF_000956065.1_Mnem_1.0/GCF_000956065.1_Mnem_1.0_cds_from_genomic.fna.gz
+GCF_008728515.1	Papio anubis	9555	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/728/515/GCF_008728515.1_Panubis1.0/GCF_008728515.1_Panubis1.0_cds_from_genomic.fna.gz
+GCF_003255815.1	Theropithecus gelada	9565	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/255/815/GCF_003255815.1_Tgel_1.0/GCF_003255815.1_Tgel_1.0_cds_from_genomic.fna.gz
+GCF_000951045.1	Mandrillus leucophaeus	9568	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/951/045/GCF_000951045.1_Mleu.le_1.0/GCF_000951045.1_Mleu.le_1.0_cds_from_genomic.fna.gz
+GCF_008122165.1	Gorilla gorilla gorilla	9593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/122/165/GCF_008122165.1_Kamilah_GGO_v0/GCF_008122165.1_Kamilah_GGO_v0_cds_from_genomic.fna.gz
+GCF_013052645.1	Pan paniscus	9597	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/052/645/GCF_013052645.1_Mhudiblu_PPA_v0/GCF_013052645.1_Mhudiblu_PPA_v0_cds_from_genomic.fna.gz
+GCF_002880755.1	Pan troglodytes	9598	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/880/755/GCF_002880755.1_Clint_PTRv2/GCF_002880755.1_Clint_PTRv2_cds_from_genomic.fna.gz
+GCF_002880775.1	Pongo abelii	9601	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/880/775/GCF_002880775.1_Susie_PABv2/GCF_002880775.1_Susie_PABv2_cds_from_genomic.fna.gz
+GCF_000001405.39	Homo sapiens	9606	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.39_GRCh38.p13/GCF_000001405.39_GRCh38.p13_cds_from_genomic.fna.gz
+GCF_000002285.5	Canis lupus familiaris	9612	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/285/GCF_000002285.5_Dog10K_Boxer_Tasha/GCF_000002285.5_Dog10K_Boxer_Tasha_cds_from_genomic.fna.gz
+GCF_014441545.1	Canis lupus familiaris	9612	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/441/545/GCF_014441545.1_ROS_Cfam_1.0/GCF_014441545.1_ROS_Cfam_1.0_cds_from_genomic.fna.gz
+GCF_003160815.1	Vulpes vulpes	9627	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/160/815/GCF_003160815.1_VulVul2.2/GCF_003160815.1_VulVul2.2_cds_from_genomic.fna.gz
+GCF_020975775.1	Ursus americanus	9643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/975/775/GCF_020975775.1_gsc_jax_bbear_1.0/GCF_020975775.1_gsc_jax_bbear_1.0_cds_from_genomic.fna.gz
+GCF_002007445.1	Ailuropoda melanoleuca	9646	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/007/445/GCF_002007445.1_ASM200744v2/GCF_002007445.1_ASM200744v2_cds_from_genomic.fna.gz
+GCF_922984935.1	Meles meles	9662	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/922/984/935/GCF_922984935.1_mMelMel3.1_paternal_haplotype/GCF_922984935.1_mMelMel3.1 paternal haplotype_cds_from_genomic.fna.gz
+GCF_011764305.1	Mustela putorius furo	9668	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/764/305/GCF_011764305.1_ASM1176430v1.1/GCF_011764305.1_ASM1176430v1.1_cds_from_genomic.fna.gz
+GCF_018350175.1	Felis catus	9685	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/350/175/GCF_018350175.1_F.catus_Fca126_mat1.0/GCF_018350175.1_F.catus_Fca126_mat1.0_cds_from_genomic.fna.gz
+GCF_018350215.1	Panthera leo	9689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/350/215/GCF_018350215.1_P.leo_Ple1_pat1.1/GCF_018350215.1_P.leo_Ple1_pat1.1_cds_from_genomic.fna.gz
+GCF_001857705.1	Panthera pardus	9691	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/857/705/GCF_001857705.1_PanPar1.0/GCF_001857705.1_PanPar1.0_cds_from_genomic.fna.gz
+GCF_018350195.1	Panthera tigris	9694	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/350/195/GCF_018350195.1_P.tigris_Pti1_mat1.1/GCF_018350195.1_P.tigris_Pti1_mat1.1_cds_from_genomic.fna.gz
+GCF_003327715.1	Puma concolor	9696	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/327/715/GCF_003327715.1_PumCon1.0/GCF_003327715.1_PumCon1.0_cds_from_genomic.fna.gz
+GCF_009762305.2	Zalophus californianus	9704	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/762/305/GCF_009762305.2_mZalCal1.pri.v2/GCF_009762305.2_mZalCal1.pri.v2_cds_from_genomic.fna.gz
+GCF_000321225.1	Odobenus rosmarus divergens	9707	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/321/225/GCF_000321225.1_Oros_1.0/GCF_000321225.1_Oros_1.0_cds_from_genomic.fna.gz
+GCF_012393455.1	Halichoerus grypus	9711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/012/393/455/GCF_012393455.1_Tufts_HGry_1.1/GCF_012393455.1_Tufts_HGry_1.1_cds_from_genomic.fna.gz
+GCF_000349705.1	Leptonychotes weddellii	9713	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/349/705/GCF_000349705.1_LepWed1.0/GCF_000349705.1_LepWed1.0_cds_from_genomic.fna.gz
+GCF_011800145.1	Mirounga leonina	9715	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/800/145/GCF_011800145.1_KU_Mleo_1.0/GCF_011800145.1_KU_Mleo_1.0_cds_from_genomic.fna.gz
+GCF_021288785.1	Mirounga angustirostris	9716	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/021/288/785/GCF_021288785.1_ASM2128878v2/GCF_021288785.1_ASM2128878v2_cds_from_genomic.fna.gz
+GCF_004348235.1	Phoca vitulina	9720	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/348/235/GCF_004348235.1_GSC_HSeal_1.0/GCF_004348235.1_GSC_HSeal_1.0_cds_from_genomic.fna.gz
+GCF_006547405.1	Globicephala melas	9731	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/547/405/GCF_006547405.1_ASM654740v1/GCF_006547405.1_ASM654740v1_cds_from_genomic.fna.gz
+GCF_000331955.2	Orcinus orca	9733	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/331/955/GCF_000331955.2_Oorc_1.1/GCF_000331955.2_Oorc_1.1_cds_from_genomic.fna.gz
+GCF_011762595.1	Tursiops truncatus	9739	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/762/595/GCF_011762595.1_mTurTru1.mat.Y/GCF_011762595.1_mTurTru1.mat.Y_cds_from_genomic.fna.gz
+GCF_002288925.2	Delphinapterus leucas	9749	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/288/925/GCF_002288925.2_ASM228892v3/GCF_002288925.2_ASM228892v3_cds_from_genomic.fna.gz
+GCF_002837175.2	Physeter catodon	9755	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/837/175/GCF_002837175.2_ASM283717v2/GCF_002837175.2_ASM283717v2_cds_from_genomic.fna.gz
+GCF_009873245.2	Balaenoptera musculus	9771	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/873/245/GCF_009873245.2_mBalMus1.pri.v3/GCF_009873245.2_mBalMus1.pri.v3_cds_from_genomic.fna.gz
+GCF_000001905.1	Loxodonta africana	9785	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/905/GCF_000001905.1_Loxafr3.0/GCF_000001905.1_Loxafr3.0_cds_from_genomic.fna.gz
+GCF_016077325.2	Equus asinus	9793	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/077/325/GCF_016077325.2_ASM1607732v2/GCF_016077325.2_ASM1607732v2_cds_from_genomic.fna.gz
+GCF_002863925.1	Equus caballus	9796	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/863/925/GCF_002863925.1_EquCab3.0/GCF_002863925.1_EquCab3.0_cds_from_genomic.fna.gz
+GCF_000696695.1	Equus przewalskii	9798	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/696/695/GCF_000696695.1_Burgud/GCF_000696695.1_Burgud_cds_from_genomic.fna.gz
+GCF_000003025.6	Sus scrofa	9823	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/025/GCF_000003025.6_Sscrofa11.1/GCF_000003025.6_Sscrofa11.1_cds_from_genomic.fna.gz
+GCF_000767855.1	Camelus bactrianus	9837	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/767/855/GCF_000767855.1_Ca_bactrianus_MBC_1.0/GCF_000767855.1_Ca_bactrianus_MBC_1.0_cds_from_genomic.fna.gz
+GCF_000803125.2	Camelus dromedarius	9838	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/803/125/GCF_000803125.2_CamDro3/GCF_000803125.2_CamDro3_cds_from_genomic.fna.gz
+GCF_910594005.1	Cervus elaphus	9860	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/910/594/005/GCF_910594005.1_mCerEla1.1/GCF_910594005.1_mCerEla1.1_cds_from_genomic.fna.gz
+GCF_002102435.1	Odocoileus virginianus texanus	9874	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/102/435/GCF_002102435.1_Ovir.te_1.0/GCF_002102435.1_Ovir.te_1.0_cds_from_genomic.fna.gz
+GCF_002263795.1	Bos taurus	9913	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/263/795/GCF_002263795.1_ARS-UCD1.2/GCF_002263795.1_ARS-UCD1.2_cds_from_genomic.fna.gz
+GCF_000247795.1	Bos indicus	9915	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/247/795/GCF_000247795.1_Bos_indicus_1.0/GCF_000247795.1_Bos_indicus_1.0_cds_from_genomic.fna.gz
+GCF_001704415.1	Capra hircus	9925	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/704/415/GCF_001704415.1_ARS1/GCF_001704415.1_ARS1_cds_from_genomic.fna.gz
+GCF_016772045.1	Ovis aries	9940	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/772/045/GCF_016772045.1_ARS-UI_Ramb_v2.0/GCF_016772045.1_ARS-UI_Ramb_v2.0_cds_from_genomic.fna.gz
+GCF_014570535.1	Manis javanica	9974	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/570/535/GCF_014570535.1_YNU_ManJav_2.0/GCF_014570535.1_YNU_ManJav_2.0_cds_from_genomic.fna.gz
+GCF_014633375.1	Ochotona princeps	9978	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/633/375/GCF_014633375.1_OchPri4.0/GCF_014633375.1_OchPri4.0_cds_from_genomic.fna.gz
+GCF_000003625.3	Oryctolagus cuniculus	9986	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/625/GCF_000003625.3_OryCun2.0/GCF_000003625.3_OryCun2.0_cds_from_genomic.fna.gz
+GCF_001458135.1	Marmota marmota marmota	9993	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/458/135/GCF_001458135.1_marMar2.1/GCF_001458135.1_marMar2.1_cds_from_genomic.fna.gz
+GCF_021218885.1	Marmota monax	9995	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/021/218/885/GCF_021218885.1_Marmota_monax_Labrador192_V1.0/GCF_021218885.1_Marmota_monax_Labrador192_V1.0_cds_from_genomic.fna.gz
+GCF_003426925.1	Urocitellus parryii	9999	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/426/925/GCF_003426925.1_ASM342692v1/GCF_003426925.1_ASM342692v1_cds_from_genomic.fna.gz
+GCF_000151885.1	Dipodomys ordii	10020	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/151/885/GCF_000151885.1_Dord_2.0/GCF_000151885.1_Dord_2.0_cds_from_genomic.fna.gz
+GCF_000223135.1	Cricetulus griseus	10029	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/223/135/GCF_000223135.1_CriGri_1.0/GCF_000223135.1_CriGri_1.0_cds_from_genomic.fna.gz
+GCF_003668045.3	Cricetulus griseus	10029	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/668/045/GCF_003668045.3_CriGri-PICRH-1.0/GCF_003668045.3_CriGri-PICRH-1.0_cds_from_genomic.fna.gz
+GCF_017639785.1	Mesocricetus auratus	10036	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/639/785/GCF_017639785.1_BCM_Maur_2.0/GCF_017639785.1_BCM_Maur_2.0_cds_from_genomic.fna.gz
+GCF_004664715.2	Peromyscus leucopus	10041	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/664/715/GCF_004664715.2_UCI_PerLeu_2.1/GCF_004664715.2_UCI_PerLeu_2.1_cds_from_genomic.fna.gz
+GCF_002204375.1	Meriones unguiculatus	10047	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/204/375/GCF_002204375.1_MunDraft-v1.0/GCF_002204375.1_MunDraft-v1.0_cds_from_genomic.fna.gz
+GCF_900094665.1	Mus caroli	10089	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/094/665/GCF_900094665.1_CAROLI_EIJ_v1.1/GCF_900094665.1_CAROLI_EIJ_v1.1_cds_from_genomic.fna.gz
+GCF_000001635.27	Mus musculus	10090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/635/GCF_000001635.27_GRCm39/GCF_000001635.27_GRCm39_cds_from_genomic.fna.gz
+GCF_900095145.1	Mus pahari	10093	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/095/145/GCF_900095145.1_PAHARI_EIJ_v1.1/GCF_900095145.1_PAHARI_EIJ_v1.1_cds_from_genomic.fna.gz
+GCF_015227675.2	Rattus norvegicus	10116	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/227/675/GCF_015227675.2_mRatBN7.2/GCF_015227675.2_mRatBN7.2_cds_from_genomic.fna.gz
+GCF_011064425.1	Rattus rattus	10117	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/064/425/GCF_011064425.1_Rrattus_CSIRO_v1/GCF_011064425.1_Rrattus_CSIRO_v1_cds_from_genomic.fna.gz
+GCF_000151735.1	Cavia porcellus	10141	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/151/735/GCF_000151735.1_Cavpor3.0/GCF_000151735.1_Cavpor3.0_cds_from_genomic.fna.gz
+GCF_000260255.1	Octodon degus	10160	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/260/255/GCF_000260255.1_OctDeg1.0/GCF_000260255.1_OctDeg1.0_cds_from_genomic.fna.gz
+GCF_000247695.1	Heterocephalus glaber	10181	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/247/695/GCF_000247695.1_HetGla_female_1.0/GCF_000247695.1_HetGla_female_1.0_cds_from_genomic.fna.gz
+GCF_000002295.2	Monodelphis domestica	13616	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/295/GCF_000002295.2_MonDom5/GCF_000002295.2_MonDom5_cds_from_genomic.fna.gz
+GCF_014108415.1	Molossus molossus	27622	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/108/415/GCF_014108415.1_mMolMol1.p/GCF_014108415.1_mMolMol1.p_cds_from_genomic.fna.gz
+GCF_015220235.1	Choloepus didactylus	27675	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/220/235/GCF_015220235.1_mChoDid1.pri/GCF_015220235.1_mChoDid1.pri_cds_from_genomic.fna.gz
+GCF_000299155.1	Elephantulus edwardii	28737	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/299/155/GCF_000299155.1_EleEdw1.0/GCF_000299155.1_EleEdw1.0_cds_from_genomic.fna.gz
+GCF_017311325.1	Ursus maritimus	29073	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/311/325/GCF_017311325.1_ASM1731132v1/GCF_017311325.1_ASM1731132v1_cds_from_genomic.fna.gz
+GCF_000308155.1	Eptesicus fuscus	29078	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/308/155/GCF_000308155.1_EptFus1.0/GCF_000308155.1_EptFus1.0_cds_from_genomic.fna.gz
+GCF_002201575.2	Neomonachus schauinslandi	29088	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/201/575/GCF_002201575.2_ASM220157v2/GCF_002201575.2_ASM220157v2_cds_from_genomic.fna.gz
+GCF_900497805.2	Vombatus ursinus	29139	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/497/805/GCF_900497805.2_bare-nosed_wombat_genome_assembly/GCF_900497805.2_bare-nosed wombat genome assembly_cds_from_genomic.fna.gz
+GCF_003369695.1	Bos indicus x Bos taurus	30522	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/369/695/GCF_003369695.1_UOA_Brahman_1/GCF_003369695.1_UOA_Brahman_1_cds_from_genomic.fna.gz
+GCF_000164845.3	Vicugna pacos	30538	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/164/845/GCF_000164845.3_VicPac3.1/GCF_000164845.3_VicPac3.1_cds_from_genomic.fna.gz
+GCF_000165445.2	Microcebus murinus	30608	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/165/445/GCF_000165445.2_Mmur_3.0/GCF_000165445.2_Mmur_3.0_cds_from_genomic.fna.gz
+GCF_000181295.1	Otolemur garnettii	30611	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/181/295/GCF_000181295.1_OtoGar3/GCF_000181295.1_OtoGar3_cds_from_genomic.fna.gz
+GCF_003709585.1	Acinonyx jubatus	32536	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/709/585/GCF_003709585.1_Aci_jub_2/GCF_003709585.1_Aci_jub_2_cds_from_genomic.fna.gz
+GCF_019393635.1	Dromiciops gliroides	33562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/393/635/GCF_019393635.1_mDroGli1.pri/GCF_019393635.1_mDroGli1.pri_cds_from_genomic.fna.gz
+GCF_000276665.1	Chinchilla lanigera	34839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/276/665/GCF_000276665.1_ChiLan1.0/GCF_000276665.1_ChiLan1.0_cds_from_genomic.fna.gz
+GCF_003265705.1	Callorhinus ursinus	34884	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/265/705/GCF_003265705.1_ASM326570v1/GCF_003265705.1_ASM326570v1_cds_from_genomic.fna.gz
+GCF_004028035.1	Eumetopias jubatus	34886	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/028/035/GCF_004028035.1_ASM402803v1/GCF_004028035.1_ASM402803v1_cds_from_genomic.fna.gz
+GCF_008632895.1	Mastomys coucha	35658	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/632/895/GCF_008632895.1_UCSF_Mcou_1/GCF_008632895.1_UCSF_Mcou_1_cds_from_genomic.fna.gz
+GCF_009829155.1	Mustela erminea	36723	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/829/155/GCF_009829155.1_mMusErm1.Pri/GCF_009829155.1_mMusErm1.Pri_cds_from_genomic.fna.gz
+GCF_016509475.1	Prionailurus bengalensis	37029	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/509/475/GCF_016509475.1_Fcat_Pben_1.1_paternal_pri/GCF_016509475.1_Fcat_Pben_1.1_paternal_pri_cds_from_genomic.fna.gz
+GCF_006229205.1	Suricata suricatta	37032	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/229/205/GCF_006229205.1_meerkat_22Aug2017_6uvM2_HiC/GCF_006229205.1_meerkat_22Aug2017_6uvM2_HiC_cds_from_genomic.fna.gz
+GCF_000952055.2	Aotus nancymaae	37293	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/952/055/GCF_000952055.2_Anan_2.0/GCF_000952055.2_Anan_2.0_cds_from_genomic.fna.gz
+GCF_002099425.1	Phascolarctos cinereus	38626	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/099/425/GCF_002099425.1_phaCin_unsw_v4.1/GCF_002099425.1_phaCin_unsw_v4.1_cds_from_genomic.fna.gz
+GCF_903995425.1	Onychomys torridus	38674	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/903/995/425/GCF_903995425.1_mOncTor1.1/GCF_903995425.1_mOncTor1.1_cds_from_genomic.fna.gz
+GCF_016699345.1	Saimiri boliviensis boliviensis	27679	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/699/345/GCF_016699345.1_BCM_Sbol_2.0/GCF_016699345.1_BCM_Sbol_2.0_cds_from_genomic.fna.gz
+GCF_005190385.1	Monodon monoceros	40151	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/190/385/GCF_005190385.1_NGI_Narwhal_1/GCF_005190385.1_NGI_Narwhal_1_cds_from_genomic.fna.gz
+GCF_008692025.1	Phocoena sinus	42100	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/692/025/GCF_008692025.1_mPhoSin1.pri/GCF_008692025.1_mPhoSin1.pri_cds_from_genomic.fna.gz
+GCF_000181275.1	Sorex araneus	42254	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/181/275/GCF_000181275.1_SorAra2.0/GCF_000181275.1_SorAra2.0_cds_from_genomic.fna.gz
+GCF_016881025.1	Ictidomys tridecemlineatus	43179	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/881/025/GCF_016881025.1_HiC_Itri_2/GCF_016881025.1_HiC_Itri_2_cds_from_genomic.fna.gz
+GCF_000754665.1	Bison bison bison	9901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/754/665/GCF_000754665.1_Bison_UMD1.0/GCF_000754665.1_Bison_UMD1.0_cds_from_genomic.fna.gz
+GCF_018350155.1	Leopardus geoffroyi	46844	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/350/155/GCF_018350155.1_O.geoffroyi_Oge1_pat1.0/GCF_018350155.1_O.geoffroyi_Oge1_pat1.0_cds_from_genomic.fna.gz
+GCF_014898055.1	Talpa occidentalis	50954	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/898/055/GCF_014898055.1_MPIMG_talOcc4/GCF_014898055.1_MPIMG_talOcc4_cds_from_genomic.fna.gz
+GCF_014108235.1	Myotis myotis	51298	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/108/235/GCF_014108235.1_mMyoMyo1.p/GCF_014108235.1_mMyoMyo1.p_cds_from_genomic.fna.gz
+GCF_020740685.1	Jaculus jaculus	51337	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/740/685/GCF_020740685.1_mJacJac1.mat.Y.cur/GCF_020740685.1_mJacJac1.mat.Y.cur_cds_from_genomic.fna.gz
+GCF_001984765.1	Castor canadensis	51338	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/984/765/GCF_001984765.1_C.can_genome_v1.0/GCF_001984765.1_C.can genome v1.0_cds_from_genomic.fna.gz
+GCF_009764315.1	Trachypithecus francoisi	54180	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/764/315/GCF_009764315.1_Tfra_2.0/GCF_009764315.1_Tfra_2.0_cds_from_genomic.fna.gz
+GCF_000147115.1	Myotis lucifugus	59463	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/115/GCF_000147115.1_Myoluc2.0/GCF_000147115.1_Myoluc2.0_cds_from_genomic.fna.gz
+GCF_014108245.1	Pipistrellus kuhlii	59472	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/108/245/GCF_014108245.1_mPipKuh1.p/GCF_014108245.1_mPipKuh1.p_cds_from_genomic.fna.gz
+GCF_004115265.1	Rhinolophus ferrumequinum	59479	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/115/265/GCF_004115265.1_mRhiFer1_v1.p/GCF_004115265.1_mRhiFer1_v1.p_cds_from_genomic.fna.gz
+GCF_014754425.2	Oryx dammah	59534	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/754/425/GCF_014754425.2_SCBI_Odam_1.1/GCF_014754425.2_SCBI_Odam_1.1_cds_from_genomic.fna.gz
+GCF_015252025.1	Chlorocebus sabaeus	60711	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/252/025/GCF_015252025.1_Vero_WHO_p1.0/GCF_015252025.1_Vero_WHO_p1.0_cds_from_genomic.fna.gz
+GCF_011762505.1	Arvicanthis niloticus	61156	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/762/505/GCF_011762505.1_mArvNil1.pat.X/GCF_011762505.1_mArvNil1.pat.X_cds_from_genomic.fna.gz
+GCF_007474595.2	Lynx canadensis	61383	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/474/595/GCF_007474595.2_mLynCan4.pri.v2/GCF_007474595.2_mLynCan4.pri.v2_cds_from_genomic.fna.gz
+GCF_001698545.1	Rhinopithecus bieti	61621	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/698/545/GCF_001698545.1_ASM169854v1/GCF_001698545.1_ASM169854v1_cds_from_genomic.fna.gz
+GCF_007565055.1	Rhinopithecus roxellana	61622	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/565/055/GCF_007565055.1_ASM756505v1/GCF_007565055.1_ASM756505v1_cds_from_genomic.fna.gz
+GCF_006542625.1	Nomascus leucogenys	61853	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/542/625/GCF_006542625.1_Asia_NLE_v1/GCF_006542625.1_Asia_NLE_v1_cds_from_genomic.fna.gz
+GCF_000298355.1	Bos mutus	72004	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/298/355/GCF_000298355.1_BosGru_v2.0/GCF_000298355.1_BosGru_v2.0_cds_from_genomic.fna.gz
+GCF_000283155.1	Ceratotherium simum simum	9807	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/283/155/GCF_000283155.1_CerSimSim1.0/GCF_000283155.1_CerSimSim1.0_cds_from_genomic.fna.gz
+GCF_010015895.1	Lontra canadensis	76717	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/010/015/895/GCF_010015895.1_GSC_riverotter_1.0/GCF_010015895.1_GSC_riverotter_1.0_cds_from_genomic.fna.gz
+GCF_000317375.1	Microtus ochrogaster	79684	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/317/375/GCF_000317375.1_MicOch1.0/GCF_000317375.1_MicOch1.0_cds_from_genomic.fna.gz
+GCF_009828535.2	Hylobates moloch	81572	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/828/535/GCF_009828535.2_HMol_V2/GCF_009828535.2_HMol_V2_cds_from_genomic.fna.gz
+GCF_021613505.1	Equus burchellii quagga	9790	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/021/613/505/GCF_021613505.1_ASM2161350v1/GCF_021613505.1_ASM2161350v1_cds_from_genomic.fna.gz
+GCF_019923935.1	Bubalus bubalis	89462	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/923/935/GCF_019923935.1_NDDB_SH_1/GCF_019923935.1_NDDB_SH_1_cds_from_genomic.fna.gz
+GCF_004126475.2	Phyllostomus discolor	89673	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/126/475/GCF_004126475.2_mPhyDis1.pri.v3/GCF_004126475.2_mPhyDis1.pri.v3_cds_from_genomic.fna.gz
+GCF_003676395.1	Lagenorhynchus obliquidens	90247	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/676/395/GCF_003676395.1_ASM367639v1/GCF_003676395.1_ASM367639v1_cds_from_genomic.fna.gz
+GCF_003676075.2	Marmota flaviventris	93162	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/676/075/GCF_003676075.2_GSC_YBM_2.0/GCF_003676075.2_GSC_YBM_2.0_cds_from_genomic.fna.gz
+GCF_003009895.1	Hyaena hyaena	95912	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/009/895/GCF_003009895.1_ASM300989v1/GCF_003009895.1_ASM300989v1_cds_from_genomic.fna.gz
+GCF_019054845.1	Dipodomys spectabilis	105255	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/054/845/GCF_019054845.1_ASM1905484v1/GCF_019054845.1_ASM1905484v1_cds_from_genomic.fna.gz
+GCF_000412655.1	Myotis brandtii	109478	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/412/655/GCF_000412655.1_ASM41265v1/GCF_000412655.1_ASM41265v1_cds_from_genomic.fna.gz
+GCF_018167655.1	Microtus oregoni	111838	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/167/655/GCF_018167655.1_Mior012/GCF_018167655.1_Mior012_cds_from_genomic.fna.gz
+GCF_003584765.2	Ursus arctos horribilis	9644	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/584/765/GCF_003584765.2_ASM358476v2/GCF_003584765.2_ASM358476v2_cds_from_genomic.fna.gz
+GCF_000442215.1	Lipotes vexillifer	118797	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/442/215/GCF_000442215.1_Lipotes_vexillifer_v1/GCF_000442215.1_Lipotes_vexillifer_v1_cds_from_genomic.fna.gz
+GCF_000243295.1	Trichechus manatus latirostris	9778	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/243/295/GCF_000243295.1_TriManLat1.0/GCF_000243295.1_TriManLat1.0_cds_from_genomic.fna.gz
+GCF_017591425.1	Ochotona curzoniae	130825	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/591/425/GCF_017591425.1_NIBS_Ocur_1.0/GCF_017591425.1_NIBS_Ocur_1.0_cds_from_genomic.fna.gz
+GCF_000151845.1	Pteropus vampyrus	132908	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/151/845/GCF_000151845.1_Pvam_2.0/GCF_000151845.1_Pvam_2.0_cds_from_genomic.fna.gz
+GCF_902729225.1	Pteropus giganteus	143291	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/902/729/225/GCF_902729225.1_Ma_sr-lr_union100/GCF_902729225.1_Ma_sr-lr_union100_cds_from_genomic.fna.gz
+GCF_014570555.1	Manis pentadactyla	143292	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/570/555/GCF_014570555.1_YNU_ManPten_2.0/GCF_014570555.1_YNU_ManPten_2.0_cds_from_genomic.fna.gz
+GCF_000260355.1	Condylura cristata	143302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/260/355/GCF_000260355.1_ConCri1.0/GCF_000260355.1_ConCri1.0_cds_from_genomic.fna.gz
+GCF_000296735.1	Chrysochloris asiatica	185453	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/296/735/GCF_000296735.1_ChrAsi1.0/GCF_000296735.1_ChrAsi1.0_cds_from_genomic.fna.gz
+GCF_001890085.1	Hipposideros armiger	186990	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/890/085/GCF_001890085.1_ASM189008v1/GCF_001890085.1_ASM189008v1_cds_from_genomic.fna.gz
+GCF_016433145.1	Gracilinanus agilis	191870	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/433/145/GCF_016433145.1_AgileGrace/GCF_016433145.1_AgileGrace_cds_from_genomic.fna.gz
+GCF_014824575.2	Sturnira hondurensis	192404	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/824/575/GCF_014824575.2_WHU_Shon_v2.1/GCF_014824575.2_WHU_Shon_v2.1_cds_from_genomic.fna.gz
+GCF_000327345.1	Myotis davidii	225400	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/327/345/GCF_000327345.1_ASM32734v1/GCF_000327345.1_ASM32734v1_cds_from_genomic.fna.gz
+GCF_003704035.1	Peromyscus maniculatus bairdii	10042	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/704/035/GCF_003704035.1_HU_Pman_2.1.3/GCF_003704035.1_HU_Pman_2.1.3_cds_from_genomic.fna.gz
+GCF_000334495.1	Tupaia chinensis	246437	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/334/495/GCF_000334495.1_TupChi_1.0/GCF_000334495.1_TupChi_1.0_cds_from_genomic.fna.gz
+GCF_012295265.1	Canis lupus dingo	9612	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/012/295/265/GCF_012295265.1_UNSW_AlpineDingo_1.0/GCF_012295265.1_UNSW_AlpineDingo_1.0_cds_from_genomic.fna.gz
+GCF_001595765.1	Miniopterus natalensis	291302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/595/765/GCF_001595765.1_Mnat.v1/GCF_001595765.1_Mnat.v1_cds_from_genomic.fna.gz
+GCF_000493695.1	Balaenoptera acutorostrata scammoni	9767	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/493/695/GCF_000493695.1_BalAcu1.0/GCF_000493695.1_BalAcu1.0_cds_from_genomic.fna.gz
+GCF_000951035.1	Colobus angolensis palliatus	54131	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/951/035/GCF_000951035.1_Cang.pa_1.0/GCF_000951035.1_Cang.pa_1.0_cds_from_genomic.fna.gz
+GCF_000956105.1	Propithecus coquereli	379532	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/956/105/GCF_000956105.1_Pcoq_1.0/GCF_000956105.1_Pcoq_1.0_cds_from_genomic.fna.gz
+GCF_002288905.1	Enhydra lutris kenyoni	34882	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/288/905/GCF_002288905.1_ASM228890v2/GCF_002288905.1_ASM228890v2_cds_from_genomic.fna.gz
+GCF_009834535.1	Camelus ferus	419612	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/834/535/GCF_009834535.1_BCGSAC_Cfer_1.0/GCF_009834535.1_BCGSAC_Cfer_1.0_cds_from_genomic.fna.gz
+GCF_020171115.1	Neogale vison	452646	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/171/115/GCF_020171115.1_ASM_NN_V1/GCF_020171115.1_ASM_NN_V1_cds_from_genomic.fna.gz
+GCF_000696425.1	Galeopterus variegatus	482537	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/696/425/GCF_000696425.1_G_variegatus-3.0.2/GCF_000696425.1_G_variegatus-3.0.2_cds_from_genomic.fna.gz
+GCF_004785775.1	Grammomys surdaster	491861	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/785/775/GCF_004785775.1_NIH_TR_1.0/GCF_004785775.1_NIH_TR_1.0_cds_from_genomic.fna.gz
+GCF_018345385.1	Vulpes lagopus	494514	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/345/385/GCF_018345385.1_ASM1834538v1/GCF_018345385.1_ASM1834538v1_cds_from_genomic.fna.gz
+GCF_002776525.3	Piliocolobus tephrosceles	591936	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/776/525/GCF_002776525.3_ASM277652v3/GCF_002776525.3_ASM277652v3_cds_from_genomic.fna.gz
+GCF_012274545.1	Fukomys damarensis	885580	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/012/274/545/GCF_012274545.1_DMR_v1.0_HiC/GCF_012274545.1_DMR_v1.0_HiC_cds_from_genomic.fna.gz
+GCF_000622305.1	Nannospalax galili	1026970	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/622/305/GCF_000622305.1_S.galili_v1.0/GCF_000622305.1_S.galili_v1.0_cds_from_genomic.fna.gz
+GCF_903992535.2	Arvicola amphibius	1047088	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/903/992/535/GCF_903992535.2_mArvAmp1.2/GCF_903992535.2_mArvAmp1.2_cds_from_genomic.fna.gz
+GCF_000298275.1	Orycteropus afer afer	9818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/298/275/GCF_000298275.1_OryAfe1.0/GCF_000298275.1_OryAfe1.0_cds_from_genomic.fna.gz
+GCF_019320065.1	Cervus canadensis	1574408	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/320/065/GCF_019320065.1_ASM1932006v1/GCF_019320065.1_ASM1932006v1_cds_from_genomic.fna.gz
+GCF_014898765.1	Puma yagouaroundi	1608482	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/898/765/GCF_014898765.1_PumYag/GCF_014898765.1_PumYag_cds_from_genomic.fna.gz
+GCF_003031525.2	Neophocaena asiaeorientalis asiaeorientalis	189058	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/031/525/GCF_003031525.2_Neophocaena_asiaeorientalis_V1/GCF_003031525.2_Neophocaena_asiaeorientalis_V1_cds_from_genomic.fna.gz
+GCF_000164805.1	Carlito syrichta	1868482	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/164/805/GCF_000164805.1_Tarsius_syrichta-2.0.1/GCF_000164805.1_Tarsius_syrichta-2.0.1_cds_from_genomic.fna.gz
+GCF_001604975.1	Cebus imitator	2715852	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/604/975/GCF_001604975.1_Cebus_imitator-1.0/GCF_001604975.1_Cebus_imitator-1.0_cds_from_genomic.fna.gz

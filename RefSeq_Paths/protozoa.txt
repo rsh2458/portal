@@ -1,0 +1,98 @@
+#   See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt for a description of the columns in this file.			/#   See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt for a description of the columns in this file.__cds_from_genomic.fna.gz
+# assembly_accession	organism_name	species_taxid	ftp_path/# assembly_accession_asm_name_cds_from_genomic.fna.gz
+GCF_000194455.1	Cryptomonas paramecium	2898	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/194/455/GCF_000194455.1_ASM19445v1/GCF_000194455.1_ASM19445v1_cds_from_genomic.fna.gz
+GCF_900000015.1	Plasmopara halstedii	4781	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/000/015/GCF_900000015.1_Plasmopara_halstedii_genome/GCF_900000015.1_Plasmopara halstedii genome_cds_from_genomic.fna.gz
+GCF_000227135.1	Leishmania donovani	5661	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/227/135/GCF_000227135.1_ASM22713v2/GCF_000227135.1_ASM22713v2_cds_from_genomic.fna.gz
+GCF_000755165.1	Leishmania panamensis	5679	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/755/165/GCF_000755165.1_ASM75516v1/GCF_000755165.1_ASM75516v1_cds_from_genomic.fna.gz
+GCF_003719475.1	Trypanosoma rangeli	5698	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/719/475/GCF_003719475.1_ASM371947v1/GCF_003719475.1_ASM371947v1_cds_from_genomic.fna.gz
+GCF_000002435.2	Giardia intestinalis	5741	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/435/GCF_000002435.2_UU_WB_2.1/GCF_000002435.2_UU_WB_2.1_cds_from_genomic.fna.gz
+GCF_000004985.1	Naegleria gruberi	5762	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/985/GCF_000004985.1_V1.0/GCF_000004985.1_V1.0_cds_from_genomic.fna.gz
+GCF_008403515.1	Naegleria fowleri	5763	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/403/515/GCF_008403515.1_ASM840351v1/GCF_008403515.1_ASM840351v1_cds_from_genomic.fna.gz
+GCF_000190715.1	Dictyostelium purpureum	5786	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/190/715/GCF_000190715.1_v1.0/GCF_000190715.1_v1.0_cds_from_genomic.fna.gz
+GCF_000499425.1	Eimeria acervulina	5801	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/499/425/GCF_000499425.1_EAH001/GCF_000499425.1_EAH001_cds_from_genomic.fna.gz
+GCF_000499545.2	Eimeria tenella	5802	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/499/545/GCF_000499545.2_ETH001/GCF_000499545.2_ETH001_cds_from_genomic.fna.gz
+GCF_000499605.1	Eimeria maxima	5804	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/499/605/GCF_000499605.1_EMW001/GCF_000499605.1_EMW001_cds_from_genomic.fna.gz
+GCF_900002375.2	Plasmodium berghei ANKA	5821	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/002/375/GCF_900002375.2_GCA_900002375/GCF_900002375.2_GCA_900002375_cds_from_genomic.fna.gz
+GCF_900005855.1	Plasmodium gallinaceum	5849	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/005/855/GCF_900005855.1_PGAL8A/GCF_900005855.1_PGAL8A_cds_from_genomic.fna.gz
+GCF_000006355.2	Plasmodium knowlesi strain H	5850	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/355/GCF_000006355.2_GCA_000006355.2/GCF_000006355.2_GCA_000006355.2_cds_from_genomic.fna.gz
+GCF_001601855.1	Plasmodium reichenowi	5854	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/601/855/GCF_001601855.1_ASM160185v1/GCF_001601855.1_ASM160185v1_cds_from_genomic.fna.gz
+GCF_000002415.2	Plasmodium vivax	5855	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/415/GCF_000002415.2_ASM241v2/GCF_000002415.2_ASM241v2_cds_from_genomic.fna.gz
+GCF_000956335.1	Plasmodium fragile	5857	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/956/335/GCF_000956335.1_Plas_frag_nilgiri_V1/GCF_000956335.1_Plas_frag_nilgiri_V1_cds_from_genomic.fna.gz
+GCF_900090045.1	Plasmodium malariae	5858	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/090/045/GCF_900090045.1_PmUG01/GCF_900090045.1_PmUG01_cds_from_genomic.fna.gz
+GCF_900002385.2	Plasmodium yoelii	5861	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/002/385/GCF_900002385.2_GCA_900002385/GCF_900002385.2_GCA_900002385_cds_from_genomic.fna.gz
+GCF_000981445.1	Babesia bigemina	5866	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/981/445/GCF_000981445.1_Bbig001/GCF_000981445.1_Bbig001_cds_from_genomic.fna.gz
+GCF_000003225.4	Theileria annulata	5874	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/225/GCF_000003225.4_ASM322v1/GCF_000003225.4_ASM322v1_cds_from_genomic.fna.gz
+GCF_000220395.1	Ichthyophthirius multifiliis	5932	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/220/395/GCF_000220395.1_JCVI-IMG1-V.1/GCF_000220395.1_JCVI-IMG1-V.1_cds_from_genomic.fna.gz
+GCF_000151665.1	Blastocystis hominis	12968	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/151/665/GCF_000151665.1_ASM15166v1/GCF_000151665.1_ASM15166v1_cds_from_genomic.fna.gz
+GCF_900002335.2	Plasmodium chabaudi chabaudi	5825	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/002/335/GCF_900002335.2_PCHAS01/GCF_900002335.2_PCHAS01_cds_from_genomic.fna.gz
+GCF_000002765.5	Plasmodium falciparum 3D7	5833	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/765/GCF_000002765.5_GCA_000002765/GCF_000002765.5_GCA_000002765_cds_from_genomic.fna.gz
+GCF_000186865.1	Aureococcus anophagefferens	44056	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/186/865/GCF_000186865.1_v_1.0/GCF_000186865.1_v 1.0_cds_from_genomic.fna.gz
+GCF_000499745.2	Eimeria mitis	44415	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/499/745/GCF_000499745.2_EMH001/GCF_000499745.2_EMH001_cds_from_genomic.fna.gz
+GCF_000499385.1	Eimeria necatrix	51315	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/499/385/GCF_000499385.1_ENH001/GCF_000499385.1_ENH001_cds_from_genomic.fna.gz
+GCF_003324165.1	Naegleria lovaniensis	51637	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/324/165/GCF_003324165.1_Nlova_2.1/GCF_003324165.1_Nlova_2.1_cds_from_genomic.fna.gz
+GCF_900681995.1	Plasmodium vinckei vinckei	5860	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/681/995/GCF_900681995.1_PVVCY_v1/GCF_900681995.1_PVVCY_v1_cds_from_genomic.fna.gz
+GCF_000002975.1	Guillardia theta	55529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/975/GCF_000002975.1_ASM297v1/GCF_000002975.1_ASM297v1_cds_from_genomic.fna.gz
+GCF_002087225.1	Trypanosoma theileri	67003	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/087/225/GCF_002087225.1_Tth_v3/GCF_002087225.1_Tth v3_cds_from_genomic.fna.gz
+GCF_000149755.1	Phytophthora sojae	67593	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/149/755/GCF_000149755.1_P.sojae_V3.0/GCF_000149755.1_P.sojae V3.0_cds_from_genomic.fna.gz
+GCF_000691245.1	Trypanosoma grayi	71804	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/691/245/GCF_000691245.1_Tgr_V1/GCF_000691245.1_Tgr_V1_cds_from_genomic.fna.gz
+GCF_002157705.1	Plasmodium gonderi	77519	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/157/705/GCF_002157705.1_Pgonderi_assembly01/GCF_002157705.1_Pgonderi_assembly01_cds_from_genomic.fna.gz
+GCF_003719485.1	Trypanosoma conorhini	83891	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/719/485/GCF_003719485.1_ASM371948v1/GCF_003719485.1_ASM371948v1_cds_from_genomic.fna.gz
+GCF_900005765.1	Plasmodium relictum	85471	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/005/765/GCF_900005765.1_PRELSG/GCF_900005765.1_PRELSG_cds_from_genomic.fna.gz
+GCF_002999335.1	Cyclospora cayetanensis	88456	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/999/335/GCF_002999335.1_CcayRef3/GCF_002999335.1_CcayRef3_cds_from_genomic.fna.gz
+GCF_002563875.1	Besnoitia besnoiti	94643	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/563/875/GCF_002563875.1_Bbes1.0/GCF_002563875.1_Bbes1.0_cds_from_genomic.fna.gz
+GCF_000223845.1	Gregarina niphandrodes	110365	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/223/845/GCF_000223845.1_GNI3/GCF_000223845.1_GNI3_cds_from_genomic.fna.gz
+GCF_000520075.1	Aphanomyces astaci	112090	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/520/075/GCF_000520075.1_Apha_asta_APO3_V1/GCF_000520075.1_Apha_asta_APO3_V1_cds_from_genomic.fna.gz
+GCF_000520115.1	Aphanomyces invadans	157072	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/520/115/GCF_000520115.1_Apha_inva_NJM9701_V1/GCF_000520115.1_Apha_inva_NJM9701_V1_cds_from_genomic.fna.gz
+GCF_001293395.1	Leptomonas pyrrhocoris	157538	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/293/395/GCF_001293395.1_ASM129339v1/GCF_001293395.1_ASM129339v1_cds_from_genomic.fna.gz
+GCF_000002445.2	Trypanosoma brucei brucei TREU927	5691	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/445/GCF_000002445.2_ASM244v1/GCF_000002445.2_ASM244v1_cds_from_genomic.fna.gz
+GCF_002897235.1	Babesia ovata	189622	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/897/235/GCF_002897235.1_Bovata_7.1/GCF_002897235.1_Bovata_7.1_cds_from_genomic.fna.gz
+GCF_001680005.1	Plasmodium coatneyi	208452	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/680/005/GCF_001680005.1_ASM168000v1/GCF_001680005.1_ASM168000v1_cds_from_genomic.fna.gz
+GCF_000002455.1	Bigelowiella natans	227086	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/455/GCF_000002455.1_ASM245v1/GCF_000002455.1_ASM245v1_cds_from_genomic.fna.gz
+GCF_000203815.1	Cavenderia fasciculata	261658	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/203/815/GCF_000203815.1_DFas_2.0/GCF_000203815.1_DFas_2.0_cds_from_genomic.fna.gz
+GCF_000372725.1	Emiliania huxleyi CCMP1516	2903	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/372/725/GCF_000372725.1_Emiliana_huxleyi_CCMP1516_main_genome_assembly_v1.0/GCF_000372725.1_Emiliana huxleyi CCMP1516 main genome assembly v1.0_cds_from_genomic.fna.gz
+GCF_000208925.1	Entamoeba histolytica HM-1:IMSS	5759	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/925/GCF_000208925.1_JCVI_ESG2_1.0/GCF_000208925.1_JCVI-ESG2-1.0_cds_from_genomic.fna.gz
+GCF_000149405.2	Thalassiosira pseudonana CCMP1335	35128	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/149/405/GCF_000149405.2_ASM14940v2/GCF_000149405.2_ASM14940v2_cds_from_genomic.fna.gz
+GCF_000189635.1	Tetrahymena thermophila SB210	5911	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/189/635/GCF_000189635.1_JCVI-TTA1-2.2/GCF_000189635.1_JCVI-TTA1-2.2_cds_from_genomic.fna.gz
+GCF_000165365.1	Theileria parva strain Muguga	5875	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/165/365/GCF_000165365.1_ASM16536v1/GCF_000165365.1_ASM16536v1_cds_from_genomic.fna.gz
+GCF_000002725.2	Leishmania major strain Friedlin	5664	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/725/GCF_000002725.2_ASM272v2/GCF_000002725.2_ASM272v2_cds_from_genomic.fna.gz
+GCF_000004695.1	Dictyostelium discoideum AX4	44689	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/695/GCF_000004695.1_dicty_2.7/GCF_000004695.1_dicty_2.7_cds_from_genomic.fna.gz
+GCF_000006425.1	Cryptosporidium hominis TU502	237895	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/425/GCF_000006425.1_ASM642v1/GCF_000006425.1_ASM642v1_cds_from_genomic.fna.gz
+GCF_000165345.1	Cryptosporidium parvum Iowa II	5807	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/165/345/GCF_000165345.1_ASM16534v1/GCF_000165345.1_ASM16534v1_cds_from_genomic.fna.gz
+GCF_000209065.1	Trypanosoma cruzi strain CL Brener	5693	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/209/065/GCF_000209065.1_ASM20906v1/GCF_000209065.1_ASM20906v1_cds_from_genomic.fna.gz
+GCF_000209125.1	Entamoeba dispar SAW760	46681	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/209/125/GCF_000209125.1_JCVI_EDISG_1.0/GCF_000209125.1_JCVI_EDISG_1.0_cds_from_genomic.fna.gz
+GCF_000330505.1	Entamoeba invadens IP1	33085	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/330/505/GCF_000330505.1_EIA2_v2/GCF_000330505.1_EIA2 v2_cds_from_genomic.fna.gz
+GCF_000142945.1	Phytophthora infestans T30-4	4787	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/142/945/GCF_000142945.1_ASM14294v1/GCF_000142945.1_ASM14294v1_cds_from_genomic.fna.gz
+GCF_000141845.1	Paramecium tetraurelia strain d4-2	5888	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/141/845/GCF_000141845.1_ASM14184v1/GCF_000141845.1_ASM14184v1_cds_from_genomic.fna.gz
+GCF_000165425.1	Paramecium tetraurelia strain d4-2	5888	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/165/425/GCF_000165425.1_ASM16542v1/GCF_000165425.1_ASM16542v1_cds_from_genomic.fna.gz
+GCF_000002825.2	Trichomonas vaginalis G3	5722	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/825/GCF_000002825.2_ASM282v1/GCF_000002825.2_ASM282v1_cds_from_genomic.fna.gz
+GCF_000002845.2	Leishmania braziliensis MHOM/BR/75/M2904	5660	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/845/GCF_000002845.2_ASM284v2/GCF_000002845.2_ASM284v2_cds_from_genomic.fna.gz
+GCF_000006405.1	Perkinsus marinus ATCC 50983	31276	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/405/GCF_000006405.1_JCVI_PMG_1.0/GCF_000006405.1_JCVI_PMG_1.0_cds_from_genomic.fna.gz
+GCF_000002875.2	Leishmania infantum JPCM5	5671	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/875/GCF_000002875.2_ASM287v2/GCF_000002875.2_ASM287v2_cds_from_genomic.fna.gz
+GCF_000006515.1	Cryptosporidium muris RN66	5808	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/515/GCF_000006515.1_JCVI_cmg_v1.0/GCF_000006515.1_JCVI-cmg-v1.0_cds_from_genomic.fna.gz
+GCF_000142905.1	Thecamonas trahens ATCC 50062	529818	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/142/905/GCF_000142905.1_TheTra_May2010/GCF_000142905.1_TheTra_May2010_cds_from_genomic.fna.gz
+GCF_002095265.1	Babesia sp. Xinjiang	462227	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/095/265/GCF_002095265.1_B_xinjiang1.0/GCF_002095265.1_B_xinjiang1.0_cds_from_genomic.fna.gz
+GCF_000018645.1	Hemiselmis andersenii	464988	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/018/645/GCF_000018645.1_ASM1864v1/GCF_000018645.1_ASM1864v1_cds_from_genomic.fna.gz
+GCF_000165395.1	Babesia bovis T2Bo	5865	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/165/395/GCF_000165395.1_ASM16539v1/GCF_000165395.1_ASM16539v1_cds_from_genomic.fna.gz
+GCF_000006565.2	Toxoplasma gondii ME49	5811	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/565/GCF_000006565.2_TGA4/GCF_000006565.2_TGA4_cds_from_genomic.fna.gz
+GCF_000150955.2	Phaeodactylum tricornutum CCAP 1055/1	2850	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/150/955/GCF_000150955.2_ASM15095v2/GCF_000150955.2_ASM15095v2_cds_from_genomic.fna.gz
+GCF_000208865.1	Neospora caninum Liverpool	29176	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/865/GCF_000208865.1_ASM20886v2/GCF_000208865.1_ASM20886v2_cds_from_genomic.fna.gz
+GCF_001602025.1	Plasmodium gaboni	647221	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/025/GCF_001602025.1_ASM160202v1/GCF_001602025.1_ASM160202v1_cds_from_genomic.fna.gz
+GCF_000004825.1	Heterostelium album PN500	2086695	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/825/GCF_000004825.1_PolPal_Dec2009/GCF_000004825.1_PolPal_Dec2009_cds_from_genomic.fna.gz
+GCF_000210295.1	Trypanosoma brucei gambiense DAL972	5691	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/210/295/GCF_000210295.1_ASM21029v1/GCF_000210295.1_ASM21029v1_cds_from_genomic.fna.gz
+GCF_000151545.1	Saprolegnia parasitica CBS 223.65	101203	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/151/545/GCF_000151545.1_ASM15154v2/GCF_000151545.1_ASM15154v2_cds_from_genomic.fna.gz
+GCF_000247585.1	Phytophthora parasitica INRA-310	4792	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/247/585/GCF_000247585.1_PP_INRA-310_V2/GCF_000247585.1_PP_INRA-310_V2_cds_from_genomic.fna.gz
+GCF_001865345.1	Cryptosporidium ubiquitum	857276	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/865/345/GCF_001865345.1_ASM186534v1/GCF_001865345.1_ASM186534v1_cds_from_genomic.fna.gz
+GCF_000740895.1	Theileria orientalis strain Shintoku	68886	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/740/895/GCF_000740895.1_ASM74089v1/GCF_000740895.1_ASM74089v1_cds_from_genomic.fna.gz
+GCF_900097015.1	Plasmodium sp. gorilla clade G2	880535	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/097/015/GCF_900097015.1_PADLG01/GCF_900097015.1_PADLG01_cds_from_genomic.fna.gz
+GCF_000315625.1	Guillardia theta CCMP2712	55529	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/315/625/GCF_000315625.1_Guith1/GCF_000315625.1_Guith1_cds_from_genomic.fna.gz
+GCF_000234665.1	Leishmania mexicana MHOM/GT/2001/U1103	5665	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/234/665/GCF_000234665.1_ASM23466v4/GCF_000234665.1_ASM23466v4_cds_from_genomic.fna.gz
+GCF_000743755.1	Blastocystis sp. subtype 4	944170	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/743/755/GCF_000743755.1_ASM74375v1/GCF_000743755.1_ASM74375v1_cds_from_genomic.fna.gz
+GCF_000257125.1	Entamoeba nuttalli P19	412467	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/257/125/GCF_000257125.1_ENU1_v1/GCF_000257125.1_ENU1 v1_cds_from_genomic.fna.gz
+GCF_000240725.1	Nannochloropsis gaditana CCMP526	72520	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/240/725/GCF_000240725.1_ASM24072v1/GCF_000240725.1_ASM24072v1_cds_from_genomic.fna.gz
+GCF_000321355.1	Plasmodium cynomolgi strain B	5827	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/321/355/GCF_000321355.1_PcynB_1.0/GCF_000321355.1_PcynB_1.0_cds_from_genomic.fna.gz
+GCF_000691945.2	Babesia microti strain RI	5868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/691/945/GCF_000691945.2_ASM69194v2/GCF_000691945.2_ASM69194v2_cds_from_genomic.fna.gz
+GCF_000281045.1	Saprolegnia diclina VS20	112098	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/281/045/GCF_000281045.1_Sap_diclina_VS20_V1/GCF_000281045.1_Sap_diclina_VS20_V1_cds_from_genomic.fna.gz
+GCF_000524495.1	Plasmodium inui San Antonio 1	52288	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/524/495/GCF_000524495.1_Plas_inui_San_Antonio_1_V1/GCF_000524495.1_Plas_inui_San_Antonio_1_V1_cds_from_genomic.fna.gz
+GCF_000313135.1	Acanthamoeba castellanii str. Neff	5755	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/313/135/GCF_000313135.1_Acastellanii.strNEFF_v1/GCF_000313135.1_Acastellanii.strNEFF v1_cds_from_genomic.fna.gz
+GCF_000787575.1	Acytostelium subglobosum LB1	361139	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/787/575/GCF_000787575.1_Asub_2.0/GCF_000787575.1_Asub_2.0_cds_from_genomic.fna.gz
+GCF_000342415.1	Theileria equi strain WA	5872	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/342/415/GCF_000342415.1_JCVI-bewag-v1.1/GCF_000342415.1_JCVI-bewag-v1.1_cds_from_genomic.fna.gz
